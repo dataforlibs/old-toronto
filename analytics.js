@@ -38,10 +38,94 @@ async function getGeo() {
 
   // Try multiple geo providers in order
   const providers = [
+    // ipinfo.io — CORS-friendly, works from browsers on HTTPS
     async () => {
-      const res = await fetch('https://ipapi.co/json/', {
-        signal: AbortSignal.timeout(5000),
-      });
+      const res = await fetch('https://ipinfo.io/json', { signal: AbortSignal.timeout(5000) });
+      if (!res.ok) throw new Error('ipinfo failed');
+      const d = await res.json();
+      // ipinfo returns loc as "lat,lng" string
+      const [lat, lng] = (d.loc || '').split(',').map(Number);
+      return {
+        country: d.country || null,  // ipinfo only returns country code, use it for both
+        country_code: d.country || null,
+        city: d.city || null,
+        region: d.region || null,
+        lat: isNaN(lat) ? null : lat,
+        lng: isNaN(lng) ? null : lng,
+      };
+    },
+    // geolocation-db.com — fallback, also CORS-friendly
+    async () => {
+      const res = await fetch('https://geolocation-db.com/json/', { signal: AbortSignal.timeout(5000) });
+      if (!res.ok) throw new Error('geolocation-db failed');
+      const d = await res.json();
+      return {
+        country: d.country_name || null,
+        country_code: d.country_code || null,
+        city: d.city || null,
+        region: null,
+        lat: typeof d.latitude === 'number' ? d.latitude : null,
+        lng: typeof d.longitude === 'number' ? d.longitude : null,
+      };
+    },
+  ]rt { SUPABASE_URL, SUPABASE_ANON_KEY } from './config';
+
+const isConfigured = () => !!(SUPABASE_URL && SUPABASE_ANON_KEY);
+
+function getSessionId() {
+  let sid = sessionStorage.getItem('_ot_sid');
+  if (!sid) {
+    sid = Math.random().toString(36).slice(2) + Date.now().toString(36);
+    sessionStorage.setItem('_ot_sid', sid);
+  }
+  return sid;
+}
+
+function getDeviceType() {
+  const w = window.innerWidth;
+  if (w < 768) return 'mobile';
+  if (w < 1024) return 'tablet';
+  return 'desktop';
+}
+
+function getBrowser() {
+  const ua = navigator.userAgent;
+  if (ua.includes('Firefox')) return 'Firefox';
+  if (ua.includes('Edg/')) return 'Edge';
+  if (ua.includes('Chrome')) return 'Chrome';
+  if (ua.includes('Safari')) return 'Safari';
+  return 'Other';
+}
+
+// ── Geo lookup ───────────────────────────────────────────────────────────────
+// Cached per session in sessionStorage so we only call ipapi once per session.
+async function getGeo() {
+  // Try session cache first
+  const cached = sessionStorage.getItem('_ot_geo');
+  if (cached) {
+    try { return JSON.parse(cached); } catch {}
+  }
+
+  // Try multiple geo providers in order
+  const providers = [
+    // ipwho.is — free, HTTPS, CORS-friendly
+    async () => {
+      const res = await fetch('https://ipwho.is/', { signal: AbortSignal.timeout(5000) });
+      if (!res.ok) throw new Error('ipwho failed');
+      const d = await res.json();
+      if (!d.success) throw new Error(d.message || 'ipwho error');
+      return {
+        country: d.country || null,
+        country_code: d.country_code || null,
+        city: d.city || null,
+        region: d.region || null,
+        lat: typeof d.latitude === 'number' ? d.latitude : parseFloat(d.latitude) || null,
+        lng: typeof d.longitude === 'number' ? d.longitude : parseFloat(d.longitude) || null,
+      };
+    },
+    // ipapi.co — fallback
+    async () => {
+      const res = await fetch('https://ipapi.co/json/', { signal: AbortSignal.timeout(5000) });
       if (!res.ok) throw new Error('ipapi failed');
       const d = await res.json();
       if (d.error) throw new Error(d.reason || 'ipapi error');
@@ -54,23 +138,21 @@ async function getGeo() {
         lng: typeof d.longitude === 'number' ? d.longitude : parseFloat(d.longitude) || null,
       };
     },
+    // freeipapi.com — second fallback
     async () => {
-      const res = await fetch('https://ip-api.com/json/?fields=status,country,countryCode,regionName,city,lat,lon', {
-        signal: AbortSignal.timeout(5000),
-      });
-      if (!res.ok) throw new Error('ip-api failed');
+      const res = await fetch('https://freeipapi.com/api/json', { signal: AbortSignal.timeout(5000) });
+      if (!res.ok) throw new Error('freeipapi failed');
       const d = await res.json();
-      if (d.status !== 'success') throw new Error('ip-api status failed');
       return {
-        country: d.country || null,
+        country: d.countryName || null,
         country_code: d.countryCode || null,
-        city: d.city || null,
+        city: d.cityName || null,
         region: d.regionName || null,
-        lat: typeof d.lat === 'number' ? d.lat : null,
-        lng: typeof d.lon === 'number' ? d.lon : null,
+        lat: typeof d.latitude === 'number' ? d.latitude : null,
+        lng: typeof d.longitude === 'number' ? d.longitude : null,
       };
     },
-  ];
+  ]
 
   for (const provider of providers) {
     try {
