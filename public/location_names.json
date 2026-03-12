@@ -1,0 +1,6416 @@
+{
+ "43.626657,-79.394677": {
+  "name": "Crowds waiting to board ferry to Toronto Island",
+  "source": "oldto_exact"
+ },
+ "43.628631,-79.415728": {
+  "name": "Ontario Place",
+  "source": "oldto_exact"
+ },
+ "43.631648,-79.371780": {
+  "name": "Ice boats [Toronto harbour?]",
+  "source": "oldto_exact"
+ },
+ "43.632699,-79.332410": {
+  "name": "City skyline seen from Leslie Street Spit",
+  "source": "oldto_exact"
+ },
+ "43.640544,-79.338266": {
+  "name": "Cherry Beach",
+  "source": "oldto_exact"
+ },
+ "43.646843,-79.376951": {
+  "name": "Congestion caused by double parking, Front St, west of Yonge, (Executive Department)",
+  "source": "oldto_exact"
+ },
+ "43.646964,-79.377136": {
+  "name": "Congestion caused by double parking, Front St, west of Yonge, (Executive Department)",
+  "source": "oldto_proximity"
+ },
+ "43.648670,-79.457798": {
+  "name": "Parkside Drive south of Howard Park, Grading hill",
+  "source": "oldto_exact"
+ },
+ "43.648758,-79.396276": {
+  "name": "Spadina Avenue, looking south from Queen Street",
+  "source": "oldto_exact"
+ },
+ "43.650649,-79.387435": {
+  "name": "North side of Queen Street West between Simcoe Street and University Avenue",
+  "source": "oldto_exact"
+ },
+ "43.650864,-79.386434": {
+  "name": "141-147 Queen Street West",
+  "source": "oldto_proximity"
+ },
+ "43.651053,-79.378688": {
+  "name": "Yonge Street, looking north from Temperance Street",
+  "source": "oldto_exact"
+ },
+ "43.653873,-79.451805": {
+  "name": "Roncesvalles Avenue and Dundas Street looking north",
+  "source": "oldto_exact"
+ },
+ "43.655014,-79.367163": {
+  "name": "274 Queen Street East, corner Ontario Street — Ontario Barber Shop",
+  "source": "oldto_exact"
+ },
+ "43.659884,-79.390349": {
+  "name": "University Avenue south of College Street",
+  "source": "oldto_exact"
+ },
+ "43.661939,-79.374400": {
+  "name": "Horticultural Gardens (Allan Gardens) from rosary",
+  "source": "oldto_exact"
+ },
+ "43.678022,-79.443084": {
+  "name": "St. Clair Avenue West, looking east from Dufferin Street",
+  "source": "oldto_exact"
+ },
+ "43.702361,-79.238813": {
+  "name": "Scarborough Bluffs point",
+  "source": "oldto_exact"
+ },
+ "43.620823,-79.378091": {
+  "name": "Middle Island",
+  "source": "wikidata",
+  "qid": "Q130757602",
+  "description": "island in the Toronto Islands archipelago"
+ },
+ "43.622545,-79.374705": {
+  "name": "Olympic Island",
+  "source": "wikidata",
+  "qid": "Q22614766",
+  "description": "island in Ontario, Canada"
+ },
+ "43.630687,-79.423991": {
+  "name": "Scadding Cabin",
+  "source": "wikidata",
+  "qid": "Q28163083",
+  "description": "historic site in Ontario, Canada"
+ },
+ "43.631247,-79.473623": {
+  "name": "The Palace Pier",
+  "source": "wikidata",
+  "qid": "Q1663698",
+  "description": "site of two towers in Toronto, Ontario, Canada"
+ },
+ "43.633019,-79.420986": {
+  "name": "CNE Music Building",
+  "source": "wikidata",
+  "qid": "Q124858640"
+ },
+ "43.633057,-79.422565": {
+  "name": "CNE Press Building",
+  "source": "wikidata",
+  "qid": "Q124858812"
+ },
+ "43.633534,-79.425276": {
+  "name": "Government Building",
+  "source": "wikidata",
+  "qid": "Q25351788",
+  "description": "exhibition building in Toronto"
+ },
+ "43.633771,-79.410513": {
+  "name": "Liberty Grand Building",
+  "source": "wikidata",
+  "qid": "Q17000089",
+  "description": "exhibition building, Special event space in Exhibition Place"
+ },
+ "43.634352,-79.425785": {
+  "name": "Dufferin Gate Loop",
+  "source": "wikidata",
+  "qid": "Q18150294",
+  "description": "bus station and streetcar turning loop in Toronto, Ontario, Canada"
+ },
+ "43.634503,-79.408670": {
+  "name": "Princes' Gates",
+  "source": "wikidata",
+  "qid": "Q21188750",
+  "description": "triumphal arch and a monumental gateway at Exhibition Place in Toronto, Ontario, Canada"
+ },
+ "43.634573,-79.419569": {
+  "name": "Pure Food Building",
+  "source": "wikidata",
+  "qid": "Q17111610",
+  "description": "display hall at the Canadian National Exhibition"
+ },
+ "43.634971,-79.399720": {
+  "name": "Maple Leaf Stadium",
+  "source": "wikidata",
+  "qid": "Q13640342",
+  "description": "former baseball stadium in Toronto, Canada"
+ },
+ "43.636412,-79.399693": {
+  "name": "Monument to the War of 1812",
+  "source": "wikidata",
+  "qid": "Q55623705",
+  "description": "public sculpture in Toronto, Ontario, Canada"
+ },
+ "43.636795,-79.399886": {
+  "name": "Monument to the War of 1812",
+  "source": "wikidata",
+  "qid": "Q55623705",
+  "description": "public sculpture in Toronto, Ontario, Canada"
+ },
+ "43.638155,-79.381968": {
+  "name": "The Power Plant",
+  "source": "wikidata",
+  "qid": "Q7757923",
+  "description": "art gallery in Toronto, Ontario, Canada"
+ },
+ "43.638411,-79.406903": {
+  "name": "The Bentway",
+  "source": "wikidata",
+  "qid": "Q24897829",
+  "description": "public space in Toronto"
+ },
+ "43.638826,-79.425190": {
+  "name": "EcoSpark",
+  "source": "wikidata",
+  "qid": "Q30255831",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.638838,-79.403263": {
+  "name": "Fort York",
+  "source": "wikidata",
+  "qid": "Q204083",
+  "description": "historic site in Toronto, Canada"
+ },
+ "43.638943,-79.427359": {
+  "name": "Metallic Roofing Company Offices",
+  "source": "wikidata",
+  "qid": "Q23647580",
+  "description": "commercial building in Toronto, Ontario, Canada"
+ },
+ "43.639475,-79.436178": {
+  "name": "Parkdale Collegiate Institute",
+  "source": "wikidata",
+  "qid": "Q7138214",
+  "description": "high school in Toronto, Ontario, Canada"
+ },
+ "43.639582,-79.431900": {
+  "name": "St. John's Cathedral",
+  "source": "wikidata",
+  "qid": "Q913830",
+  "description": "cathedral in Toronto"
+ },
+ "43.639592,-79.382782": {
+  "name": "Studio Theatre",
+  "source": "wikidata",
+  "qid": "Q126487164",
+  "description": "performance hall inside the Main Building of Harbourfront Centre in Toronto, Canada"
+ },
+ "43.640362,-79.459996": {
+  "name": "Colborne Lodge",
+  "source": "wikidata",
+  "qid": "Q5141957",
+  "description": "historic house museum in Ontario, Canada"
+ },
+ "43.640529,-79.534755": {
+  "name": "Islington-City Centre West",
+  "source": "wikidata",
+  "qid": "Q6084325",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.640752,-79.401418": {
+  "name": "Bathurst Street Bridge",
+  "source": "wikidata",
+  "qid": "Q4869132",
+  "description": "bridge in Toronto, Canada"
+ },
+ "43.641308,-79.385245": {
+  "name": "Toronto Railway Museum",
+  "source": "wikidata",
+  "qid": "Q7826486",
+  "description": "a railroad museum in Toronto"
+ },
+ "43.641511,-79.385018": {
+  "name": "Toronto Railway Museum",
+  "source": "wikidata",
+  "qid": "Q7826486",
+  "description": "a railroad museum in Toronto"
+ },
+ "43.641642,-79.389235": {
+  "name": "1995 NBA Draft",
+  "source": "wikidata",
+  "qid": "Q766729",
+  "description": "basketball player selection"
+ },
+ "43.641960,-79.374670": {
+  "name": "One Yonge Street",
+  "source": "wikidata",
+  "qid": "Q7093438",
+  "description": "Office and condo development"
+ },
+ "43.641965,-79.352559": {
+  "name": "Polson Pier",
+  "source": "wikidata",
+  "qid": "Q7226027",
+  "description": "multi-purpose entertainment complex in Toronto, Ontario"
+ },
+ "43.642501,-79.387115": {
+  "name": "CN Tower",
+  "source": "wikidata",
+  "qid": "Q134883",
+  "description": "communications and observation tower in Toronto, Canada"
+ },
+ "43.642671,-79.400285": {
+  "name": "Church of St. John the Evangelist",
+  "source": "wikidata",
+  "qid": "Q123774403",
+  "description": "church in Toronto, Canada"
+ },
+ "43.642716,-79.394035": {
+  "name": "The Well",
+  "source": "wikidata",
+  "qid": "Q124484720",
+  "description": "Mixed-use skyscraper in Toronto, Canada"
+ },
+ "43.643018,-79.399480": {
+  "name": "Church of St. John the Evangelist",
+  "source": "wikidata",
+  "qid": "Q123774403",
+  "description": "church in Toronto, Canada"
+ },
+ "43.643513,-79.379100": {
+  "name": "Scotiabank Arena",
+  "source": "wikidata",
+  "qid": "Q406972",
+  "description": "indoor arena in Toronto, Canada"
+ },
+ "43.643565,-79.462698": {
+  "name": "High Park Zoo",
+  "source": "wikidata",
+  "qid": "Q53336437",
+  "description": "small public zoo in High Park, Toronto, Ontario, Canada"
+ },
+ "43.643904,-79.402670": {
+  "name": "State Theatre",
+  "source": "wikidata",
+  "qid": "Q38372072",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.643985,-79.388661": {
+  "name": "Three Hundred",
+  "source": "wikidata",
+  "qid": "Q102157525"
+ },
+ "43.644691,-79.380348": {
+  "name": "Union Station",
+  "source": "wikidata",
+  "qid": "Q511316",
+  "description": "railway station in Toronto, Ontario, Canada"
+ },
+ "43.644702,-79.416279": {
+  "name": "Prime Seafood Palace",
+  "source": "wikidata",
+  "qid": "Q134522782",
+  "description": "restaurant in Ontario, Canada"
+ },
+ "43.644742,-79.386884": {
+  "name": "Simcoe Park",
+  "source": "wikidata",
+  "qid": "Q123458721",
+  "description": "park in Toronto, Ontario, Canada"
+ },
+ "43.644777,-79.385008": {
+  "name": "TD Terrace",
+  "source": "wikidata",
+  "qid": "Q131548710",
+  "description": "office building in Toronto"
+ },
+ "43.644825,-79.403055": {
+  "name": "St. Mary's Church",
+  "source": "wikidata",
+  "qid": "Q7590192",
+  "description": "church in Ontario, Canada"
+ },
+ "43.644960,-79.415945": {
+  "name": "Prime Seafood Palace",
+  "source": "wikidata",
+  "qid": "Q134522782",
+  "description": "restaurant in Ontario, Canada"
+ },
+ "43.645158,-79.422758": {
+  "name": "Public Bookcase (164 Dovercourt Rd)",
+  "source": "wikidata",
+  "qid": "Q109564594",
+  "description": "public bookcase located on 164 Dovercourt Rd"
+ },
+ "43.645268,-79.382538": {
+  "name": "Front Street",
+  "source": "wikidata",
+  "qid": "Q1470041",
+  "description": "road in downtown Toronto, Ontario, Canada"
+ },
+ "43.645326,-79.382621": {
+  "name": "Front Street",
+  "source": "wikidata",
+  "qid": "Q1470041",
+  "description": "road in downtown Toronto, Ontario, Canada"
+ },
+ "43.645505,-79.394922": {
+  "name": "Spadina Hotel",
+  "source": "wikidata",
+  "qid": "Q7572795",
+  "description": "building in Toronto, Ontario, Canada"
+ },
+ "43.645613,-79.382585": {
+  "name": "Front Street",
+  "source": "wikidata",
+  "qid": "Q1470041",
+  "description": "road in downtown Toronto, Ontario, Canada"
+ },
+ "43.645684,-79.411477": {
+  "name": "St. Nicholas Ukrainian Catholic Church",
+  "source": "wikidata",
+  "qid": "Q135656747",
+  "description": "Catholic church in Toronto, Ontario, Canada"
+ },
+ "43.645780,-79.376573": {
+  "name": "Toronto Station (Great Western Railway)",
+  "source": "wikidata",
+  "qid": "Q25395554",
+  "description": "former railway station"
+ },
+ "43.645790,-79.341019": {
+  "name": "Ship Channel",
+  "source": "wikidata",
+  "qid": "Q22614316",
+  "description": "shipping channel connecting to Lake Ontario in Toronto"
+ },
+ "43.645907,-79.381512": {
+  "name": "Fairmont Royal York",
+  "source": "wikidata",
+  "qid": "Q1393350",
+  "description": "Luxury hotel building in Toronto, Ontario"
+ },
+ "43.646047,-79.388764": {
+  "name": "Metro Hall",
+  "source": "wikidata",
+  "qid": "Q1777464",
+  "description": "skyscraper in Toronto, Canada"
+ },
+ "43.646070,-79.385523": {
+  "name": "RBC Centre",
+  "source": "wikidata",
+  "qid": "Q1224878",
+  "description": "skyscraper in Toronto, Canada"
+ },
+ "43.646197,-79.375009": {
+  "name": "Canadian Science Writers Association",
+  "source": "wikidata",
+  "qid": "Q30255425",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.646234,-79.462714": {
+  "name": "High Park",
+  "source": "wikidata",
+  "qid": "Q1617812",
+  "description": "urban park in Toronto, Canada"
+ },
+ "43.646316,-79.391040": {
+  "name": "Film Reference Library",
+  "source": "wikidata",
+  "qid": "Q24191231",
+  "description": "film research collection in Toronto"
+ },
+ "43.646324,-79.375273": {
+  "name": "Canadian Science Writers Association",
+  "source": "wikidata",
+  "qid": "Q30255425",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.646392,-79.384081": {
+  "name": "Empire plaza apartments",
+  "source": "wikidata",
+  "qid": "Q15110341",
+  "description": "apartment building in Toronto, Ontario, Canada"
+ },
+ "43.646446,-79.383824": {
+  "name": "Empire plaza apartments",
+  "source": "wikidata",
+  "qid": "Q15110341",
+  "description": "apartment building in Toronto, Ontario, Canada"
+ },
+ "43.646602,-79.389763": {
+  "name": "Princess of Wales Theatre",
+  "source": "wikidata",
+  "qid": "Q7244906",
+  "description": "theatre in Toronto, Ontario, Canada"
+ },
+ "43.646618,-79.383011": {
+  "name": "Toronto Club",
+  "source": "wikidata",
+  "qid": "Q7769628",
+  "description": "private club in Toronto"
+ },
+ "43.646625,-79.386368": {
+  "name": "Roy Thomson Hall",
+  "source": "wikidata",
+  "qid": "Q1315374",
+  "description": "concert hall in Toronto, Canada"
+ },
+ "43.646765,-79.377969": {
+  "name": "Garden Court",
+  "source": "wikidata",
+  "qid": "Q137918952",
+  "description": "public plaza in Toronto, Canada"
+ },
+ "43.646766,-79.395452": {
+  "name": "Balfour Building",
+  "source": "wikidata",
+  "qid": "Q19873005",
+  "description": "high-rise in Ontario, Canada"
+ },
+ "43.646981,-79.436176": {
+  "name": "Delaney Library",
+  "source": "wikidata",
+  "qid": "Q109558660",
+  "description": "public bookcase c/o 21 Delaney Crescent"
+ },
+ "43.647197,-79.403981": {
+  "name": "Orpheum Theatre",
+  "source": "wikidata",
+  "qid": "Q38371695",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.647216,-79.378301": {
+  "name": "Brookfield Place",
+  "source": "wikidata",
+  "qid": "Q929051",
+  "description": "office complex in downtown Toronto, Ontario, Canada"
+ },
+ "43.647267,-79.373276": {
+  "name": "Walter and Duncan Gordon Foundation",
+  "source": "wikidata",
+  "qid": "Q30273236",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.647308,-79.392826": {
+  "name": "Baird Sampson Neuert Architects",
+  "source": "wikidata",
+  "qid": "Q127730692",
+  "description": "Toronto-based architecture and urban design firm founded by George Baird in 1972."
+ },
+ "43.647309,-79.511323": {
+  "name": "Royal York",
+  "source": "wikidata",
+  "qid": "Q613166",
+  "description": "station on the Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.647356,-79.395910": {
+  "name": "The Fashion Building",
+  "source": "wikidata",
+  "qid": "Q105623583",
+  "description": "office building in the Fashion District"
+ },
+ "43.647381,-79.386082": {
+  "name": "St. Andrew's Church",
+  "source": "wikidata",
+  "qid": "Q7586844",
+  "description": "church in Toronto, Ontario"
+ },
+ "43.647389,-79.387582": {
+  "name": "Royal Alexandra Theatre",
+  "source": "wikidata",
+  "qid": "Q3527553",
+  "description": "theatre in Toronto, Canada"
+ },
+ "43.647471,-79.375757": {
+  "name": "Jane Mallett Theatre",
+  "source": "wikidata",
+  "qid": "Q129438509",
+  "description": "performance hall in the St. Lawrence Centre for the Arts in Toronto, Canada"
+ },
+ "43.647562,-79.388389": {
+  "name": "Registered Nurses' Association of Ontario",
+  "source": "wikidata",
+  "qid": "Q7309395",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.647656,-79.384811": {
+  "name": "St. Andrew",
+  "source": "wikidata",
+  "qid": "Q1040644",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.647705,-79.378300": {
+  "name": "Commerce Court East",
+  "source": "wikidata",
+  "qid": "Q122738817",
+  "description": "office building in Commerce Court, Toronto, Ontario, Canada"
+ },
+ "43.647732,-79.377877": {
+  "name": "Commerce Court East",
+  "source": "wikidata",
+  "qid": "Q122738817",
+  "description": "office building in Commerce Court, Toronto, Ontario, Canada"
+ },
+ "43.647836,-79.384833": {
+  "name": "St. Andrew",
+  "source": "wikidata",
+  "qid": "Q1040644",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.647847,-79.377347": {
+  "name": "33 Yonge Street",
+  "source": "wikidata",
+  "qid": "Q135004088",
+  "description": "office, Retail in Ontario, Canada"
+ },
+ "43.647852,-79.396121": {
+  "name": "The Fashion Building",
+  "source": "wikidata",
+  "qid": "Q105623583",
+  "description": "office building in the Fashion District"
+ },
+ "43.647929,-79.383549": {
+  "name": "Exchange Tower",
+  "source": "wikidata",
+  "qid": "Q1383518",
+  "description": "skyscraper in Toronto"
+ },
+ "43.648004,-79.375157": {
+  "name": "Berczy Park",
+  "source": "wikidata",
+  "qid": "Q30623877",
+  "description": "park in Toronto"
+ },
+ "43.648008,-79.386338": {
+  "name": "Sun Life Centre",
+  "source": "wikidata",
+  "qid": "Q7638395",
+  "description": "office in King Street West Toronto, Ontario"
+ },
+ "43.648097,-79.457937": {
+  "name": "High Park Loop",
+  "source": "wikidata",
+  "qid": "Q18157384",
+  "description": "streetcar loop and station part of the Toronto streetcar system"
+ },
+ "43.648121,-79.376057": {
+  "name": "88 Scott",
+  "source": "wikidata",
+  "qid": "Q17507890"
+ },
+ "43.648198,-79.388648": {
+  "name": "Registered Nurses' Association of Ontario",
+  "source": "wikidata",
+  "qid": "Q7309395",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.648273,-79.385164": {
+  "name": "Sun Life Centre",
+  "source": "wikidata",
+  "qid": "Q7638395",
+  "description": "office in King Street West Toronto, Ontario"
+ },
+ "43.648322,-79.375174": {
+  "name": "Berczy Park",
+  "source": "wikidata",
+  "qid": "Q30623877",
+  "description": "park in Toronto"
+ },
+ "43.648377,-79.374302": {
+  "name": "Gooderham Building",
+  "source": "wikidata",
+  "qid": "Q1537553",
+  "description": "Historic office building on Wellington Street East in Toronto"
+ },
+ "43.648380,-79.378530": {
+  "name": "Commerce Court North",
+  "source": "wikidata",
+  "qid": "Q16507527",
+  "description": "office building in Commerce Court, Toronto"
+ },
+ "43.648468,-79.388329": {
+  "name": "Registered Nurses' Association of Ontario",
+  "source": "wikidata",
+  "qid": "Q7309395",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.648489,-79.377611": {
+  "name": "Canadian Pacific Building",
+  "source": "wikidata",
+  "qid": "Q5030422",
+  "description": "completed in 1913"
+ },
+ "43.648550,-79.383804": {
+  "name": "Exchange Tower",
+  "source": "wikidata",
+  "qid": "Q1383518",
+  "description": "skyscraper in Toronto"
+ },
+ "43.648565,-79.377640": {
+  "name": "Canadian Pacific Building",
+  "source": "wikidata",
+  "qid": "Q5030422",
+  "description": "completed in 1913"
+ },
+ "43.648614,-79.373849": {
+  "name": "Gooderham Building",
+  "source": "wikidata",
+  "qid": "Q1537553",
+  "description": "Historic office building on Wellington Street East in Toronto"
+ },
+ "43.648636,-79.386597": {
+  "name": "Shangri-La Toronto",
+  "source": "wikidata",
+  "qid": "Q2276983",
+  "description": "high-rise building in Toronto"
+ },
+ "43.648651,-79.380258": {
+  "name": "Bank of Nova Scotia Building",
+  "source": "wikidata",
+  "qid": "Q68618992",
+  "description": "bank building in Toronto, Ontario, Canada"
+ },
+ "43.648693,-79.371571": {
+  "name": "St. Lawrence",
+  "source": "wikidata",
+  "qid": "Q7589470",
+  "description": "neighbourhood in Toronto, Canada"
+ },
+ "43.648732,-79.377905": {
+  "name": "One King Street West",
+  "source": "wikidata",
+  "qid": "Q2024006",
+  "description": "condo hotel in the financial district in Toronto"
+ },
+ "43.648765,-79.402260": {
+  "name": "Theatre Passe Muraille",
+  "source": "wikidata",
+  "qid": "Q7777404",
+  "description": "theatre building in Toronto, Ontario"
+ },
+ "43.648766,-79.381692": {
+  "name": "CIND-FM",
+  "source": "wikidata",
+  "qid": "Q5011777",
+  "description": "Radio station in Toronto"
+ },
+ "43.648778,-79.376395": {
+  "name": "88 Scott",
+  "source": "wikidata",
+  "qid": "Q17507890"
+ },
+ "43.648801,-79.377115": {
+  "name": "Canadian Pacific Building",
+  "source": "wikidata",
+  "qid": "Q5030422",
+  "description": "completed in 1913"
+ },
+ "43.648885,-79.385463": {
+  "name": "Shangri-La Toronto",
+  "source": "wikidata",
+  "qid": "Q2276983",
+  "description": "high-rise building in Toronto"
+ },
+ "43.649046,-79.379395": {
+  "name": "Scotia Plaza",
+  "source": "wikidata",
+  "qid": "Q1327514",
+  "description": "Office building in Toronto, Ontario"
+ },
+ "43.649110,-79.390774": {
+  "name": "299 Queen Street West",
+  "source": "wikidata",
+  "qid": "Q2815717",
+  "description": "headquarters of Bell Media in Toronto"
+ },
+ "43.649159,-79.377892": {
+  "name": "King",
+  "source": "wikidata",
+  "qid": "Q389687",
+  "description": "station on Line 1 of the Toronto subway"
+ },
+ "43.649188,-79.384070": {
+  "name": "Oxford Tower",
+  "source": "wikidata",
+  "qid": "Q7115473",
+  "description": "high-rise in Toronto"
+ },
+ "43.649189,-79.376062": {
+  "name": "King Edward Hotel",
+  "source": "wikidata",
+  "qid": "Q6411469",
+  "description": "historic luxury hotel in Downtown Toronto, Ontario"
+ },
+ "43.649311,-79.484443": {
+  "name": "Humber Cinemas",
+  "source": "wikidata",
+  "qid": "Q30693653",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.649351,-79.405909": {
+  "name": "Trinity—Spadina",
+  "source": "wikidata",
+  "qid": "Q3539297",
+  "description": "former federal electoral district in Ontario, Canada (1988–2015)"
+ },
+ "43.649363,-79.394541": {
+  "name": "Steve's Music Store",
+  "source": "wikidata",
+  "qid": "Q138253811",
+  "description": "music store on Queen Street West, Toronto, Ontario, Canada"
+ },
+ "43.649412,-79.376730": {
+  "name": "King Edward Hotel",
+  "source": "wikidata",
+  "qid": "Q6411469",
+  "description": "historic luxury hotel in Downtown Toronto, Ontario"
+ },
+ "43.649454,-79.396539": {
+  "name": "Pickford Theatre",
+  "source": "wikidata",
+  "qid": "Q38371851",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.649458,-79.371447": {
+  "name": "Market Gallery",
+  "source": "wikidata",
+  "qid": "Q116477951",
+  "description": "exhibition center"
+ },
+ "43.649459,-79.389156": {
+  "name": "CFRX-SW",
+  "source": "wikidata",
+  "qid": "Q5010798",
+  "description": "shortwave radio station in Toronto"
+ },
+ "43.649494,-79.379561": {
+  "name": "Scotia Plaza",
+  "source": "wikidata",
+  "qid": "Q1327514",
+  "description": "Office building in Toronto, Ontario"
+ },
+ "43.649515,-79.399546": {
+  "name": "Alexandra Park",
+  "source": "wikidata",
+  "qid": "Q4720721",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.649582,-79.375934": {
+  "name": "King Edward Hotel",
+  "source": "wikidata",
+  "qid": "Q6411469",
+  "description": "historic luxury hotel in Downtown Toronto, Ontario"
+ },
+ "43.649599,-79.389616": {
+  "name": "CFRX-SW",
+  "source": "wikidata",
+  "qid": "Q5010798",
+  "description": "shortwave radio station in Toronto"
+ },
+ "43.649616,-79.382101": {
+  "name": "Ernst & Young Tower",
+  "source": "wikidata",
+  "qid": "Q19817569",
+  "description": "skyscraper currently under construction in Toronto, Ontario"
+ },
+ "43.649632,-79.375692": {
+  "name": "King Edward Hotel",
+  "source": "wikidata",
+  "qid": "Q6411469",
+  "description": "historic luxury hotel in Downtown Toronto, Ontario"
+ },
+ "43.649763,-79.385791": {
+  "name": "Hilton Toronto",
+  "source": "wikidata",
+  "qid": "Q105550772",
+  "description": "hotel in Toronto"
+ },
+ "43.649854,-79.373646": {
+  "name": "Cathedral Church of St. James",
+  "source": "wikidata",
+  "qid": "Q786163",
+  "description": "cathedral in Toronto"
+ },
+ "43.649862,-79.370299": {
+  "name": "Picov Electric Building",
+  "source": "wikidata",
+  "qid": "Q102218372",
+  "description": "hotel building in Toronto, Ontario, Canada"
+ },
+ "43.649866,-79.391075": {
+  "name": "299 Queen Street West",
+  "source": "wikidata",
+  "qid": "Q2815717",
+  "description": "headquarters of Bell Media in Toronto"
+ },
+ "43.649893,-79.380774": {
+  "name": "Canada Permanent Trust Building",
+  "source": "wikidata",
+  "qid": "Q5029412",
+  "description": "Toronto skyscraper"
+ },
+ "43.649906,-79.399192": {
+  "name": "Alexandra Park",
+  "source": "wikidata",
+  "qid": "Q4720721",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.649919,-79.374392": {
+  "name": "Cathedral Church of St. James",
+  "source": "wikidata",
+  "qid": "Q786163",
+  "description": "cathedral in Toronto"
+ },
+ "43.649990,-79.383971": {
+  "name": "Oxford Tower",
+  "source": "wikidata",
+  "qid": "Q7115473",
+  "description": "high-rise in Toronto"
+ },
+ "43.649995,-79.379201": {
+  "name": "PATH",
+  "source": "wikidata",
+  "qid": "Q917121",
+  "description": "network of pedestrian tunnels in Toronto"
+ },
+ "43.650006,-79.382535": {
+  "name": "Ernst & Young Tower",
+  "source": "wikidata",
+  "qid": "Q19817569",
+  "description": "skyscraper currently under construction in Toronto, Ontario"
+ },
+ "43.650039,-79.373354": {
+  "name": "Cathedral Church of St. James",
+  "source": "wikidata",
+  "qid": "Q786163",
+  "description": "cathedral in Toronto"
+ },
+ "43.650048,-79.386441": {
+  "name": "Adam Beck Memorial",
+  "source": "wikidata",
+  "qid": "Q4678688"
+ },
+ "43.650118,-79.386110": {
+  "name": "Hilton Toronto",
+  "source": "wikidata",
+  "qid": "Q105550772",
+  "description": "hotel in Toronto"
+ },
+ "43.650124,-79.363539": {
+  "name": "Berkeley Castle",
+  "source": "wikidata",
+  "qid": "Q116995787",
+  "description": "building in Toronto, Ontario, Canada"
+ },
+ "43.650163,-79.389687": {
+  "name": "St. Patrick's Market",
+  "source": "wikidata",
+  "qid": "Q20709834",
+  "description": "heritage public market in Toronto, Canada"
+ },
+ "43.650167,-79.372179": {
+  "name": "St. Lawrence Hall",
+  "source": "wikidata",
+  "qid": "Q7589484",
+  "description": "meeting hall in Toronto, Canada"
+ },
+ "43.650207,-79.480450": {
+  "name": "St. Olave's Anglican Church",
+  "source": "wikidata",
+  "qid": "Q137183808",
+  "description": "church in Toronto, Ontario, Canada"
+ },
+ "43.650218,-79.389429": {
+  "name": "CFRX-SW",
+  "source": "wikidata",
+  "qid": "Q5010798",
+  "description": "shortwave radio station in Toronto"
+ },
+ "43.650326,-79.380489": {
+  "name": "PATH",
+  "source": "wikidata",
+  "qid": "Q917121",
+  "description": "network of pedestrian tunnels in Toronto"
+ },
+ "43.650341,-79.382389": {
+  "name": "Sapphire Tower",
+  "source": "wikidata",
+  "qid": "Q7421067",
+  "description": "unbuilt skyscraper in Toronto, Ontario, Canada"
+ },
+ "43.650344,-79.379744": {
+  "name": "PATH",
+  "source": "wikidata",
+  "qid": "Q917121",
+  "description": "network of pedestrian tunnels in Toronto"
+ },
+ "43.650354,-79.385839": {
+  "name": "Canadian Opera Company",
+  "source": "wikidata",
+  "qid": "Q2915268",
+  "description": "opera company based in Toronto, Ontario"
+ },
+ "43.650369,-79.388055": {
+  "name": "The Rex Hotel",
+  "source": "wikidata",
+  "qid": "Q111123988",
+  "description": "hotel, jazz and blues bar in Toronto"
+ },
+ "43.650400,-79.388599": {
+  "name": "The Rex Hotel",
+  "source": "wikidata",
+  "qid": "Q111123988",
+  "description": "hotel, jazz and blues bar in Toronto"
+ },
+ "43.650416,-79.389059": {
+  "name": "CFRX-SW",
+  "source": "wikidata",
+  "qid": "Q5010798",
+  "description": "shortwave radio station in Toronto"
+ },
+ "43.650420,-79.378410": {
+  "name": "Lumsden Building",
+  "source": "wikidata",
+  "qid": "Q56705209",
+  "description": "office building in Toronto, Ontario, Canada"
+ },
+ "43.650447,-79.384594": {
+  "name": "Sheraton Centre Toronto Hotel",
+  "source": "wikidata",
+  "qid": "Q2278240",
+  "description": "building in Toronto, Canada"
+ },
+ "43.650463,-79.364024": {
+  "name": "Canadian Stage Berkeley Street Theatre",
+  "source": "wikidata",
+  "qid": "Q113016181",
+  "description": "performing arts building in Toronto, Canada"
+ },
+ "43.650469,-79.375459": {
+  "name": "Adelaide Street Court House",
+  "source": "wikidata",
+  "qid": "Q4681789",
+  "description": "historic former courthouse in Toronto, Ontario, Canada"
+ },
+ "43.650470,-79.375979": {
+  "name": "Adelaide Street Court House",
+  "source": "wikidata",
+  "qid": "Q4681789",
+  "description": "historic former courthouse in Toronto, Ontario, Canada"
+ },
+ "43.650476,-79.371907": {
+  "name": "Beard Building",
+  "source": "wikidata",
+  "qid": "Q4876641",
+  "description": "commercial offices, Hotel in Ontario, Canada"
+ },
+ "43.650509,-79.370758": {
+  "name": "Little York Hotel",
+  "source": "wikidata",
+  "qid": "Q113189913",
+  "description": "heritage building in Toronto, Ontario, Canada"
+ },
+ "43.650521,-79.381038": {
+  "name": "Canada Permanent Trust Building",
+  "source": "wikidata",
+  "qid": "Q5029412",
+  "description": "Toronto skyscraper"
+ },
+ "43.650548,-79.378687": {
+  "name": "Lumsden Building",
+  "source": "wikidata",
+  "qid": "Q56705209",
+  "description": "office building in Toronto, Ontario, Canada"
+ },
+ "43.650589,-79.376556": {
+  "name": "Excelsior Life Building",
+  "source": "wikidata",
+  "qid": "Q68819784",
+  "description": "office building in Toronto, Ontario, Canada"
+ },
+ "43.650600,-79.389876": {
+  "name": "St. Patrick's Market",
+  "source": "wikidata",
+  "qid": "Q20709834",
+  "description": "heritage public market in Toronto, Canada"
+ },
+ "43.650672,-79.377258": {
+  "name": "International Society for Equity in Health",
+  "source": "wikidata",
+  "qid": "Q30268033",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.650677,-79.375814": {
+  "name": "Adelaide Street Court House",
+  "source": "wikidata",
+  "qid": "Q4681789",
+  "description": "historic former courthouse in Toronto, Ontario, Canada"
+ },
+ "43.650706,-79.371611": {
+  "name": "Beard Building",
+  "source": "wikidata",
+  "qid": "Q4876641",
+  "description": "commercial offices, Hotel in Ontario, Canada"
+ },
+ "43.650740,-79.371641": {
+  "name": "Beard Building",
+  "source": "wikidata",
+  "qid": "Q4876641",
+  "description": "commercial offices, Hotel in Ontario, Canada"
+ },
+ "43.650758,-79.370689": {
+  "name": "Little York Hotel",
+  "source": "wikidata",
+  "qid": "Q113189913",
+  "description": "heritage building in Toronto, Ontario, Canada"
+ },
+ "43.650760,-79.359751": {
+  "name": "Distillery District",
+  "source": "wikidata",
+  "qid": "Q934422",
+  "description": "warehouse district in Toronto, Canada"
+ },
+ "43.650780,-79.373389": {
+  "name": "St. James Park",
+  "source": "wikidata",
+  "qid": "Q123458777",
+  "description": "park in Toronto, Ontario, Canada"
+ },
+ "43.650792,-79.371415": {
+  "name": "Beard Building",
+  "source": "wikidata",
+  "qid": "Q4876641",
+  "description": "commercial offices, Hotel in Ontario, Canada"
+ },
+ "43.650841,-79.376458": {
+  "name": "Excelsior Life Building",
+  "source": "wikidata",
+  "qid": "Q68819784",
+  "description": "office building in Toronto, Ontario, Canada"
+ },
+ "43.650845,-79.385065": {
+  "name": "Ensemble Studio",
+  "source": "wikidata",
+  "qid": "Q128652038",
+  "description": "artist development program by the Canadian Opera Company in Toronto, Ontario"
+ },
+ "43.650882,-79.397322": {
+  "name": "Ontario Presents",
+  "source": "wikidata",
+  "qid": "Q71859307",
+  "description": "Arts service organization"
+ },
+ "43.650883,-79.382636": {
+  "name": "Graphic Arts Building",
+  "source": "wikidata",
+  "qid": "Q67222238",
+  "description": "office building in Toronto, Ontario, Canada"
+ },
+ "43.651050,-79.388489": {
+  "name": "The Rex Hotel",
+  "source": "wikidata",
+  "qid": "Q111123988",
+  "description": "hotel, jazz and blues bar in Toronto"
+ },
+ "43.651053,-79.387322": {
+  "name": "Campbell House",
+  "source": "wikidata",
+  "qid": "Q5028095",
+  "description": "house in Toronto, Canada"
+ },
+ "43.651106,-79.379148": {
+  "name": "Dineen Building",
+  "source": "wikidata",
+  "qid": "Q14875134",
+  "description": "Historic building in Toronto, Canada"
+ },
+ "43.651110,-79.383495": {
+  "name": "Sheraton Centre Toronto Hotel",
+  "source": "wikidata",
+  "qid": "Q2278240",
+  "description": "building in Toronto, Canada"
+ },
+ "43.651142,-79.476259": {
+  "name": "Runnymede Theatre",
+  "source": "wikidata",
+  "qid": "Q7380091",
+  "description": "former theatre and movie theatre in Bloor West Village, Toronto, Canada"
+ },
+ "43.651155,-79.439611": {
+  "name": "BSMT254",
+  "source": "wikidata",
+  "qid": "Q132147361",
+  "description": "music venue in Toronto, Ontario, Canada"
+ },
+ "43.651172,-79.374922": {
+  "name": "SP!RE",
+  "source": "wikidata",
+  "qid": "Q1471340",
+  "description": "skyscraper"
+ },
+ "43.651173,-79.381301": {
+  "name": "Temple Building",
+  "source": "wikidata",
+  "qid": "Q7698491",
+  "description": "commercial offices in Toronto, Ontario Canada"
+ },
+ "43.651199,-79.384909": {
+  "name": "Sheraton Centre Toronto Hotel",
+  "source": "wikidata",
+  "qid": "Q2278240",
+  "description": "building in Toronto, Canada"
+ },
+ "43.651223,-79.382124": {
+  "name": "Graphic Arts Building",
+  "source": "wikidata",
+  "qid": "Q67222238",
+  "description": "office building in Toronto, Ontario, Canada"
+ },
+ "43.651263,-79.375337": {
+  "name": "SP!RE",
+  "source": "wikidata",
+  "qid": "Q1471340",
+  "description": "skyscraper"
+ },
+ "43.651265,-79.364001": {
+  "name": "Théâtre français de Toronto",
+  "source": "wikidata",
+  "qid": "Q3527838",
+  "description": "theatre company based in Toronto, Ontario"
+ },
+ "43.651266,-79.368253": {
+  "name": "Old Town, Toronto",
+  "source": "wikidata",
+  "qid": "Q7085252",
+  "description": "human settlement in Canada"
+ },
+ "43.651304,-79.475495": {
+  "name": "Runnymede",
+  "source": "wikidata",
+  "qid": "Q1041796",
+  "description": "station on the Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.651311,-79.377493": {
+  "name": "Victoria Theatre",
+  "source": "wikidata",
+  "qid": "Q38372147",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.651314,-79.386809": {
+  "name": "South African War Memorial",
+  "source": "wikidata",
+  "qid": "Q7565811",
+  "description": "Memorial in Toronto, Ontario, Canada"
+ },
+ "43.651351,-79.357359": {
+  "name": "Young Centre for the Performing Arts",
+  "source": "wikidata",
+  "qid": "Q8058008",
+  "description": "Performing arts center in the historic Distillery District of Toronto, Ontario"
+ },
+ "43.651499,-79.451063": {
+  "name": "Revue Cinema",
+  "source": "wikidata",
+  "qid": "Q7318981",
+  "description": "Cinema in Toronto, Ontario, Canada"
+ },
+ "43.651516,-79.367736": {
+  "name": "Old Town, Toronto",
+  "source": "wikidata",
+  "qid": "Q7085252",
+  "description": "human settlement in Canada"
+ },
+ "43.651608,-79.371052": {
+  "name": "Bank of Upper Canada Building",
+  "source": "wikidata",
+  "qid": "Q4856194",
+  "description": "office in Ontario, Canada"
+ },
+ "43.651609,-79.382309": {
+  "name": "Shea's Hippodrome",
+  "source": "wikidata",
+  "qid": "Q28163489",
+  "description": "theatre and cinema in Toronto, Canada"
+ },
+ "43.651631,-79.474022": {
+  "name": "Runnymede Library",
+  "source": "wikidata",
+  "qid": "Q56613138",
+  "description": "public library in Toronto, Canada"
+ },
+ "43.651669,-79.387605": {
+  "name": "Holland Bloorview Kids Rehabilitation Hospital",
+  "source": "wikidata",
+  "qid": "Q5880924",
+  "description": "healthcare organization in Toronto, Canada"
+ },
+ "43.651695,-79.378956": {
+  "name": "The Bay Queen Street",
+  "source": "wikidata",
+  "qid": "Q7715934",
+  "description": "historic building and department store in downtown Toronto"
+ },
+ "43.651812,-79.375188": {
+  "name": "SP!RE",
+  "source": "wikidata",
+  "qid": "Q1471340",
+  "description": "skyscraper"
+ },
+ "43.651890,-79.381732": {
+  "name": "Bay Theatre",
+  "source": "wikidata",
+  "qid": "Q38370729",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.651951,-79.377760": {
+  "name": "Tivoli Theatre",
+  "source": "wikidata",
+  "qid": "Q38372126",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.652036,-79.378435": {
+  "name": "Confederation Life Building",
+  "source": "wikidata",
+  "qid": "Q5159787",
+  "description": "Heritage designated office building in Toronto"
+ },
+ "43.652103,-79.385536": {
+  "name": "Osgoode Hall",
+  "source": "wikidata",
+  "qid": "Q3357219",
+  "description": "building in Toronto"
+ },
+ "43.652121,-79.380719": {
+  "name": "Simpson Tower",
+  "source": "wikidata",
+  "qid": "Q153625",
+  "description": "skyscraper"
+ },
+ "43.652132,-79.368601": {
+  "name": "Paul Bishop's House",
+  "source": "wikidata",
+  "qid": "Q7149379"
+ },
+ "43.652148,-79.364393": {
+  "name": "KPMB Architects",
+  "source": "wikidata",
+  "qid": "Q6335683",
+  "description": "Canadian architectural firm"
+ },
+ "43.652363,-79.386780": {
+  "name": "Pillars of Justice",
+  "source": "wikidata",
+  "qid": "Q110270465",
+  "description": "sculpture in Toronto, Ontario, Canada"
+ },
+ "43.652413,-79.379259": {
+  "name": "Bank of Montreal Branch (Yonge and Queen)",
+  "source": "wikidata",
+  "qid": "Q68800763",
+  "description": "bank building in Toronto, Ontario, Canada"
+ },
+ "43.652456,-79.383554": {
+  "name": "Nathan Phillips Square",
+  "source": "wikidata",
+  "qid": "Q2915521",
+  "description": "plaza in front of Toronto, Ontario's City Hall named in honour of the above"
+ },
+ "43.652522,-79.381976": {
+  "name": "Old Toronto",
+  "source": "wikidata",
+  "qid": "Q919169",
+  "description": "city district"
+ },
+ "43.652743,-79.363224": {
+  "name": "Little Trinity Rectory",
+  "source": "wikidata",
+  "qid": "Q109349832",
+  "description": "listed building in Toronto, Ontario, Canada"
+ },
+ "43.652744,-79.393393": {
+  "name": "Toronto Chinese Baptist Church",
+  "source": "wikidata",
+  "qid": "Q7826308",
+  "description": "church building in Toronto, Canada"
+ },
+ "43.652769,-79.364940": {
+  "name": "Alumnae Theatre Company",
+  "source": "wikidata",
+  "qid": "Q4737423",
+  "description": "theatre company based in Toronto, Ontario"
+ },
+ "43.652847,-79.384029": {
+  "name": "Three Way Piece No. 2: The Archer",
+  "source": "wikidata",
+  "qid": "Q19691897",
+  "description": "sculpture by Henry Moore (LH 535, Toronto)"
+ },
+ "43.652882,-79.377900": {
+  "name": "St. Michael's Hospital",
+  "source": "wikidata",
+  "qid": "Q3145237",
+  "description": "hospital in Toronto, Canada"
+ },
+ "43.652913,-79.398155": {
+  "name": "La Salle Theatre",
+  "source": "wikidata",
+  "qid": "Q38371471",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.652917,-79.376913": {
+  "name": "St. Michael's Hospital",
+  "source": "wikidata",
+  "qid": "Q3145237",
+  "description": "hospital in Toronto, Canada"
+ },
+ "43.652985,-79.364753": {
+  "name": "Alumnae Theatre Company",
+  "source": "wikidata",
+  "qid": "Q4737423",
+  "description": "theatre company based in Toronto, Ontario"
+ },
+ "43.653083,-79.387754": {
+  "name": "University Club of Toronto",
+  "source": "wikidata",
+  "qid": "Q117046133",
+  "description": "private club in Toronto"
+ },
+ "43.653123,-79.392496": {
+  "name": "The Grange",
+  "source": "wikidata",
+  "qid": "Q7737530",
+  "description": "section of the Art Gallery of Ontario"
+ },
+ "43.653152,-79.361838": {
+  "name": "Little Trinity Anglican Church",
+  "source": "wikidata",
+  "qid": "Q948275",
+  "description": "church"
+ },
+ "43.653255,-79.362313": {
+  "name": "Little Trinity Anglican Church",
+  "source": "wikidata",
+  "qid": "Q948275",
+  "description": "church"
+ },
+ "43.653294,-79.391588": {
+  "name": "OCAD University",
+  "source": "wikidata",
+  "qid": "Q1632007",
+  "description": "public university in Toronto, Canada"
+ },
+ "43.653474,-79.405488": {
+  "name": "Toronto Western Hospital",
+  "source": "wikidata",
+  "qid": "Q7826568",
+  "description": "hospital in Canada"
+ },
+ "43.653492,-79.383962": {
+  "name": "2014 Rogers Cup (men)",
+  "source": "wikidata",
+  "qid": "Q17485366",
+  "description": "men's tennis tournament"
+ },
+ "43.653504,-79.362163": {
+  "name": "Little Trinity Anglican Church",
+  "source": "wikidata",
+  "qid": "Q948275",
+  "description": "church"
+ },
+ "43.653510,-79.361877": {
+  "name": "Little Trinity Anglican Church",
+  "source": "wikidata",
+  "qid": "Q948275",
+  "description": "church"
+ },
+ "43.653540,-79.392498": {
+  "name": "Edward P. Taylor Library and Archives",
+  "source": "wikidata",
+  "qid": "Q61985212",
+  "description": "archive at Art Gallery of Ontario in Toronto, Canada"
+ },
+ "43.653570,-79.383943": {
+  "name": "2014 Rogers Cup (men)",
+  "source": "wikidata",
+  "qid": "Q17485366",
+  "description": "men's tennis tournament"
+ },
+ "43.653832,-79.358625": {
+  "name": "Inglenook Community High School",
+  "source": "wikidata",
+  "qid": "Q6032592",
+  "description": "high school in Toronto, Ontario, Canada"
+ },
+ "43.653890,-79.398882": {
+  "name": "Anshei Minsk",
+  "source": "wikidata",
+  "qid": "Q4770667",
+  "description": "synagogue in Toronto, Ontario"
+ },
+ "43.653924,-79.376690": {
+  "name": "Metropolitan United Church",
+  "source": "wikidata",
+  "qid": "Q6825295",
+  "description": "United church building in Toronto, Ontario, Canada"
+ },
+ "43.653933,-79.366706": {
+  "name": "International Health Economics Association",
+  "source": "wikidata",
+  "qid": "Q30268604",
+  "description": "organization in Toronto, Canada"
+ },
+ "43.653958,-79.372065": {
+  "name": "Canadian Association of Psychosocial Oncology",
+  "source": "wikidata",
+  "qid": "Q30284280",
+  "description": "government organization in Toronto, Canada"
+ },
+ "43.653966,-79.378981": {
+  "name": "Massey Hall",
+  "source": "wikidata",
+  "qid": "Q1122776",
+  "description": "concert hall in Toronto, Canada"
+ },
+ "43.653988,-79.386404": {
+  "name": "Arthritis Society",
+  "source": "wikidata",
+  "qid": "Q30265053",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.654074,-79.379958": {
+  "name": "John E. Thompson block",
+  "source": "wikidata",
+  "qid": "Q30693627",
+  "description": "former movie theatre in Toronto, Canada"
+ },
+ "43.654105,-79.380281": {
+  "name": "Toronto Eaton Centre",
+  "source": "wikidata",
+  "qid": "Q1278419",
+  "description": "Shopping mall and office complex in Toronto, Ontario, Canada"
+ },
+ "43.654177,-79.381884": {
+  "name": "Church of the Holy Trinity",
+  "source": "wikidata",
+  "qid": "Q3585843",
+  "description": "church in Toronto, Canada"
+ },
+ "43.654313,-79.391438": {
+  "name": "Church of St Patrick, Toronto",
+  "source": "wikidata",
+  "qid": "Q7590933",
+  "description": "church in Ontario, Canada"
+ },
+ "43.654314,-79.396540": {
+  "name": "First Baptist Church",
+  "source": "wikidata",
+  "qid": "Q85845928",
+  "description": "it is both the first Baptist congregation in Toronto and the oldest black institution in the city, located in various sites since it's founding; it has been at corner of Huron and D'Arcy Streets since 1955"
+ },
+ "43.654326,-79.378758": {
+  "name": "Massey Hall",
+  "source": "wikidata",
+  "qid": "Q1122776",
+  "description": "concert hall in Toronto, Canada"
+ },
+ "43.654378,-79.398730": {
+  "name": "Anshei Minsk",
+  "source": "wikidata",
+  "qid": "Q4770667",
+  "description": "synagogue in Toronto, Ontario"
+ },
+ "43.654521,-79.369443": {
+  "name": "Regent Theatre",
+  "source": "wikidata",
+  "qid": "Q38371946",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.654573,-79.377599": {
+  "name": "Centre for Global Health Research",
+  "source": "wikidata",
+  "qid": "Q30267876",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.654625,-79.396409": {
+  "name": "First Baptist Church",
+  "source": "wikidata",
+  "qid": "Q85845928",
+  "description": "it is both the first Baptist congregation in Toronto and the oldest black institution in the city, located in various sites since it's founding; it has been at corner of Huron and D'Arcy Streets since 1955"
+ },
+ "43.654676,-79.389202": {
+  "name": "Canadian Foundation for Dietetic Research",
+  "source": "wikidata",
+  "qid": "Q30271066",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.654768,-79.400703": {
+  "name": "Kensington Market",
+  "source": "wikidata",
+  "qid": "Q3195260",
+  "description": "neighborhood of Toronto, Ontario, Canada"
+ },
+ "43.654804,-79.394237": {
+  "name": "Heydon Park Secondary School",
+  "source": "wikidata",
+  "qid": "Q126118186",
+  "description": "high school in Toronto, Ontario, Canada"
+ },
+ "43.654813,-79.388477": {
+  "name": "St. Patrick",
+  "source": "wikidata",
+  "qid": "Q1041132",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.654818,-79.376475": {
+  "name": "St. Michael's Cathedral",
+  "source": "wikidata",
+  "qid": "Q2942399",
+  "description": "cathedral in Toronto, Canada"
+ },
+ "43.655005,-79.387102": {
+  "name": "439 University Avenue, Toronto",
+  "source": "wikidata",
+  "qid": "Q111366051",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.655032,-79.385227": {
+  "name": "Chestnut Residence",
+  "source": "wikidata",
+  "qid": "Q5093974",
+  "description": "university residence of the University of Toronto"
+ },
+ "43.655133,-79.381254": {
+  "name": "Henry Scadding House",
+  "source": "wikidata",
+  "qid": "Q28162780"
+ },
+ "43.655158,-79.419015": {
+  "name": "Mod Club",
+  "source": "wikidata",
+  "qid": "Q6887966",
+  "description": "nightclub in Toronto, Canada"
+ },
+ "43.655162,-79.389415": {
+  "name": "Canadian Foundation for Dietetic Research",
+  "source": "wikidata",
+  "qid": "Q30271066",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.655214,-79.413859": {
+  "name": "Royal Cinema",
+  "source": "wikidata",
+  "qid": "Q20006896",
+  "description": "cinema and event venue in Toronto, Ontario, Canada"
+ },
+ "43.655217,-79.387471": {
+  "name": "Pathways to Education Canada",
+  "source": "wikidata",
+  "qid": "Q105758426",
+  "description": "Charitable Non-Profit Organization"
+ },
+ "43.655240,-79.386003": {
+  "name": "Women's Legal Education and Action Fund",
+  "source": "wikidata",
+  "qid": "Q8030964",
+  "description": "Canadian organization and advocate for gender equality"
+ },
+ "43.655314,-79.387456": {
+  "name": "Pathways to Education Canada",
+  "source": "wikidata",
+  "qid": "Q105758426",
+  "description": "Charitable Non-Profit Organization"
+ },
+ "43.655425,-79.388735": {
+  "name": "Rehabilitation Sciences Building, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111598840",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.655447,-79.357550": {
+  "name": "Cube House",
+  "source": "wikidata",
+  "qid": "Q133464837",
+  "description": "building in Toronto, Ontario, Canada"
+ },
+ "43.655466,-79.412604": {
+  "name": "Tales of Innocence",
+  "source": "wikidata",
+  "qid": "Q106215572",
+  "description": "mural by Jacquie Comrie"
+ },
+ "43.655583,-79.381312": {
+  "name": "Eaton Centre Cinemas",
+  "source": "wikidata",
+  "qid": "Q38371201",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.655600,-79.364443": {
+  "name": "Idle Hour Theatre",
+  "source": "wikidata",
+  "qid": "Q38371315",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.655662,-79.378563": {
+  "name": "Mackenzie House",
+  "source": "wikidata",
+  "qid": "Q3884309",
+  "description": "municipal museum in Toronto, Ontario Canada"
+ },
+ "43.655718,-79.380645": {
+  "name": "Downtown Theatre",
+  "source": "wikidata",
+  "qid": "Q38371165",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.655739,-79.383740": {
+  "name": "The Ward",
+  "source": "wikidata",
+  "qid": "Q124521386",
+  "description": "neighbourhood in Toronto, Ontario, Canada | Toronto's first immigrant neighbourhood"
+ },
+ "43.655770,-79.394636": {
+  "name": "George Brown House",
+  "source": "wikidata",
+  "qid": "Q5537330",
+  "description": "house in Toronto"
+ },
+ "43.655829,-79.363422": {
+  "name": "Idle Hour Theatre",
+  "source": "wikidata",
+  "qid": "Q38371315",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.655917,-79.386394": {
+  "name": "Women's Legal Education and Action Fund",
+  "source": "wikidata",
+  "qid": "Q8030964",
+  "description": "Canadian organization and advocate for gender equality"
+ },
+ "43.655948,-79.380747": {
+  "name": "Downtown Theatre",
+  "source": "wikidata",
+  "qid": "Q38371165",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.656195,-79.382564": {
+  "name": "World's Biggest Bookstore",
+  "source": "wikidata",
+  "qid": "Q3569940",
+  "description": "former Toronto Bookstore"
+ },
+ "43.656200,-79.381138": {
+  "name": "Biltmore Theatre",
+  "source": "wikidata",
+  "qid": "Q38370804",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.656233,-79.389634": {
+  "name": "Toronto Rehabilitation Institute",
+  "source": "wikidata",
+  "qid": "Q7826496",
+  "description": "hospital in Canada"
+ },
+ "43.656241,-79.381155": {
+  "name": "Biltmore Theatre",
+  "source": "wikidata",
+  "qid": "Q38370804",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.656246,-79.378293": {
+  "name": "Mackenzie House",
+  "source": "wikidata",
+  "qid": "Q3884309",
+  "description": "municipal museum in Toronto, Ontario Canada"
+ },
+ "43.656288,-79.379574": {
+  "name": "Sankofa Square",
+  "source": "wikidata",
+  "qid": "Q607810",
+  "description": "public square in Toronto"
+ },
+ "43.656325,-79.380903": {
+  "name": "Biltmore Theatre",
+  "source": "wikidata",
+  "qid": "Q38370804",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.656355,-79.388809": {
+  "name": "Sons of England War Memorial",
+  "source": "wikidata",
+  "qid": "Q123417481",
+  "description": "Monument in Toronto, Ontario, Canada"
+ },
+ "43.656429,-79.384004": {
+  "name": "The Ward",
+  "source": "wikidata",
+  "qid": "Q124521386",
+  "description": "neighbourhood in Toronto, Ontario, Canada | Toronto's first immigrant neighbourhood"
+ },
+ "43.656453,-79.381139": {
+  "name": "TMU station",
+  "source": "wikidata",
+  "qid": "Q1074565",
+  "description": "subway station on the Yonge–University line in Toronto, Ontario, Canada"
+ },
+ "43.656465,-79.407701": {
+  "name": "College Street United Church",
+  "source": "wikidata",
+  "qid": "Q5146555",
+  "description": "church in Canada., Canada"
+ },
+ "43.656787,-79.386759": {
+  "name": "University of Toronto Faculty of Dentistry",
+  "source": "wikidata",
+  "qid": "Q7896480",
+  "description": "Canadian dental school"
+ },
+ "43.656919,-79.380970": {
+  "name": "Cinema 2000",
+  "source": "wikidata",
+  "qid": "Q38370966",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.657018,-79.381197": {
+  "name": "Cinema 2000",
+  "source": "wikidata",
+  "qid": "Q38370966",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.657139,-79.385106": {
+  "name": "Ontario Institute for Regenerative Medicine",
+  "source": "wikidata",
+  "qid": "Q30272934",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.657236,-79.381708": {
+  "name": "Cinema 2000",
+  "source": "wikidata",
+  "qid": "Q38370966",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.657272,-79.404687": {
+  "name": "Caplansky's Delicatessen",
+  "source": "wikidata",
+  "qid": "Q17989843",
+  "description": "delicatessen in Toronto, Ontario, Canada"
+ },
+ "43.657298,-79.384365": {
+  "name": "Bay Street",
+  "source": "wikidata",
+  "qid": "Q812088",
+  "description": "street in Toronto, Canada"
+ },
+ "43.657360,-79.356529": {
+  "name": "Don Brewery",
+  "source": "wikidata",
+  "qid": "Q17104966",
+  "description": "brewery in Toronto, Ontario, Canada"
+ },
+ "43.657401,-79.381360": {
+  "name": "Empress Hotel",
+  "source": "wikidata",
+  "qid": "Q5374534",
+  "description": "Located at the corner of Yonge & Gould streets in Toronto. Destroyed by fire in January 2011. The hotel was opened in 1888, and changed hands multiple times. It ceased operating as a hotel in the mid-1970s."
+ },
+ "43.657413,-79.413850": {
+  "name": "Centro Clinton Day Care Centre",
+  "source": "wikidata",
+  "qid": "Q134106540",
+  "description": "daycare in Toronto, Ontario, Canada"
+ },
+ "43.657455,-79.357160": {
+  "name": "Don Brewery",
+  "source": "wikidata",
+  "qid": "Q17104966",
+  "description": "brewery in Toronto, Ontario, Canada"
+ },
+ "43.657527,-79.379730": {
+  "name": "Toronto Metropolitan University",
+  "source": "wikidata",
+  "qid": "Q611723",
+  "description": "public research university located in Toronto, Ontario, Canada"
+ },
+ "43.657530,-79.389626": {
+  "name": "Mount Sinai Hospital, Toronto",
+  "source": "wikidata",
+  "qid": "Q13650874",
+  "description": "hospital in Ontario, Canada"
+ },
+ "43.657630,-79.356343": {
+  "name": "Don Brewery",
+  "source": "wikidata",
+  "qid": "Q17104966",
+  "description": "brewery in Toronto, Ontario, Canada"
+ },
+ "43.657647,-79.401810": {
+  "name": "Chang's Theatre",
+  "source": "wikidata",
+  "qid": "Q38370944",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.657688,-79.379844": {
+  "name": "Toronto Metropolitan University",
+  "source": "wikidata",
+  "qid": "Q611723",
+  "description": "public research university located in Toronto, Ontario, Canada"
+ },
+ "43.657691,-79.380161": {
+  "name": "Toronto Metropolitan University",
+  "source": "wikidata",
+  "qid": "Q611723",
+  "description": "public research university located in Toronto, Ontario, Canada"
+ },
+ "43.657719,-79.355018": {
+  "name": "Don railway station",
+  "source": "wikidata",
+  "qid": "Q19876062",
+  "description": "railway station in Toronto, Canada"
+ },
+ "43.657749,-79.381741": {
+  "name": "Arts and Letters Club of Toronto",
+  "source": "wikidata",
+  "qid": "Q7714618",
+  "description": "historic site in Ontario, Canada"
+ },
+ "43.657888,-79.381571": {
+  "name": "Arts and Letters Club of Toronto",
+  "source": "wikidata",
+  "qid": "Q7714618",
+  "description": "historic site in Ontario, Canada"
+ },
+ "43.657947,-79.400148": {
+  "name": "455 Spadina Avenue, Toronto",
+  "source": "wikidata",
+  "qid": "Q111366377",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.657950,-79.378989": {
+  "name": "The Image Centre",
+  "source": "wikidata",
+  "qid": "Q7385034",
+  "description": "photography, art museum and education centre in Ontario, Canada"
+ },
+ "43.658049,-79.379042": {
+  "name": "The Image Centre",
+  "source": "wikidata",
+  "qid": "Q7385034",
+  "description": "photography, art museum and education centre in Ontario, Canada"
+ },
+ "43.658049,-79.393018": {
+  "name": "Exam Centre, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111512858",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.658161,-79.378903": {
+  "name": "The Image Centre",
+  "source": "wikidata",
+  "qid": "Q7385034",
+  "description": "photography, art museum and education centre in Ontario, Canada"
+ },
+ "43.658170,-79.386357": {
+  "name": "Donald K. Johnson Eye Centre",
+  "source": "wikidata",
+  "qid": "Q5294621",
+  "description": "hospital in Canada"
+ },
+ "43.658191,-79.377819": {
+  "name": "Oakham House",
+  "source": "wikidata",
+  "qid": "Q7073888",
+  "description": "house in Toronto, Canada"
+ },
+ "43.658206,-79.434816": {
+  "name": "Our Lady Queen of Croatia Roman Catholic parish Toronto",
+  "source": "wikidata",
+  "qid": "Q16117119",
+  "description": "Catholic parish church and parish in Toronto, Ontario, Canada"
+ },
+ "43.658271,-79.398190": {
+  "name": "Merril Collection of Science Fiction, Speculation & Fantasy",
+  "source": "wikidata",
+  "qid": "Q3306599",
+  "description": "research collection"
+ },
+ "43.658307,-79.370998": {
+  "name": "Allandale",
+  "source": "wikidata",
+  "qid": "Q4731083",
+  "description": "historic house in Toronto, Canada"
+ },
+ "43.658319,-79.377247": {
+  "name": "Rogers Communications Centre",
+  "source": "wikidata",
+  "qid": "Q7359269",
+  "description": "Building of Toronto Metropolitan University"
+ },
+ "43.658345,-79.442734": {
+  "name": "Lansdowne Theatre",
+  "source": "wikidata",
+  "qid": "Q38371477",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.658394,-79.479067": {
+  "name": "Runnymede fire hall",
+  "source": "wikidata",
+  "qid": "Q30589033"
+ },
+ "43.658398,-79.391416": {
+  "name": "Intact Centre",
+  "source": "wikidata",
+  "qid": "Q7094875",
+  "description": "office building in Ontario, Canada"
+ },
+ "43.658406,-79.382126": {
+  "name": "Loft Cinemas",
+  "source": "wikidata",
+  "qid": "Q38371489",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.658436,-79.352599": {
+  "name": "Scadding Cabin",
+  "source": "wikidata",
+  "qid": "Q28163083",
+  "description": "historic site in Ontario, Canada"
+ },
+ "43.658438,-79.352656": {
+  "name": "Scadding Cabin",
+  "source": "wikidata",
+  "qid": "Q28163083",
+  "description": "historic site in Ontario, Canada"
+ },
+ "43.658471,-79.381444": {
+  "name": "Loft Cinemas",
+  "source": "wikidata",
+  "qid": "Q38371489",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.658493,-79.384854": {
+  "name": "Ontario Institute for Regenerative Medicine",
+  "source": "wikidata",
+  "qid": "Q30272934",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.658524,-79.376340": {
+  "name": "Garden District",
+  "source": "wikidata",
+  "qid": "Q5522237",
+  "description": "human settlement in Ontario, Canada"
+ },
+ "43.658611,-79.388145": {
+  "name": "Toronto General Hospital",
+  "source": "wikidata",
+  "qid": "Q2444359",
+  "description": "hospital in Canada"
+ },
+ "43.658646,-79.369496": {
+  "name": "Street Health Community Nursing Foundation",
+  "source": "wikidata",
+  "qid": "Q105678528",
+  "description": "Community health services organization for housing insecure people in Toronto, Canada."
+ },
+ "43.658679,-79.381913": {
+  "name": "Loft Cinemas",
+  "source": "wikidata",
+  "qid": "Q38371489",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.658707,-79.395922": {
+  "name": "Cumberland House, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111445841",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.658780,-79.380482": {
+  "name": "Heaslip House",
+  "source": "wikidata",
+  "qid": "Q5693138",
+  "description": "Toronto Metropolitan University building"
+ },
+ "43.658794,-79.382227": {
+  "name": "Coronet Theatre",
+  "source": "wikidata",
+  "qid": "Q38371130",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.658858,-79.368564": {
+  "name": "Royal Oak Inn, Toronto",
+  "source": "wikidata",
+  "qid": "Q115943790",
+  "description": "hotel in Toronto, Ontario, Canada"
+ },
+ "43.658870,-79.349824": {
+  "name": "Teck Theatre",
+  "source": "wikidata",
+  "qid": "Q38372090",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.658871,-79.393902": {
+  "name": "Communications House",
+  "source": "wikidata",
+  "qid": "Q111445789",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.658983,-79.381893": {
+  "name": "Coronet Theatre",
+  "source": "wikidata",
+  "qid": "Q38371130",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.659044,-79.365638": {
+  "name": "Mimi Hernndorf Studio Theatre",
+  "source": "wikidata",
+  "qid": "Q126360742",
+  "description": "performance hall inside The Citadel: Ross Centre for Dance in Toronto, Canada"
+ },
+ "43.659078,-79.365611": {
+  "name": "Mimi Hernndorf Studio Theatre",
+  "source": "wikidata",
+  "qid": "Q126360742",
+  "description": "performance hall inside The Citadel: Ross Centre for Dance in Toronto, Canada"
+ },
+ "43.659087,-79.382093": {
+  "name": "Coronet Theatre",
+  "source": "wikidata",
+  "qid": "Q38371130",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.659088,-79.392784": {
+  "name": "Dalla Lana School of Public Health",
+  "source": "wikidata",
+  "qid": "Q17009784",
+  "description": "school of public health at the University of Toronto"
+ },
+ "43.659144,-79.395232": {
+  "name": "Wallberg Building",
+  "source": "wikidata",
+  "qid": "Q111679109",
+  "description": "university building on the University of Toronto St. George campus"
+ },
+ "43.659209,-79.393497": {
+  "name": "Communications House",
+  "source": "wikidata",
+  "qid": "Q111445789",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.659378,-79.379609": {
+  "name": "Kerr Hall",
+  "source": "wikidata",
+  "qid": "Q6394324",
+  "description": "building on the Toronto Metropolitan University campus"
+ },
+ "43.659428,-79.365996": {
+  "name": "Parliament Cinema",
+  "source": "wikidata",
+  "qid": "Q38371822",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.659492,-79.401579": {
+  "name": "John H. Daniels Faculty of Architecture, Landscape, and Design",
+  "source": "wikidata",
+  "qid": "Q6236769",
+  "description": "architecture and design school of the University of Toronto"
+ },
+ "43.659507,-79.400695": {
+  "name": "John H. Daniels Faculty of Architecture, Landscape, and Design",
+  "source": "wikidata",
+  "qid": "Q6236769",
+  "description": "architecture and design school of the University of Toronto"
+ },
+ "43.659525,-79.393467": {
+  "name": "Lassonde Mining Building",
+  "source": "wikidata",
+  "qid": "Q111594846",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.659606,-79.395423": {
+  "name": "Engineering Annex, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111512773",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.659616,-79.395426": {
+  "name": "Engineering Annex, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111512773",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.659618,-79.348778": {
+  "name": "Opera House",
+  "source": "wikidata",
+  "qid": "Q38371679",
+  "description": "cinema in Toronto, Ontario, Canada"
+ },
+ "43.659669,-79.400735": {
+  "name": "John H. Daniels Faculty of Architecture, Landscape, and Design",
+  "source": "wikidata",
+  "qid": "Q6236769",
+  "description": "architecture and design school of the University of Toronto"
+ },
+ "43.659862,-79.378515": {
+  "name": "Gallery Arcturus",
+  "source": "wikidata",
+  "qid": "Q19878144",
+  "description": "art museum in Ontario, Canada"
+ },
+ "43.659880,-79.435330": {
+  "name": "Dufferin",
+  "source": "wikidata",
+  "qid": "Q1041803",
+  "description": "subway station on the Bloor–Danforth line of the Toronto, Ontario, Canada subway"
+ },
+ "43.659922,-79.393638": {
+  "name": "Haultain Building",
+  "source": "wikidata",
+  "qid": "Q111514244",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.659981,-79.397862": {
+  "name": "Central Steam Plant, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111445365",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660056,-79.393837": {
+  "name": "Haultain Building",
+  "source": "wikidata",
+  "qid": "Q111514244",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660086,-79.363009": {
+  "name": "Sts. Cyril and Methodius Church, Toronto",
+  "source": "wikidata",
+  "qid": "Q12293197"
+ },
+ "43.660184,-79.377032": {
+  "name": "Jarvis Street Baptist Church",
+  "source": "wikidata",
+  "qid": "Q17006515",
+  "description": "Baptist church in Toronto"
+ },
+ "43.660189,-79.393975": {
+  "name": "Mechanical Engineering Building, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111598474",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660427,-79.375875": {
+  "name": "Jarvis Street",
+  "source": "wikidata",
+  "qid": "Q6161258",
+  "description": "thoroughfare in Toronto, Ontario"
+ },
+ "43.660461,-79.389252": {
+  "name": "Schwartz Reisman Innovation Campus",
+  "source": "wikidata",
+  "qid": "Q111667712",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660518,-79.387417": {
+  "name": "College of Physicians and Surgeons of Ontario",
+  "source": "wikidata",
+  "qid": "Q5146807",
+  "description": "regulatory body"
+ },
+ "43.660548,-79.362935": {
+  "name": "Sts. Cyril and Methodius Church, Toronto",
+  "source": "wikidata",
+  "qid": "Q12293197"
+ },
+ "43.660567,-79.362853": {
+  "name": "Sts. Cyril and Methodius Church, Toronto",
+  "source": "wikidata",
+  "qid": "Q12293197"
+ },
+ "43.660582,-79.388623": {
+  "name": "Schwartz Reisman Innovation Campus",
+  "source": "wikidata",
+  "qid": "Q111667712",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660683,-79.386669": {
+  "name": "Victoria Hospital for Sick Children",
+  "source": "wikidata",
+  "qid": "Q7926787",
+  "description": "former hospital in Toronto"
+ },
+ "43.660717,-79.387498": {
+  "name": "College of Physicians and Surgeons of Ontario",
+  "source": "wikidata",
+  "qid": "Q5146807",
+  "description": "regulatory body"
+ },
+ "43.660747,-79.395949": {
+  "name": "Simcoe Hall",
+  "source": "wikidata",
+  "qid": "Q111668110",
+  "description": "administrative building on the University of Toronto St. George campus"
+ },
+ "43.660776,-79.395445": {
+  "name": "Convocation Hall",
+  "source": "wikidata",
+  "qid": "Q2996437",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660807,-79.362998": {
+  "name": "Sts. Cyril and Methodius Church, Toronto",
+  "source": "wikidata",
+  "qid": "Q12293197"
+ },
+ "43.660835,-79.385856": {
+  "name": "CReATe Fertility Centre",
+  "source": "wikidata",
+  "qid": "Q50036547",
+  "description": "healthcare organization in Toronto, Canada"
+ },
+ "43.660887,-79.398998": {
+  "name": "Earth Sciences Centre, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111512667",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.660933,-79.393374": {
+  "name": "Temerty Faculty of Medicine",
+  "source": "wikidata",
+  "qid": "Q7896486",
+  "description": "medical school of the University of Toronto"
+ },
+ "43.660984,-79.400812": {
+  "name": "New College III, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111598630",
+  "description": "student residence for New College on the University of Toronto St. George campus"
+ },
+ "43.661008,-79.377370": {
+  "name": "Jarvis Street Baptist Church",
+  "source": "wikidata",
+  "qid": "Q17006515",
+  "description": "Baptist church in Toronto"
+ },
+ "43.661012,-79.398502": {
+  "name": "McLennan Physical Laboratories",
+  "source": "wikidata",
+  "qid": "Q111597333",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.661206,-79.387686": {
+  "name": "88 College Street, Toronto",
+  "source": "wikidata",
+  "qid": "Q111296395",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.661256,-79.379094": {
+  "name": "AIDS Committee of Toronto",
+  "source": "wikidata",
+  "qid": "Q30283593",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.661270,-79.392926": {
+  "name": "McMurrich Building",
+  "source": "wikidata",
+  "qid": "Q111598462",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.661327,-79.401293": {
+  "name": "New College III, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111598630",
+  "description": "student residence for New College on the University of Toronto St. George campus"
+ },
+ "43.661380,-79.383101": {
+  "name": "IOOF Hall",
+  "source": "wikidata",
+  "qid": "Q5972893",
+  "description": "historic site in Toronto"
+ },
+ "43.661387,-79.385240": {
+  "name": "Toronto Police Service",
+  "source": "wikidata",
+  "qid": "Q1521097",
+  "description": "police agency servicing Toronto, Canada"
+ },
+ "43.661530,-79.414403": {
+  "name": "Harbord Collegiate Institute",
+  "source": "wikidata",
+  "qid": "Q5654701",
+  "description": "high school in Toronto, Ontario, Canada"
+ },
+ "43.661581,-79.377615": {
+  "name": "Oasis Aqualounge",
+  "source": "wikidata",
+  "qid": "Q109519154",
+  "description": "Adult spa and lounge in downtown Toronto"
+ },
+ "43.661600,-79.386094": {
+  "name": "Little Glenn",
+  "source": "wikidata",
+  "qid": "Q3377147",
+  "description": "sculpture by Eldon Garnet"
+ },
+ "43.661653,-79.382971": {
+  "name": "IOOF Hall",
+  "source": "wikidata",
+  "qid": "Q5972893",
+  "description": "historic site in Toronto"
+ },
+ "43.661689,-79.391492": {
+  "name": "Statue of George Brown",
+  "source": "wikidata",
+  "qid": "Q122208266",
+  "description": "sculpture in Toronto, Ontario, Canada"
+ },
+ "43.661696,-79.360910": {
+  "name": "Pam McConnell Aquatic Centre",
+  "source": "wikidata",
+  "qid": "Q105946705",
+  "description": "Indoor aquatic centre in Regent Park neighbourhood of Toronto, Canada"
+ },
+ "43.661721,-79.426816": {
+  "name": "Ossington",
+  "source": "wikidata",
+  "qid": "Q1041831",
+  "description": "station on the Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.661727,-79.399335": {
+  "name": "Earth Sciences Centre, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111512667",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.661746,-79.389876": {
+  "name": "Ontario Police Memorial",
+  "source": "wikidata",
+  "qid": "Q122382008",
+  "description": "monument in Toronto, Ontario, Canada"
+ },
+ "43.661883,-79.392928": {
+  "name": "Canadiana Gallery",
+  "source": "wikidata",
+  "qid": "Q111193396",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.661901,-79.379362": {
+  "name": "AIDS Committee of Toronto",
+  "source": "wikidata",
+  "qid": "Q30283593",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.661948,-79.367025": {
+  "name": "Eclipse Theatre",
+  "source": "wikidata",
+  "qid": "Q38371214",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.661980,-79.388616": {
+  "name": "Surrey Place Centre",
+  "source": "wikidata",
+  "qid": "Q30282231",
+  "description": "healthcare organization in Toronto, Canada"
+ },
+ "43.662029,-79.383353": {
+  "name": "IOOF Hall",
+  "source": "wikidata",
+  "qid": "Q5972893",
+  "description": "historic site in Toronto"
+ },
+ "43.662032,-79.368531": {
+  "name": "The Children's Book Bank",
+  "source": "wikidata",
+  "qid": "Q105757968",
+  "description": "Not-for-Profit Charity Book Share"
+ },
+ "43.662044,-79.385525": {
+  "name": "Toronto Police Service",
+  "source": "wikidata",
+  "qid": "Q1521097",
+  "description": "police agency servicing Toronto, Canada"
+ },
+ "43.662086,-79.397612": {
+  "name": "A. D. Allen Chemistry Library (University of Toronto)",
+  "source": "wikidata",
+  "qid": "Q105834397",
+  "description": "chemistry library of University of Toronto"
+ },
+ "43.662127,-79.383403": {
+  "name": "IOOF Hall",
+  "source": "wikidata",
+  "qid": "Q5972893",
+  "description": "historic site in Toronto"
+ },
+ "43.662174,-79.377863": {
+  "name": "Oasis Aqualounge",
+  "source": "wikidata",
+  "qid": "Q109519154",
+  "description": "Adult spa and lounge in downtown Toronto"
+ },
+ "43.662192,-79.380290": {
+  "name": "Maple Leaf Gardens",
+  "source": "wikidata",
+  "qid": "Q1814534",
+  "description": "former hockey arena in Toronto, later re-built into grocery store and athletic centre"
+ },
+ "43.662366,-79.462599": {
+  "name": "Baird Park",
+  "source": "wikidata",
+  "qid": "Q109552728",
+  "description": "public recreational area in Toronto, Canada"
+ },
+ "43.662420,-79.376708": {
+  "name": "Grace Toronto Church",
+  "source": "wikidata",
+  "qid": "Q7586877",
+  "description": "church in Ontario, Canada"
+ },
+ "43.662478,-79.386370": {
+  "name": "Burano",
+  "source": "wikidata",
+  "qid": "Q4998116",
+  "description": "skyscraper"
+ },
+ "43.662480,-79.398814": {
+  "name": "Sidney Smith Hall",
+  "source": "wikidata",
+  "qid": "Q111667960",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.662619,-79.376521": {
+  "name": "International Council Of Aids Service Organizations",
+  "source": "wikidata",
+  "qid": "Q30267994",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.662838,-79.395856": {
+  "name": "University of Toronto",
+  "source": "wikidata",
+  "qid": "Q180865",
+  "description": "public research university in the Greater Toronto Area of Ontario, Canada"
+ },
+ "43.662937,-79.408924": {
+  "name": "Central Technical School",
+  "source": "wikidata",
+  "qid": "Q5061898",
+  "description": "High school in Toronto, Canada"
+ },
+ "43.663033,-79.430158": {
+  "name": "CORPUS",
+  "source": "wikidata",
+  "qid": "Q5172618",
+  "description": "dance company based in Toronto, Ontario"
+ },
+ "43.663094,-79.402010": {
+  "name": "Graduate House, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q7896487",
+  "description": "student residence on the University of Toronto St. George campus"
+ },
+ "43.663100,-79.389734": {
+  "name": "Whitney Block",
+  "source": "wikidata",
+  "qid": "Q14875479",
+  "description": "provincial government building in Toronto, Ontario, Canada"
+ },
+ "43.663193,-79.373056": {
+  "name": "St. Luke's United Church",
+  "source": "wikidata",
+  "qid": "Q7589824",
+  "description": "church in Toronto, Ontario"
+ },
+ "43.663227,-79.367543": {
+  "name": "Parliament Theatre",
+  "source": "wikidata",
+  "qid": "Q38371838",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.663384,-79.372145": {
+  "name": "Église du Sacré-Coeur",
+  "source": "wikidata",
+  "qid": "Q50924712",
+  "description": "Religious building located in Toronto, Ontario, Canada"
+ },
+ "43.663502,-79.400054": {
+  "name": "Clara Benson Building",
+  "source": "wikidata",
+  "qid": "Q111445391",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.663567,-79.453231": {
+  "name": "St. Josaphat's Cathedral",
+  "source": "wikidata",
+  "qid": "Q25928114",
+  "description": "Religious church building located in Toronto, Ontario, Canada"
+ },
+ "43.663608,-79.390630": {
+  "name": "Regis College Building",
+  "source": "wikidata",
+  "qid": "Q111598764",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.663694,-79.359231": {
+  "name": "Saint Sava Serbian Orthodox Church (Toronto)",
+  "source": "wikidata",
+  "qid": "Q61133866",
+  "description": "church in Toronto, Ontario"
+ },
+ "43.663778,-79.402081": {
+  "name": "Fasken Building",
+  "source": "wikidata",
+  "qid": "Q111513160",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.663886,-79.402311": {
+  "name": "Fasken Building",
+  "source": "wikidata",
+  "qid": "Q111513160",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.663926,-79.394475": {
+  "name": "Hart House Theatre",
+  "source": "wikidata",
+  "qid": "Q14875168",
+  "description": "theatre company based in Toronto, Ontario"
+ },
+ "43.663955,-79.359035": {
+  "name": "Saint Sava Serbian Orthodox Church (Toronto)",
+  "source": "wikidata",
+  "qid": "Q61133866",
+  "description": "church in Toronto, Ontario"
+ },
+ "43.664072,-79.416094": {
+  "name": "Metro Theatre",
+  "source": "wikidata",
+  "qid": "Q17006947",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.664090,-79.398441": {
+  "name": "Newman Centre",
+  "source": "wikidata",
+  "qid": "Q17110767",
+  "description": "student Drop-in Centre and Residence in Toronto, Canada"
+ },
+ "43.664274,-79.379883": {
+  "name": "Woody's",
+  "source": "wikidata",
+  "qid": "Q8033616",
+  "description": "one of the world's most famous gay bars, in Toronto, Ontario"
+ },
+ "43.664301,-79.400378": {
+  "name": "370 Huron Street, Toronto",
+  "source": "wikidata",
+  "qid": "Q111365635",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.664355,-79.387143": {
+  "name": "MaRS Innovation",
+  "source": "wikidata",
+  "qid": "Q30293275",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.664389,-79.399475": {
+  "name": "John P. Robarts Library",
+  "source": "wikidata",
+  "qid": "Q2156146",
+  "description": "central library of the University of Toronto specialized in the humanities and social sciences"
+ },
+ "43.664402,-79.361999": {
+  "name": "Cabbagetown South Heritage Conservation District",
+  "source": "wikidata",
+  "qid": "Q43160858",
+  "description": "historic district in Toronto, Ontario, Canada"
+ },
+ "43.664414,-79.394442": {
+  "name": "Wycliffe College",
+  "source": "wikidata",
+  "qid": "Q3570196",
+  "description": "theological college and evangelical graduate school at the University of Toronto"
+ },
+ "43.664425,-79.396914": {
+  "name": "Massey College",
+  "source": "wikidata",
+  "qid": "Q2983620",
+  "description": "graduate residential college at the University of Toronto"
+ },
+ "43.664466,-79.368047": {
+  "name": "Carlton Theatre",
+  "source": "wikidata",
+  "qid": "Q38370906",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.664515,-79.394970": {
+  "name": "Wycliffe College",
+  "source": "wikidata",
+  "qid": "Q3570196",
+  "description": "theological college and evangelical graduate school at the University of Toronto"
+ },
+ "43.664605,-79.413628": {
+  "name": "Koreatown",
+  "source": "wikidata",
+  "qid": "Q6432096",
+  "description": "neighborhood of Toronto"
+ },
+ "43.664638,-79.402829": {
+  "name": "665 Spadina Avenue, Toronto",
+  "source": "wikidata",
+  "qid": "Q111366692",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.664639,-79.380489": {
+  "name": "Woody's",
+  "source": "wikidata",
+  "qid": "Q8033616",
+  "description": "one of the world's most famous gay bars, in Toronto, Ontario"
+ },
+ "43.664744,-79.341734": {
+  "name": "Crow's Studio Theatre",
+  "source": "wikidata",
+  "qid": "Q113856648",
+  "description": "blackbox theatre inside Streetcar Crowsnest in Toronto, Canada"
+ },
+ "43.664786,-79.386955": {
+  "name": "MaRS Innovation",
+  "source": "wikidata",
+  "qid": "Q30293275",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.664823,-79.341604": {
+  "name": "Crow's Studio Theatre",
+  "source": "wikidata",
+  "qid": "Q113856648",
+  "description": "blackbox theatre inside Streetcar Crowsnest in Toronto, Canada"
+ },
+ "43.664871,-79.412412": {
+  "name": "Eve Theatre",
+  "source": "wikidata",
+  "qid": "Q38371226",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.665025,-79.322360": {
+  "name": "Ashbridge Estate",
+  "source": "wikidata",
+  "qid": "Q2866479",
+  "description": "historic estate in Toronto, Ontario, Canada"
+ },
+ "43.665027,-79.393912": {
+  "name": "Jackman Law Building",
+  "source": "wikidata",
+  "qid": "Q111512960",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.665057,-79.383951": {
+  "name": "Wellesley",
+  "source": "wikidata",
+  "qid": "Q1041179",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.665077,-79.400689": {
+  "name": "Sussex Court, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111669387",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.665132,-79.411208": {
+  "name": "Eve Theatre",
+  "source": "wikidata",
+  "qid": "Q38371226",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.665166,-79.402822": {
+  "name": "703 Spadina Avenue, Toronto",
+  "source": "wikidata",
+  "qid": "Q111366737",
+  "description": "building on the University of Toronto St. George campus"
+ },
+ "43.665252,-79.371201": {
+  "name": "Cabbagetown Northwest Heritage Conservation District",
+  "source": "wikidata",
+  "qid": "Q43160852",
+  "description": "historic district in Toronto, Ontario, Canada"
+ },
+ "43.665308,-79.395723": {
+  "name": "Trinity College (Main Building)",
+  "source": "wikidata",
+  "qid": "Q111193730",
+  "description": "headquarters building of Trinity College and home to Trinity College Archives on the University of Toronto St. George campus"
+ },
+ "43.665410,-79.464543": {
+  "name": "The Junction",
+  "source": "wikidata",
+  "qid": "Q7743816",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.665457,-79.468595": {
+  "name": "Beaver Theatre",
+  "source": "wikidata",
+  "qid": "Q38370779",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.665483,-79.352634": {
+  "name": "Broadview Theatre",
+  "source": "wikidata",
+  "qid": "Q38370847",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.665833,-79.384932": {
+  "name": "Five Condos",
+  "source": "wikidata",
+  "qid": "Q1421489",
+  "description": "condo building in Toronto"
+ },
+ "43.665857,-79.368614": {
+  "name": "Winchester Hotel",
+  "source": "wikidata",
+  "qid": "Q120493846",
+  "description": "hotel building in Toronto, Ontario, Canada"
+ },
+ "43.665882,-79.385931": {
+  "name": "Canadian Music Centre",
+  "source": "wikidata",
+  "qid": "Q2945374",
+  "description": "arts organization based in Toronto, Ontario, Canada"
+ },
+ "43.666064,-79.392382": {
+  "name": "Northrop Frye Hall",
+  "source": "wikidata",
+  "qid": "Q111192355",
+  "description": "building of Victoria University on the University of Toronto St. George campus"
+ },
+ "43.666074,-79.385036": {
+  "name": "Five Condos",
+  "source": "wikidata",
+  "qid": "Q1421489",
+  "description": "condo building in Toronto"
+ },
+ "43.666133,-79.393908": {
+  "name": "Henry N.R. Jackman Faculty of Law",
+  "source": "wikidata",
+  "qid": "Q7896483",
+  "description": "Law school of the University of Toronto"
+ },
+ "43.666165,-79.367232": {
+  "name": "Winchester Street Theatre",
+  "source": "wikidata",
+  "qid": "Q42989366",
+  "description": "theater in Toronto, Canada"
+ },
+ "43.666284,-79.378333": {
+  "name": "Keg Mansion",
+  "source": "wikidata",
+  "qid": "Q6383426",
+  "description": "building in Toronto, Canada"
+ },
+ "43.666301,-79.403288": {
+  "name": "Miles Nadal Jewish Community Centre",
+  "source": "wikidata",
+  "qid": "Q128627714",
+  "description": "community centre in Toronto, Canada"
+ },
+ "43.666551,-79.385268": {
+  "name": "Masonic Hall and Charles Levey Houses",
+  "source": "wikidata",
+  "qid": "Q109110173",
+  "description": "heritage structure in Toronto, Ontario, Canada"
+ },
+ "43.666577,-79.388094": {
+  "name": "Institute of Public Administration of Canada",
+  "source": "wikidata",
+  "qid": "Q30293257",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.666676,-79.403762": {
+  "name": "Al Green Theatre",
+  "source": "wikidata",
+  "qid": "Q128627189",
+  "description": "performance hall in Toronto, Canada"
+ },
+ "43.666700,-79.381346": {
+  "name": "Storm Crow Manor",
+  "source": "wikidata",
+  "qid": "Q114712568",
+  "description": "science-fiction-themed bar and restaurant in Toronto, Ontario, Canada"
+ },
+ "43.666724,-79.392627": {
+  "name": "Emmanuel College",
+  "source": "wikidata",
+  "qid": "Q3052646",
+  "description": "theological college of Victoria University in the University of Toronto"
+ },
+ "43.666834,-79.381399": {
+  "name": "Storm Crow Manor",
+  "source": "wikidata",
+  "qid": "Q114712568",
+  "description": "science-fiction-themed bar and restaurant in Toronto, Ontario, Canada"
+ },
+ "43.666843,-79.391003": {
+  "name": "Burwash Residence (Upper Houses)",
+  "source": "wikidata",
+  "qid": "Q111095672",
+  "description": "student residence of Victoria University on the University of Toronto St. George campus"
+ },
+ "43.666922,-79.402701": {
+  "name": "Tartu College",
+  "source": "wikidata",
+  "qid": "Q3737707",
+  "description": "Student residence, and Estonian culture centre in Ontario"
+ },
+ "43.666926,-79.391956": {
+  "name": "Victoria University",
+  "source": "wikidata",
+  "qid": "Q3551503",
+  "description": "federated college of the University of Toronto, Canada"
+ },
+ "43.667015,-79.396117": {
+  "name": "Varsity Centre, University of Toronto",
+  "source": "wikidata",
+  "qid": "Q111679068",
+  "description": "multi-purpose athletic facility on the University of Toronto St. George campus"
+ },
+ "43.667073,-79.374655": {
+  "name": "Hambourg Conservatory of Music",
+  "source": "wikidata",
+  "qid": "Q85423902",
+  "description": "the school of music in Toronto"
+ },
+ "43.667167,-79.401516": {
+  "name": "Bloor Street United Church",
+  "source": "wikidata",
+  "qid": "Q4928405",
+  "description": "church in Ontario, Canada"
+ },
+ "43.667242,-79.393529": {
+  "name": "Museum",
+  "source": "wikidata",
+  "qid": "Q1041205",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto subway"
+ },
+ "43.667271,-79.373754": {
+  "name": "Hambourg Conservatory of Music",
+  "source": "wikidata",
+  "qid": "Q85423902",
+  "description": "the school of music in Toronto"
+ },
+ "43.667356,-79.404305": {
+  "name": "Spadina station",
+  "source": "wikidata",
+  "qid": "Q1041160",
+  "description": "Toronto subway station"
+ },
+ "43.667516,-79.403128": {
+  "name": "Paul Martel Park",
+  "source": "wikidata",
+  "qid": "Q109716713",
+  "description": "urban park in Toronto, Canada"
+ },
+ "43.667518,-79.399819": {
+  "name": "Bata Shoe Museum",
+  "source": "wikidata",
+  "qid": "Q810693",
+  "description": "footwear museum in Toronto, Ontario, Canada"
+ },
+ "43.667552,-79.385664": {
+  "name": "CAA Theatre",
+  "source": "wikidata",
+  "qid": "Q14875381",
+  "description": "theatre and former cinema in Toronto, Canada"
+ },
+ "43.667584,-79.403979": {
+  "name": "Spadina station",
+  "source": "wikidata",
+  "qid": "Q1041160",
+  "description": "Toronto subway station"
+ },
+ "43.667614,-79.403889": {
+  "name": "Spadina station",
+  "source": "wikidata",
+  "qid": "Q1041160",
+  "description": "Toronto subway station"
+ },
+ "43.667623,-79.342759": {
+  "name": "Toronto Fire Station 324",
+  "source": "wikidata",
+  "qid": "Q112032411",
+  "description": "fire station in Toronto, Ontario, Canada"
+ },
+ "43.667706,-79.394683": {
+  "name": "Royal Ontario Museum Library & Archives",
+  "source": "wikidata",
+  "qid": "Q97466185",
+  "description": "library and archives in Toronto, Ontario, Canada"
+ },
+ "43.667725,-79.403322": {
+  "name": "Paul Martel Park",
+  "source": "wikidata",
+  "qid": "Q109716713",
+  "description": "urban park in Toronto, Canada"
+ },
+ "43.667746,-79.404283": {
+  "name": "Spadina station",
+  "source": "wikidata",
+  "qid": "Q1041160",
+  "description": "Toronto subway station"
+ },
+ "43.667801,-79.386749": {
+  "name": "Regis College",
+  "source": "wikidata",
+  "qid": "Q3423622",
+  "description": "theological college and Jesuit Faculty of Theology at the University of Toronto"
+ },
+ "43.667810,-79.392975": {
+  "name": "Annesley Hall",
+  "source": "wikidata",
+  "qid": "Q4769020",
+  "description": "student residence of Victoria University on the University of Toronto St. George campus"
+ },
+ "43.667831,-79.398316": {
+  "name": "OISE Library",
+  "source": "wikidata",
+  "qid": "Q76004477",
+  "description": "Ontario Institute for Studies in Education Library at the University of Toronto"
+ },
+ "43.667839,-79.403326": {
+  "name": "Paul Martel Park",
+  "source": "wikidata",
+  "qid": "Q109716713",
+  "description": "urban park in Toronto, Canada"
+ },
+ "43.667867,-79.403633": {
+  "name": "Paul Martel Park",
+  "source": "wikidata",
+  "qid": "Q109716713",
+  "description": "urban park in Toronto, Canada"
+ },
+ "43.667918,-79.390399": {
+  "name": "Victoria University (Toronto, Ont.). Stephenson House",
+  "source": "wikidata",
+  "qid": "Q106824903",
+  "description": "administrative building of Victoria University on the University of Toronto St. George campus"
+ },
+ "43.667941,-79.404043": {
+  "name": "Spadina station",
+  "source": "wikidata",
+  "qid": "Q1041160",
+  "description": "Toronto subway station"
+ },
+ "43.667977,-79.404098": {
+  "name": "Spadina station",
+  "source": "wikidata",
+  "qid": "Q1041160",
+  "description": "Toronto subway station"
+ },
+ "43.667997,-79.385833": {
+  "name": "CAA Theatre",
+  "source": "wikidata",
+  "qid": "Q14875381",
+  "description": "theatre and former cinema in Toronto, Canada"
+ },
+ "43.668009,-79.399459": {
+  "name": "York Club",
+  "source": "wikidata",
+  "qid": "Q8055399",
+  "description": "house in Toronto, Canada"
+ },
+ "43.668038,-79.397394": {
+  "name": "Bloor-Bedford Parkette",
+  "source": "wikidata",
+  "qid": "Q109716529",
+  "description": "public park in Toronto, Canada"
+ },
+ "43.668141,-79.340412": {
+  "name": "Pape Theater",
+  "source": "wikidata",
+  "qid": "Q38371738",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.668211,-79.388847": {
+  "name": "Gairdner Foundation",
+  "source": "wikidata",
+  "qid": "Q1491322",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.668470,-79.363648": {
+  "name": "Cabbagetown North Heritage Conservation District",
+  "source": "wikidata",
+  "qid": "Q43160847",
+  "description": "historic district in Toronto, Ontario, Canada"
+ },
+ "43.668498,-79.387382": {
+  "name": "35 Charles Street West, Toronto",
+  "source": "wikidata",
+  "qid": "Q111016767",
+  "description": "student residence on the University of Toronto St. George campus"
+ },
+ "43.668505,-79.298417": {
+  "name": "Beaches International Jazz Festival",
+  "source": "wikidata",
+  "qid": "Q4875855",
+  "description": "music festival in Toronto, Canada"
+ },
+ "43.668580,-79.399754": {
+  "name": "Hong Kong Economic and Trade Office, Toronto",
+  "source": "wikidata",
+  "qid": "Q108863967",
+  "description": "trade office of Hong Kong to Canada"
+ },
+ "43.668653,-79.386111": {
+  "name": "Cinecity",
+  "source": "wikidata",
+  "qid": "Q38370955",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.668659,-79.390691": {
+  "name": "Enigma Yorkville",
+  "source": "wikidata",
+  "qid": "Q121335351",
+  "description": "restaurant in Toronto, Ontario, Canada"
+ },
+ "43.668706,-79.394132": {
+  "name": "Church of the Redeemer",
+  "source": "wikidata",
+  "qid": "Q5118031",
+  "description": "Anglican church building in Toronto, Ontario, Canada"
+ },
+ "43.668723,-79.386138": {
+  "name": "Cinecity",
+  "source": "wikidata",
+  "qid": "Q38370955",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.668839,-79.404540": {
+  "name": "Alliance française de Toronto",
+  "source": "wikidata",
+  "qid": "Q22980717",
+  "description": "cultural and language institute in the Greater Toronto Area"
+ },
+ "43.668957,-79.297188": {
+  "name": "Dr. William D. Young Memorial",
+  "source": "wikidata",
+  "qid": "Q5304471",
+  "description": "memorial drinking fountain in Toronto, Canada"
+ },
+ "43.669140,-79.378099": {
+  "name": "Casey House (Toronto, Ontario)",
+  "source": "wikidata",
+  "qid": "Q14875122",
+  "description": "hospital in Ontario, Canada"
+ },
+ "43.669144,-79.506965": {
+  "name": "Lambton Golf Club",
+  "source": "wikidata",
+  "qid": "Q15727917",
+  "description": "golf and tennis club in Toronto, Canada"
+ },
+ "43.669170,-79.388406": {
+  "name": "Manulife Centre",
+  "source": "wikidata",
+  "qid": "Q1682432",
+  "description": "building in Toronto"
+ },
+ "43.669372,-79.386408": {
+  "name": "Uptown Theatre",
+  "source": "wikidata",
+  "qid": "Q7899459",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.669489,-79.390587": {
+  "name": "Mink Mile",
+  "source": "wikidata",
+  "qid": "Q18167804",
+  "description": "upscale fashion district"
+ },
+ "43.669738,-79.389468": {
+  "name": "Cineplex Varsity & Varsity VIP",
+  "source": "wikidata",
+  "qid": "Q38371030",
+  "description": "cinema in Toronto, Ontario, Canada"
+ },
+ "43.669970,-79.379892": {
+  "name": "St. George—St. David",
+  "source": "wikidata",
+  "qid": "Q7588239",
+  "description": "former provincial electoral district in Ontario, Canada"
+ },
+ "43.670011,-79.388013": {
+  "name": "Strangers' Burying Ground",
+  "source": "wikidata",
+  "qid": "Q111181658",
+  "description": "cemetery in Toronto, Ontario, Canada"
+ },
+ "43.670197,-79.457037": {
+  "name": "St. Mary’s Polish Roman Catholic Church",
+  "source": "wikidata",
+  "qid": "Q11803752",
+  "description": "Polish Catholic church in Toronto, Ontario, Canada"
+ },
+ "43.670231,-79.386763": {
+  "name": "Bloor Street",
+  "source": "wikidata",
+  "qid": "Q885416",
+  "description": "major thoroughfare in Toronto"
+ },
+ "43.670334,-79.388233": {
+  "name": "Strangers' Burying Ground",
+  "source": "wikidata",
+  "qid": "Q111181658",
+  "description": "cemetery in Toronto, Ontario, Canada"
+ },
+ "43.670338,-79.410237": {
+  "name": "Casa Loma",
+  "source": "wikidata",
+  "qid": "Q5047848",
+  "description": "neighbourhood in Toronto, Canada"
+ },
+ "43.670375,-79.394821": {
+  "name": "The Purple Onion coffee house",
+  "source": "wikidata",
+  "qid": "Q23462022",
+  "description": "Canadian music venue"
+ },
+ "43.670687,-79.385940": {
+  "name": "Bloor–Yonge",
+  "source": "wikidata",
+  "qid": "Q885413",
+  "description": "subway station on the Bloor–Danforth and Yonge-University-Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.670911,-79.438841": {
+  "name": "Bristol Avenue Parkette West",
+  "source": "wikidata",
+  "qid": "Q108939151",
+  "description": "Parkette in Toronto, Canada"
+ },
+ "43.671000,-79.395092": {
+  "name": "The Purple Onion coffee house",
+  "source": "wikidata",
+  "qid": "Q23462022",
+  "description": "Canadian music venue"
+ },
+ "43.671040,-79.383146": {
+  "name": "Toronto Grace Health Centre",
+  "source": "wikidata",
+  "qid": "Q7826397",
+  "description": "hospital in Canada"
+ },
+ "43.671142,-79.391259": {
+  "name": "John Daniels House",
+  "source": "wikidata",
+  "qid": "Q6228542",
+  "description": "19th-century house in Toronto"
+ },
+ "43.671442,-79.376515": {
+  "name": "James Cooper House",
+  "source": "wikidata",
+  "qid": "Q6131714",
+  "description": "house in Toronto, Canada"
+ },
+ "43.671453,-79.375806": {
+  "name": "Trinity Evangelical Lutheran Church",
+  "source": "wikidata",
+  "qid": "Q7842801",
+  "description": "church in Sherbourne, Canada"
+ },
+ "43.671455,-79.376307": {
+  "name": "Trinity Evangelical Lutheran Church",
+  "source": "wikidata",
+  "qid": "Q7842801",
+  "description": "church in Sherbourne, Canada"
+ },
+ "43.671634,-79.376288": {
+  "name": "Trinity Evangelical Lutheran Church",
+  "source": "wikidata",
+  "qid": "Q7842801",
+  "description": "church in Sherbourne, Canada"
+ },
+ "43.671818,-79.376144": {
+  "name": "Trinity Evangelical Lutheran Church",
+  "source": "wikidata",
+  "qid": "Q7842801",
+  "description": "church in Sherbourne, Canada"
+ },
+ "43.671869,-79.376665": {
+  "name": "Sherbourne",
+  "source": "wikidata",
+  "qid": "Q1042227",
+  "description": "station on the Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.671879,-79.386665": {
+  "name": "Toronto Reference Library",
+  "source": "wikidata",
+  "qid": "Q7826494",
+  "description": "public library in Toronto, Canada"
+ },
+ "43.671903,-79.395416": {
+  "name": "Sushi Masaki Saito",
+  "source": "wikidata",
+  "qid": "Q114289242",
+  "description": "Japanese restaurant"
+ },
+ "43.671923,-79.387453": {
+  "name": "Canadian Association for Co-operative Education",
+  "source": "wikidata",
+  "qid": "Q30265037",
+  "description": "education organization in Toronto, Canada"
+ },
+ "43.672035,-79.383589": {
+  "name": "Consulate General of the United Arab Emirates, Toronto",
+  "source": "wikidata",
+  "qid": "Q80411543",
+  "description": "diplomatic mission in Toronto, Canada"
+ },
+ "43.672131,-79.374926": {
+  "name": "Toronto Fire Station 313",
+  "source": "wikidata",
+  "qid": "Q112032342",
+  "description": "fire station in Toronto, Ontario, Canada"
+ },
+ "43.672164,-79.376256": {
+  "name": "Sherbourne",
+  "source": "wikidata",
+  "qid": "Q1042227",
+  "description": "station on the Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.672309,-79.321820": {
+  "name": "Eastwood Theatre",
+  "source": "wikidata",
+  "qid": "Q38371188",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.672364,-79.376852": {
+  "name": "Sherbourne",
+  "source": "wikidata",
+  "qid": "Q1042227",
+  "description": "station on the Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.672619,-79.385947": {
+  "name": "Studio Building",
+  "source": "wikidata",
+  "qid": "Q211631",
+  "description": "studio"
+ },
+ "43.672684,-79.387766": {
+  "name": "Masonic Temple",
+  "source": "wikidata",
+  "qid": "Q4284139",
+  "description": "building in Toronto, Ontario, Canada"
+ },
+ "43.672871,-79.387844": {
+  "name": "Masonic Temple",
+  "source": "wikidata",
+  "qid": "Q4284139",
+  "description": "building in Toronto, Ontario, Canada"
+ },
+ "43.673433,-79.369142": {
+  "name": "Castle Frank",
+  "source": "wikidata",
+  "qid": "Q653615",
+  "description": "subway station on the Bloor–Danforth line of the Toronto, Ontario, Canada subway"
+ },
+ "43.673652,-79.385666": {
+  "name": "START Clinic",
+  "source": "wikidata",
+  "qid": "Q50037161",
+  "description": "healthcare organization in Toronto, Canada"
+ },
+ "43.673760,-79.368190": {
+  "name": "Castle Frank",
+  "source": "wikidata",
+  "qid": "Q653615",
+  "description": "subway station on the Bloor–Danforth line of the Toronto, Ontario, Canada subway"
+ },
+ "43.674102,-79.368819": {
+  "name": "Castle Frank",
+  "source": "wikidata",
+  "qid": "Q653615",
+  "description": "subway station on the Bloor–Danforth line of the Toronto, Ontario, Canada subway"
+ },
+ "43.674392,-79.406677": {
+  "name": "Dupont",
+  "source": "wikidata",
+  "qid": "Q1041606",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto subway"
+ },
+ "43.674697,-79.406737": {
+  "name": "Dupont",
+  "source": "wikidata",
+  "qid": "Q1041606",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto subway"
+ },
+ "43.674727,-79.406893": {
+  "name": "Dupont",
+  "source": "wikidata",
+  "qid": "Q1041606",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto subway"
+ },
+ "43.674857,-79.407085": {
+  "name": "Dupont",
+  "source": "wikidata",
+  "qid": "Q1041606",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto subway"
+ },
+ "43.675106,-79.283450": {
+  "name": "George Davis House",
+  "source": "wikidata",
+  "qid": "Q5538425",
+  "description": "house in Toronto, Canada"
+ },
+ "43.675960,-79.424460": {
+  "name": "Bracondale Hill",
+  "source": "wikidata",
+  "qid": "Q4953749",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.676071,-79.388655": {
+  "name": "Rosedale",
+  "source": "wikidata",
+  "qid": "Q1040680",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.676217,-79.358830": {
+  "name": "Broadview",
+  "source": "wikidata",
+  "qid": "Q922768",
+  "description": "subway station on the Bloor–Danforth line of the Toronto, Ontario, Canada subway"
+ },
+ "43.676354,-79.389386": {
+  "name": "Rosedale",
+  "source": "wikidata",
+  "qid": "Q1040680",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.677196,-79.397592": {
+  "name": "Church of the Messiah",
+  "source": "wikidata",
+  "qid": "Q5117993",
+  "description": "church in Toronto, Ontario"
+ },
+ "43.677424,-79.408100": {
+  "name": "Baldwin Steps",
+  "source": "wikidata",
+  "qid": "Q4090691",
+  "description": "staircase in Toronto"
+ },
+ "43.678110,-79.409379": {
+  "name": "Casa Loma",
+  "source": "wikidata",
+  "qid": "Q1046446",
+  "description": "mansion in Toronto, Canada."
+ },
+ "43.678450,-79.347328": {
+  "name": "Greektown",
+  "source": "wikidata",
+  "qid": "Q9357917",
+  "description": "neighbourhood in Toronto, Canada"
+ },
+ "43.678778,-79.338290": {
+  "name": "Ravina Project Toronto",
+  "source": "wikidata",
+  "qid": "Q60786675",
+  "description": "research project"
+ },
+ "43.678969,-79.344885": {
+  "name": "Palace Theatre",
+  "source": "wikidata",
+  "qid": "Q38371721",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.679073,-79.345137": {
+  "name": "Odeon Danforth",
+  "source": "wikidata",
+  "qid": "Q38371586",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.679878,-79.323198": {
+  "name": "Monarch Park Collegiate",
+  "source": "wikidata",
+  "qid": "Q6898019",
+  "description": "high school in Toronto, Ontario, Canada"
+ },
+ "43.680817,-79.390760": {
+  "name": "North Toronto station",
+  "source": "wikidata",
+  "qid": "Q106521655",
+  "description": "former railway station in Toronto"
+ },
+ "43.681436,-79.391334": {
+  "name": "Roman Catholic Archdiocese of Toronto",
+  "source": "wikidata",
+  "qid": "Q1789973",
+  "description": "Catholic ecclesiastical territory in Canada"
+ },
+ "43.681824,-79.411417": {
+  "name": "1995 Russell Hill subway accident",
+  "source": "wikidata",
+  "qid": "Q1312430",
+  "description": "deadly Toronto Subway train collision"
+ },
+ "43.681967,-79.391569": {
+  "name": "Roman Catholic Archdiocese of Toronto",
+  "source": "wikidata",
+  "qid": "Q1789973",
+  "description": "Catholic ecclesiastical territory in Canada"
+ },
+ "43.682376,-79.303866": {
+  "name": "Upper Beaches",
+  "source": "wikidata",
+  "qid": "Q7898480",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.682710,-79.420006": {
+  "name": "Vaughan Theatre",
+  "source": "wikidata",
+  "qid": "Q38372133",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.683657,-79.416092": {
+  "name": "St. Clair West TTC station emergency exit",
+  "source": "wikidata",
+  "qid": "Q109369090",
+  "description": "St. Clair West emergency exit featuring a mural by Paula \"Bomba\" Gonzalez-Ossa and the Na-Me-Res (Native Men's Residence)"
+ },
+ "43.683934,-79.392380": {
+  "name": "Ontario HIV Treatment Network",
+  "source": "wikidata",
+  "qid": "Q30284131",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.684135,-79.372272": {
+  "name": "Rosedale United Church",
+  "source": "wikidata",
+  "qid": "Q113461479",
+  "description": "church in Toronto, Ontario, Canada"
+ },
+ "43.685012,-79.392821": {
+  "name": "York School (Toronto)",
+  "source": "wikidata",
+  "qid": "Q14875496",
+  "description": "Co-ed school for grades JK-12 in Toronto"
+ },
+ "43.685690,-79.312796": {
+  "name": "Prince of Wales Theatre",
+  "source": "wikidata",
+  "qid": "Q38370494",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.686232,-79.370168": {
+  "name": "Government House",
+  "source": "wikidata",
+  "qid": "Q5588907",
+  "description": "house in Toronto, Canada"
+ },
+ "43.686343,-79.405608": {
+  "name": "Timothy Eaton Memorial Church",
+  "source": "wikidata",
+  "qid": "Q7807176",
+  "description": "church building in Toronto, Canada"
+ },
+ "43.686446,-79.400151": {
+  "name": "Deer Park United Church",
+  "source": "wikidata",
+  "qid": "Q5250823",
+  "description": "church in Ontario, Canada"
+ },
+ "43.686533,-79.313145": {
+  "name": "Woodbine",
+  "source": "wikidata",
+  "qid": "Q1042190",
+  "description": "station on Line 2 Bloor–Danforth in Toronto, Ontario, Canada"
+ },
+ "43.686663,-79.399486": {
+  "name": "Imperial Oil Building",
+  "source": "wikidata",
+  "qid": "Q14875205",
+  "description": "skyscraper in Toronto, Canada"
+ },
+ "43.686985,-79.399879": {
+  "name": "Deer Park United Church",
+  "source": "wikidata",
+  "qid": "Q5250823",
+  "description": "church in Ontario, Canada"
+ },
+ "43.687346,-79.398065": {
+  "name": "Council of Ministers of Education",
+  "source": "wikidata",
+  "qid": "Q30293357",
+  "description": "government organization in Toronto, Canada"
+ },
+ "43.688029,-79.394067": {
+  "name": "St. Clair",
+  "source": "wikidata",
+  "qid": "Q1041215",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto subway"
+ },
+ "43.688434,-79.389076": {
+  "name": "Vale of Avoca",
+  "source": "wikidata",
+  "qid": "Q7909524",
+  "description": "name of a deep ravine and of a large viaduct in Toronto, Ontario, Canada"
+ },
+ "43.688645,-79.412669": {
+  "name": "Forest Hill Barber Shop",
+  "source": "wikidata",
+  "qid": "Q131420189",
+  "description": "barbershop in Toronto, Ontario, Canada"
+ },
+ "43.688658,-79.391487": {
+  "name": "The Crohn's and Colitis Foundation of Canada",
+  "source": "wikidata",
+  "qid": "Q7728144",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.689120,-79.394519": {
+  "name": "Odeon Hyland",
+  "source": "wikidata",
+  "qid": "Q38371620",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.689976,-79.293852": {
+  "name": "Avalon Theatre",
+  "source": "wikidata",
+  "qid": "Q38370705",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.690177,-79.394910": {
+  "name": "Christ Church Deer Park",
+  "source": "wikidata",
+  "qid": "Q5108795",
+  "description": "Anglican church in Toronto, Ontario, Canada"
+ },
+ "43.690750,-79.395030": {
+  "name": "Yorkminster Park Baptist Church",
+  "source": "wikidata",
+  "qid": "Q8055650",
+  "description": "Baptist church building in Toronto, Ontario, Canada"
+ },
+ "43.692887,-79.403868": {
+  "name": "Upper Canada College",
+  "source": "wikidata",
+  "qid": "Q1542352",
+  "description": "private IB World School for boys in Toronto, Canada"
+ },
+ "43.693616,-79.293273": {
+  "name": "Dentonia Park",
+  "source": "wikidata",
+  "qid": "Q116963540",
+  "description": "park in Toronto, Ontario, Canada"
+ },
+ "43.695701,-79.450304": {
+  "name": "Fairbank",
+  "source": "wikidata",
+  "qid": "Q18150888",
+  "description": "LRT station in Toronto, Canada"
+ },
+ "43.698296,-79.396606": {
+  "name": "Healthy Minds Canada",
+  "source": "wikidata",
+  "qid": "Q30271002",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.700150,-79.516218": {
+  "name": "Odeon Weston",
+  "source": "wikidata",
+  "qid": "Q38371650",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.700553,-79.515996": {
+  "name": "Odeon Weston",
+  "source": "wikidata",
+  "qid": "Q38371650",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.701000,-79.425532": {
+  "name": "Forest Hill",
+  "source": "wikidata",
+  "qid": "Q17985774",
+  "description": "Underground LRT station in Toronto, Canada"
+ },
+ "43.702506,-79.397466": {
+  "name": "International Cinema",
+  "source": "wikidata",
+  "qid": "Q38371378",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.702627,-79.388185": {
+  "name": "Regent Theatre",
+  "source": "wikidata",
+  "qid": "Q38371928",
+  "description": "performing arts building and former cinema in Toronto, Ontario, Canada"
+ },
+ "43.702716,-79.417646": {
+  "name": "Chaplin",
+  "source": "wikidata",
+  "qid": "Q17986375",
+  "description": "underground LRT station in Toronto, Canada"
+ },
+ "43.703401,-79.397646": {
+  "name": "Against the Grain Theatre",
+  "source": "wikidata",
+  "qid": "Q121591617",
+  "description": "opera company based in Toronto, Ontario"
+ },
+ "43.704606,-79.408472": {
+  "name": "Avenue",
+  "source": "wikidata",
+  "qid": "Q17985687",
+  "description": "underground LRT station in Toronto, Canada"
+ },
+ "43.705697,-79.388899": {
+  "name": "Mount Pleasant Cinema",
+  "source": "wikidata",
+  "qid": "Q38371504",
+  "description": "cinema in Toronto, Ontario, Canada"
+ },
+ "43.706087,-79.389256": {
+  "name": "Mount Pleasant Cinema",
+  "source": "wikidata",
+  "qid": "Q38371504",
+  "description": "cinema in Toronto, Ontario, Canada"
+ },
+ "43.706802,-79.398330": {
+  "name": "Yonge and Eglinton",
+  "source": "wikidata",
+  "qid": "Q14875490",
+  "description": "human settlement in Canada"
+ },
+ "43.707340,-79.395463": {
+  "name": "Ontario Neurotrauma Foundation",
+  "source": "wikidata",
+  "qid": "Q30296679",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.708221,-79.398642": {
+  "name": "Ivey Foundation",
+  "source": "wikidata",
+  "qid": "Q30273016",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.708419,-79.390154": {
+  "name": "Mount Pleasant",
+  "source": "wikidata",
+  "qid": "Q18167806",
+  "description": "underground LRT station in Canada"
+ },
+ "43.708873,-79.399145": {
+  "name": "Ivey Foundation",
+  "source": "wikidata",
+  "qid": "Q30273016",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.709598,-79.398965": {
+  "name": "site of Montgomery's Tavern",
+  "source": "wikidata",
+  "qid": "Q23647587",
+  "description": "historic site in Toronto"
+ },
+ "43.715158,-79.604129": {
+  "name": "Canadian Horse Racing Hall of Fame",
+  "source": "wikidata",
+  "qid": "Q5030110",
+  "description": "hall of fame"
+ },
+ "43.715485,-79.400206": {
+  "name": "Circle Theatre",
+  "source": "wikidata",
+  "qid": "Q38371042",
+  "description": "former cinema in Toronto, Ontario, Canada"
+ },
+ "43.720446,-79.338748": {
+  "name": "Don Valley",
+  "source": "wikidata",
+  "qid": "Q18150154",
+  "description": "future underground LRT station in Toronto, Canada"
+ },
+ "43.720512,-79.429567": {
+  "name": "Canadian Friends Of Tel-Aviv University",
+  "source": "wikidata",
+  "qid": "Q30265005",
+  "description": "nonprofit organization in Toronto, Canada"
+ },
+ "43.721974,-79.401567": {
+  "name": "Alexander Muir Memorial Gardens",
+  "source": "wikidata",
+  "qid": "Q28035261",
+  "description": "municipal park in Canada"
+ },
+ "43.726323,-79.402547": {
+  "name": "Lawrence",
+  "source": "wikidata",
+  "qid": "Q681961",
+  "description": "Toronto subway station"
+ },
+ "43.728801,-79.392037": {
+  "name": "Wanless Park",
+  "source": "wikidata",
+  "qid": "Q7967977",
+  "description": "human settlement in Toronto, Ontario, Canada"
+ },
+ "43.731394,-79.271202": {
+  "name": "Ionview",
+  "source": "wikidata",
+  "qid": "Q20710611",
+  "description": "future LRT stop in Toronto, Canada"
+ },
+ "43.732522,-79.264804": {
+  "name": "A Sense of Place",
+  "source": "wikidata",
+  "qid": "Q109505725",
+  "description": "Mural painted on outside of Kennedy Subway Station in Scarborough, Ontario, Canada"
+ },
+ "43.732640,-79.263530": {
+  "name": "Kennedy",
+  "source": "wikidata",
+  "qid": "Q1042126",
+  "description": "station on Line 2 Bloor–Danforth subway line in Toronto, Ontario, Canada"
+ },
+ "43.737651,-79.243739": {
+  "name": "Elane Theatre",
+  "source": "wikidata",
+  "qid": "Q38577578",
+  "description": "former cinema in Scarborough, Toronto, Ontario, Canada"
+ },
+ "43.744097,-79.406627": {
+  "name": "York Mills",
+  "source": "wikidata",
+  "qid": "Q964935",
+  "description": "subway station on the Yonge–University–Spadina line of the Toronto, Ontario, Canada subway"
+ },
+ "43.756515,-79.517575": {
+  "name": "Jane and Finch",
+  "source": "wikidata",
+  "qid": "Q6152978",
+  "description": "neighborhood in Toronto, Canada"
+ },
+ "43.757217,-79.517607": {
+  "name": "Jane and Finch",
+  "source": "wikidata",
+  "qid": "Q6152978",
+  "description": "neighborhood in Toronto, Canada"
+ },
+ "43.779755,-79.415643": {
+  "name": "North York",
+  "source": "wikidata",
+  "qid": "Q1586510",
+  "description": "administrative division in Toronto, Ontario, Canada"
+ },
+ "43.784679,-79.185975": {
+  "name": "University of Toronto Scarborough bus loop",
+  "source": "wikidata",
+  "qid": "Q137599971",
+  "description": "bus terminal in Toronto, Ontario, Canada"
+ },
+ "43.633751,-79.419255": {
+  "name": "BMO Field",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.650711,-79.403697": {
+  "name": "Dundas Street West",
+  "source": "nominatim"
+ },
+ "43.650113,-79.369067": {
+  "name": "130 Frederick Street",
+  "source": "nominatim"
+ },
+ "43.643415,-79.466631": {
+  "name": "Cherry Hill Trail",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.669955,-79.356347": {
+  "name": "Riverdale Park Track",
+  "source": "nominatim"
+ },
+ "43.640212,-79.377017": {
+  "name": "Harbour Square",
+  "source": "nominatim"
+ },
+ "43.774234,-79.504888": {
+  "name": "Campus Walk",
+  "source": "nominatim",
+  "neighbourhood": "York University Heights"
+ },
+ "43.645967,-79.379162": {
+  "name": "Union Station",
+  "source": "nominatim"
+ },
+ "43.819852,-79.185339": {
+  "name": "Africa Patio",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.635168,-79.396184": {
+  "name": "Harbourfront-CityPlace",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.702951,-79.324853": {
+  "name": "Boomerang Trail",
+  "source": "nominatim",
+  "neighbourhood": "East York"
+ },
+ "43.651369,-79.366789": {
+  "name": "147 Princess Street",
+  "source": "nominatim"
+ },
+ "43.664929,-79.384563": {
+  "name": "Ultra Convenience",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.676696,-79.415756": {
+  "name": "Starkmans Health Care Depot",
+  "source": "nominatim"
+ },
+ "43.665836,-79.298414": {
+  "name": "Kew Gardens Dog Park",
+  "source": "nominatim"
+ },
+ "43.667029,-79.397103": {
+  "name": "Devonshire Place",
+  "source": "nominatim"
+ },
+ "43.746968,-79.198347": {
+  "name": "Church of the Holy Trinity",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.651251,-79.463554": {
+  "name": "High Park Nature Centre",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.657873,-79.517334": {
+  "name": "Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.693624,-79.396889": {
+  "name": "101 Lawton Boulevard",
+  "source": "nominatim"
+ },
+ "43.686543,-79.401457": {
+  "name": "469 Avenue Road",
+  "source": "nominatim"
+ },
+ "43.724636,-79.302737": {
+  "name": "Victoria Park Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Victoria Village"
+ },
+ "43.614512,-79.380570": {
+  "name": "Lakeshore Avenue",
+  "source": "nominatim"
+ },
+ "43.656500,-79.377133": {
+  "name": "260 Church Street",
+  "source": "nominatim"
+ },
+ "43.671619,-79.421527": {
+  "name": "274 Christie Street",
+  "source": "nominatim"
+ },
+ "43.721274,-79.400477": {
+  "name": "Alexander Muir Road",
+  "source": "nominatim"
+ },
+ "43.671113,-79.384647": {
+  "name": "Post Office",
+  "source": "nominatim"
+ },
+ "43.641897,-79.408744": {
+  "name": "Walnut Avenue",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.647331,-79.379706": {
+  "name": "Wellington Street West",
+  "source": "nominatim",
+  "neighbourhood": "Financial District"
+ },
+ "43.644874,-79.527968": {
+  "name": "Islington Manor",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.647076,-79.334444": {
+  "name": "Unwin Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.642618,-79.532231": {
+  "name": "Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.649366,-79.393408": {
+  "name": "369 Queen Street West",
+  "source": "nominatim"
+ },
+ "43.683078,-79.418262": {
+  "name": "INS Market",
+  "source": "nominatim"
+ },
+ "43.842328,-79.542243": {
+  "name": "Wonder Mountain's Guardians",
+  "source": "nominatim"
+ },
+ "43.648580,-79.367739": {
+  "name": "Lower Sherbourne Street",
+  "source": "nominatim"
+ },
+ "43.651540,-79.372343": {
+  "name": "Jarvis Street",
+  "source": "nominatim"
+ },
+ "43.666453,-79.455441": {
+  "name": "Edwin Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Junction Triangle"
+ },
+ "43.725901,-79.365099": {
+  "name": "Glendon Riparian",
+  "source": "nominatim"
+ },
+ "43.845809,-79.380094": {
+  "name": "Convention Centre",
+  "source": "nominatim"
+ },
+ "43.689533,-79.417863": {
+  "name": "10 Glenayr Road",
+  "source": "nominatim"
+ },
+ "43.697076,-79.546786": {
+  "name": "Dixon Road",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.698184,-79.386449": {
+  "name": "344 Merton Street",
+  "source": "nominatim"
+ },
+ "43.713645,-79.354119": {
+  "name": "Vanderhoof Avenue",
+  "source": "nominatim"
+ },
+ "43.652637,-79.358092": {
+  "name": "Front Street East",
+  "source": "nominatim"
+ },
+ "43.676692,-79.412092": {
+  "name": "44 Dartnell Avenue",
+  "source": "nominatim"
+ },
+ "43.648494,-79.369729": {
+  "name": "Church in the City",
+  "source": "nominatim"
+ },
+ "43.656012,-79.393450": {
+  "name": "26 Baldwin Street",
+  "source": "nominatim"
+ },
+ "43.736374,-79.449185": {
+  "name": "20 Wilson Heights Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "Clanton Park"
+ },
+ "43.632076,-79.398870": {
+  "name": "Billy Bishop Toronto City Airport",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.633552,-79.350517": {
+  "name": "International Marine Passenger Terminal",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.639959,-79.380066": {
+  "name": "Waterfront Recreational Trail",
+  "source": "nominatim"
+ },
+ "43.648776,-79.368456": {
+  "name": "87 Frederick Street",
+  "source": "nominatim"
+ },
+ "43.665176,-79.433502": {
+  "name": "Southview Avenue",
+  "source": "nominatim"
+ },
+ "43.672473,-79.467535": {
+  "name": "1941 St. Clair Avenue West",
+  "source": "nominatim",
+  "neighbourhood": "Junction Area"
+ },
+ "43.672618,-79.467570": {
+  "name": "1952 St. Clair Avenue West",
+  "source": "nominatim",
+  "neighbourhood": "Junction Area"
+ },
+ "43.732954,-79.359989": {
+  "name": "Edwards Gardens Trail",
+  "source": "nominatim"
+ },
+ "43.627154,-79.389627": {
+  "name": "Toronto Island Park",
+  "source": "nominatim"
+ },
+ "43.662489,-79.358482": {
+  "name": "220 Oak Street",
+  "source": "nominatim"
+ },
+ "43.702386,-79.419077": {
+  "name": "Vincent Court",
+  "source": "nominatim",
+  "neighbourhood": "Forest Hill North"
+ },
+ "43.720973,-79.508720": {
+  "name": "2200 Jane Street",
+  "source": "nominatim",
+  "neighbourhood": "Oakdale-Beverley Heights"
+ },
+ "43.632742,-79.413148": {
+  "name": "Princes' Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.654480,-79.390315": {
+  "name": "150 St. Patrick Street",
+  "source": "nominatim"
+ },
+ "43.696152,-79.396156": {
+  "name": "1819 Yonge Street",
+  "source": "nominatim"
+ },
+ "43.730893,-79.267435": {
+  "name": "741 Kennedy Road",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.656832,-79.358909": {
+  "name": "68 Sumach Street",
+  "source": "nominatim"
+ },
+ "43.676367,-79.393174": {
+  "name": "Pears Avenue",
+  "source": "nominatim"
+ },
+ "43.702859,-79.503690": {
+  "name": "1677 Jane Street",
+  "source": "nominatim",
+  "neighbourhood": "Brookhaven-Amesbury"
+ },
+ "43.657093,-79.374563": {
+  "name": "Jarvis Street",
+  "source": "nominatim"
+ },
+ "43.684692,-79.411183": {
+  "name": "Spadina Road",
+  "source": "nominatim"
+ },
+ "43.698603,-79.373452": {
+  "name": "Mount Pleasant Cemetery",
+  "source": "nominatim"
+ },
+ "43.698901,-79.257272": {
+  "name": "Variety Village",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.647036,-79.394128": {
+  "name": "364 Adelaide Street West",
+  "source": "nominatim"
+ },
+ "43.647880,-79.438871": {
+  "name": "67 Shirley Street",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.649316,-79.366067": {
+  "name": "29 Princess Street",
+  "source": "nominatim"
+ },
+ "43.652742,-79.372831": {
+  "name": "115 Jarvis Street",
+  "source": "nominatim"
+ },
+ "43.674297,-79.346927": {
+  "name": "Leash-free zone",
+  "source": "nominatim"
+ },
+ "43.675578,-79.423045": {
+  "name": "902 Davenport Road",
+  "source": "nominatim"
+ },
+ "43.636586,-79.450683": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "South Parkdale"
+ },
+ "43.638924,-79.386612": {
+  "name": "259 Queens Quay West",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.671556,-79.448271": {
+  "name": "1590 Davenport Road",
+  "source": "nominatim",
+  "neighbourhood": "Corso Italia-Davenport"
+ },
+ "43.791637,-79.444522": {
+  "name": "TD",
+  "source": "nominatim",
+  "neighbourhood": "Newtonbrook West"
+ },
+ "43.641195,-79.376857": {
+  "name": "Queens Quay West",
+  "source": "nominatim"
+ },
+ "43.652449,-79.375460": {
+  "name": "107 Church Street",
+  "source": "nominatim"
+ },
+ "43.652962,-79.382633": {
+  "name": "Dr. C. Goldberg Dental Office",
+  "source": "nominatim"
+ },
+ "43.653173,-79.375754": {
+  "name": "127 Church Street",
+  "source": "nominatim"
+ },
+ "43.670828,-79.284282": {
+  "name": "4 Silver Birch Avenue",
+  "source": "nominatim"
+ },
+ "43.730895,-79.265993": {
+  "name": "Salaheddin Islamic Centre",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.654702,-79.459992": {
+  "name": "1750 Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.661740,-79.306836": {
+  "name": "The Boardwalk",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.665585,-79.482107": {
+  "name": "3351 Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.669184,-79.379519": {
+  "name": "550 Jarvis Street",
+  "source": "nominatim"
+ },
+ "43.677797,-79.325659": {
+  "name": "Monarch Park Swimming Pool",
+  "source": "nominatim",
+  "neighbourhood": "East York"
+ },
+ "43.717894,-79.394137": {
+  "name": "1170 Mount Pleasant Road",
+  "source": "nominatim"
+ },
+ "43.847803,-79.383923": {
+  "name": "1 West Pearce Street",
+  "source": "nominatim"
+ },
+ "43.648411,-79.393282": {
+  "name": "128 Peter Street",
+  "source": "nominatim"
+ },
+ "43.648423,-79.352324": {
+  "name": "Lake Shore Boulevard East",
+  "source": "nominatim"
+ },
+ "43.659232,-79.385162": {
+  "name": "715 Bay Street",
+  "source": "nominatim"
+ },
+ "43.686218,-79.388694": {
+  "name": "75 Rosehill Avenue",
+  "source": "nominatim"
+ },
+ "43.650678,-79.443058": {
+  "name": "Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Junction Triangle"
+ },
+ "43.653716,-79.373246": {
+  "name": "141 Queen Street East",
+  "source": "nominatim"
+ },
+ "43.661197,-79.358141": {
+  "name": "736 Dundas Street East",
+  "source": "nominatim"
+ },
+ "43.664685,-79.369275": {
+  "name": "39 Aberdeen Avenue",
+  "source": "nominatim"
+ },
+ "43.679040,-79.414143": {
+  "name": "14 Wells Hill Avenue",
+  "source": "nominatim"
+ },
+ "43.679237,-79.367329": {
+  "name": "Bayview Multi-Use Trail",
+  "source": "nominatim"
+ },
+ "43.681658,-79.476724": {
+  "name": "Rogers Road",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.719966,-79.378951": {
+  "name": "2 Sunnydene Crescent",
+  "source": "nominatim"
+ },
+ "43.633196,-79.337742": {
+  "name": "APSC Loop",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.651770,-79.366073": {
+  "name": "Toronto Sun",
+  "source": "nominatim"
+ },
+ "43.659314,-79.385463": {
+  "name": "Drs. Asadi, Lewis & Associates",
+  "source": "nominatim"
+ },
+ "43.663033,-79.383781": {
+  "name": "494 Yonge Street",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.668980,-79.483537": {
+  "name": "806 Runnymede Road",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.677985,-79.349701": {
+  "name": "TD",
+  "source": "nominatim"
+ },
+ "43.683797,-79.409336": {
+  "name": "St. Clair Avenue West",
+  "source": "nominatim"
+ },
+ "43.638798,-79.445838": {
+  "name": "Roja’s Kitchen",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.648036,-79.371698": {
+  "name": "15 Market Street",
+  "source": "nominatim"
+ },
+ "43.650536,-79.479037": {
+  "name": "2294 Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.652296,-79.406013": {
+  "name": "McDonald's",
+  "source": "nominatim"
+ },
+ "43.653568,-79.363575": {
+  "name": "113 Parliament Street",
+  "source": "nominatim"
+ },
+ "43.655376,-79.373883": {
+  "name": "96 Shuter Street",
+  "source": "nominatim"
+ },
+ "43.656817,-79.375639": {
+  "name": "104 Mutual Street",
+  "source": "nominatim"
+ },
+ "43.658165,-79.372402": {
+  "name": "255 Dundas Street East",
+  "source": "nominatim"
+ },
+ "43.665646,-79.387677": {
+  "name": "999 Bay Street",
+  "source": "nominatim"
+ },
+ "43.673933,-79.307927": {
+  "name": "235,237,239 Kingston Road",
+  "source": "nominatim"
+ },
+ "43.674364,-79.399809": {
+  "name": "154 Bedford Road",
+  "source": "nominatim"
+ },
+ "43.691074,-79.401511": {
+  "name": "84 Oriole Road",
+  "source": "nominatim"
+ },
+ "43.642102,-79.377458": {
+  "name": "Cowan & Company Communications",
+  "source": "nominatim"
+ },
+ "43.652515,-79.469984": {
+  "name": "2010 Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.653273,-79.381187": {
+  "name": "Albert Street",
+  "source": "nominatim"
+ },
+ "43.653815,-79.393818": {
+  "name": "370 Dundas Street West",
+  "source": "nominatim"
+ },
+ "43.656012,-79.357632": {
+  "name": "498 King Street East",
+  "source": "nominatim"
+ },
+ "43.656167,-79.370105": {
+  "name": "Sherbourne Street",
+  "source": "nominatim"
+ },
+ "43.656584,-79.348873": {
+  "name": "Broadview Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.674698,-79.396573": {
+  "name": "142 Avenue Road",
+  "source": "nominatim"
+ },
+ "43.674883,-79.388685": {
+  "name": "3 Frichot Avenue",
+  "source": "nominatim"
+ },
+ "43.679529,-79.435665": {
+  "name": "949 St. Clair Avenue West",
+  "source": "nominatim"
+ },
+ "43.702534,-79.519465": {
+  "name": "36 King Street",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.720382,-79.394923": {
+  "name": "Mount Pleasant Road",
+  "source": "nominatim"
+ },
+ "43.720507,-79.413046": {
+  "name": "Havergal College",
+  "source": "nominatim"
+ },
+ "43.726747,-79.381292": {
+  "name": "Bayview Avenue",
+  "source": "nominatim"
+ },
+ "43.768711,-79.270895": {
+  "name": "Appletree Medical Centre",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.634250,-79.405651": {
+  "name": "Remembrance Drive",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.640070,-79.380200": {
+  "name": "200 Queens Quay West",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.647045,-79.455574": {
+  "name": "208 Geoffrey Street",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.648983,-79.356127": {
+  "name": "Lake Shore Boulevard East",
+  "source": "nominatim"
+ },
+ "43.649251,-79.374119": {
+  "name": "38 Church Street",
+  "source": "nominatim"
+ },
+ "43.650170,-79.439745": {
+  "name": "Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.651552,-79.367037": {
+  "name": "Princess Street",
+  "source": "nominatim"
+ },
+ "43.651559,-79.362717": {
+  "name": "Parliament Street",
+  "source": "nominatim"
+ },
+ "43.652349,-79.372681": {
+  "name": "Mystic Muffin",
+  "source": "nominatim"
+ },
+ "43.653332,-79.396139": {
+  "name": "68 Huron Street",
+  "source": "nominatim"
+ },
+ "43.655136,-79.374953": {
+  "name": "45 Mutual Street",
+  "source": "nominatim"
+ },
+ "43.656925,-79.362043": {
+  "name": "37 Sydenham Street",
+  "source": "nominatim"
+ },
+ "43.661228,-79.372219": {
+  "name": "194 Gerrard Street East",
+  "source": "nominatim"
+ },
+ "43.661343,-79.363732": {
+  "name": "71 Oak Street",
+  "source": "nominatim"
+ },
+ "43.672033,-79.370728": {
+  "name": "Bloor Street East",
+  "source": "nominatim"
+ },
+ "43.673136,-79.414350": {
+  "name": "Annex Dental Clinic",
+  "source": "nominatim"
+ },
+ "43.673642,-79.423437": {
+  "name": "50 Lambertlodge Avenue",
+  "source": "nominatim"
+ },
+ "43.679879,-79.390730": {
+  "name": "11 Marlborough Avenue",
+  "source": "nominatim"
+ },
+ "43.698613,-79.387034": {
+  "name": "Toronto Hydro Electric System",
+  "source": "nominatim"
+ },
+ "43.704162,-79.504519": {
+  "name": "Qik Cash & Pawn",
+  "source": "nominatim",
+  "neighbourhood": "Rustic"
+ },
+ "43.706366,-79.400271": {
+  "name": "390 Duplex Avenue",
+  "source": "nominatim"
+ },
+ "43.719335,-79.429723": {
+  "name": "486 Lawrence Avenue West",
+  "source": "nominatim"
+ },
+ "43.732163,-79.268027": {
+  "name": "744 Kennedy Road",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.824152,-79.185093": {
+  "name": "Tundra Station",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.634497,-79.400593": {
+  "name": "77 Stadium Road",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.643622,-79.394141": {
+  "name": "2 Clarence Square",
+  "source": "nominatim"
+ },
+ "43.644016,-79.394539": {
+  "name": "Shell",
+  "source": "nominatim"
+ },
+ "43.644558,-79.525380": {
+  "name": "TTC Islington Station Main Lot",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.649900,-79.387125": {
+  "name": "165 Richmond Street West",
+  "source": "nominatim"
+ },
+ "43.652462,-79.360687": {
+  "name": "93 Trinity Street",
+  "source": "nominatim"
+ },
+ "43.655317,-79.365751": {
+  "name": "146 Berkeley Street",
+  "source": "nominatim"
+ },
+ "43.655882,-79.371430": {
+  "name": "137 Shuter Street",
+  "source": "nominatim"
+ },
+ "43.656114,-79.385475": {
+  "name": "130 Elizabeth Street",
+  "source": "nominatim"
+ },
+ "43.656265,-79.361453": {
+  "name": "92 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.657316,-79.373462": {
+  "name": "275 George Street",
+  "source": "nominatim"
+ },
+ "43.661015,-79.412194": {
+  "name": "436 Palmerston Boulevard",
+  "source": "nominatim"
+ },
+ "43.662452,-79.351350": {
+  "name": "Bolzano",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.662896,-79.383722": {
+  "name": "492 Yonge Street",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.667928,-79.379027": {
+  "name": "100 Gloucester Street",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.668188,-79.369553": {
+  "name": "613 Parliament Street",
+  "source": "nominatim"
+ },
+ "43.668892,-79.379427": {
+  "name": "573 Jarvis Street",
+  "source": "nominatim"
+ },
+ "43.669448,-79.286578": {
+  "name": "The Boardwalk",
+  "source": "nominatim"
+ },
+ "43.670480,-79.353907": {
+  "name": "515 Broadview Avenue",
+  "source": "nominatim"
+ },
+ "43.671261,-79.354511": {
+  "name": "543 Broadview Avenue",
+  "source": "nominatim"
+ },
+ "43.675248,-79.402235": {
+  "name": "Beaufort Apartments",
+  "source": "nominatim"
+ },
+ "43.679217,-79.474300": {
+  "name": "332 Weston Road",
+  "source": "nominatim",
+  "neighbourhood": "Junction Area"
+ },
+ "43.681088,-79.404290": {
+  "name": "46 Russell Hill Road",
+  "source": "nominatim"
+ },
+ "43.683066,-79.392029": {
+  "name": "1199 Yonge Street",
+  "source": "nominatim"
+ },
+ "43.690362,-79.383328": {
+  "name": "253 St. Clair Avenue East",
+  "source": "nominatim"
+ },
+ "43.733484,-79.382295": {
+  "name": "Granite Club",
+  "source": "nominatim"
+ },
+ "43.616196,-79.369358": {
+  "name": "Centre Island Pier",
+  "source": "nominatim"
+ },
+ "43.631258,-79.475559": {
+  "name": "2067 Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.632027,-79.436034": {
+  "name": "Argonaut Rowing Club",
+  "source": "nominatim",
+  "neighbourhood": "South Parkdale"
+ },
+ "43.636631,-79.441569": {
+  "name": "1518 King Street West",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.643183,-79.377931": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim"
+ },
+ "43.643955,-79.396996": {
+  "name": "Le Sélect Bistro",
+  "source": "nominatim"
+ },
+ "43.646037,-79.392307": {
+  "name": "120 Blue Jays Way",
+  "source": "nominatim"
+ },
+ "43.648914,-79.365970": {
+  "name": "35 Scadding Avenue",
+  "source": "nominatim"
+ },
+ "43.649059,-79.367278": {
+  "name": "Lower Sherbourne Street",
+  "source": "nominatim"
+ },
+ "43.650249,-79.441038": {
+  "name": "Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.651201,-79.445285": {
+  "name": "Multi Services Enterprise",
+  "source": "nominatim",
+  "neighbourhood": "Roncesvalles"
+ },
+ "43.651566,-79.437566": {
+  "name": "1237 College Street",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.653241,-79.374594": {
+  "name": "101 Queen Street East",
+  "source": "nominatim"
+ },
+ "43.653510,-79.374294": {
+  "name": "25 Mutual Street",
+  "source": "nominatim"
+ },
+ "43.656208,-79.432495": {
+  "name": "Dufferin Grove Park Trail",
+  "source": "nominatim",
+  "neighbourhood": "Dufferin Grove"
+ },
+ "43.659804,-79.381644": {
+  "name": "McGill Street",
+  "source": "nominatim"
+ },
+ "43.660465,-79.350507": {
+  "name": "162 Broadview Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.665684,-79.362511": {
+  "name": "346 Carlton Street",
+  "source": "nominatim"
+ },
+ "43.667621,-79.372161": {
+  "name": "584 Ontario Street",
+  "source": "nominatim"
+ },
+ "43.668822,-79.408097": {
+  "name": "387 Brunswick Avenue",
+  "source": "nominatim"
+ },
+ "43.671514,-79.371926": {
+  "name": "KAVA COFFE HOUSE",
+  "source": "nominatim"
+ },
+ "43.673341,-79.451504": {
+  "name": "Claude Bergeron Pathway",
+  "source": "nominatim",
+  "neighbourhood": "Corso Italia-Davenport"
+ },
+ "43.675058,-79.407462": {
+  "name": "282 Dupont Street",
+  "source": "nominatim"
+ },
+ "43.676798,-79.425690": {
+  "name": "37 Turner Road",
+  "source": "nominatim"
+ },
+ "43.685275,-79.407826": {
+  "name": "260 Russell Hill Road",
+  "source": "nominatim"
+ },
+ "43.702000,-79.420812": {
+  "name": "701 Eglinton Avenue West",
+  "source": "nominatim"
+ },
+ "43.705194,-79.426314": {
+  "name": "680 Roselawn Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Forest Hill North"
+ },
+ "43.706941,-79.375621": {
+  "name": "Hollywood Gelato",
+  "source": "nominatim"
+ },
+ "43.707765,-79.533613": {
+  "name": "2545 Weston Road",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.735773,-79.447784": {
+  "name": "10 Wilson Heights Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "Clanton Park"
+ },
+ "43.750643,-79.549113": {
+  "name": "Jayzel Drive",
+  "source": "nominatim",
+  "neighbourhood": "Humber Summit"
+ },
+ "43.596603,-79.500859": {
+  "name": "67 Lake Shore Drive",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.622354,-79.378444": {
+  "name": "Centre Island",
+  "source": "nominatim"
+ },
+ "43.634425,-79.398488": {
+  "name": "Eireann Quay",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.636184,-79.409599": {
+  "name": "1 Strachan Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.642049,-79.411950": {
+  "name": "950 King Street West",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.642226,-79.428614": {
+  "name": "376 Dufferin Street",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.642522,-79.373047": {
+  "name": "15 Freeland Street",
+  "source": "nominatim"
+ },
+ "43.645953,-79.389466": {
+  "name": "55 John Street",
+  "source": "nominatim"
+ },
+ "43.648522,-79.362799": {
+  "name": "97 Longboat Avenue",
+  "source": "nominatim"
+ },
+ "43.648823,-79.388904": {
+  "name": "29 Duncan Street",
+  "source": "nominatim"
+ },
+ "43.649213,-79.373714": {
+  "name": "Oak Hall Lane",
+  "source": "nominatim"
+ },
+ "43.649339,-79.420768": {
+  "name": "1147 Dundas Street West",
+  "source": "nominatim"
+ },
+ "43.652398,-79.367384": {
+  "name": "401 Adelaide Street East",
+  "source": "nominatim"
+ },
+ "43.652669,-79.366192": {
+  "name": "472 Adelaide Street East",
+  "source": "nominatim"
+ },
+ "43.652672,-79.378063": {
+  "name": "111 Victoria Street",
+  "source": "nominatim"
+ },
+ "43.653549,-79.465253": {
+  "name": "Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.654502,-79.356415": {
+  "name": "155 Old Foundry Road",
+  "source": "nominatim"
+ },
+ "43.654782,-79.355190": {
+  "name": "170 Old Foundry Road",
+  "source": "nominatim"
+ },
+ "43.662514,-79.358436": {
+  "name": "212 Oak Street",
+  "source": "nominatim"
+ },
+ "43.663156,-79.361489": {
+  "name": "272 Sumach Street",
+  "source": "nominatim"
+ },
+ "43.665775,-79.303916": {
+  "name": "10 Kewbeach Avenue",
+  "source": "nominatim"
+ },
+ "43.669717,-79.353194": {
+  "name": "507 Broadview Avenue",
+  "source": "nominatim"
+ },
+ "43.670901,-79.327998": {
+  "name": "214 Greenwood Avenue",
+  "source": "nominatim"
+ },
+ "43.672562,-79.354607": {
+  "name": "9 Tennis Crescent",
+  "source": "nominatim"
+ },
+ "43.673240,-79.356110": {
+  "name": "647 Broadview Avenue",
+  "source": "nominatim"
+ },
+ "43.676002,-79.495586": {
+  "name": "Jane Street",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.677833,-79.389884": {
+  "name": "1070 Yonge Street",
+  "source": "nominatim"
+ },
+ "43.681066,-79.417479": {
+  "name": "Bathurst Street",
+  "source": "nominatim"
+ },
+ "43.699126,-79.323944": {
+  "name": "620 O'Connor Drive",
+  "source": "nominatim",
+  "neighbourhood": "East York"
+ },
+ "43.706110,-79.483159": {
+  "name": "Lawrence Avenue West",
+  "source": "nominatim",
+  "neighbourhood": "Brookhaven-Amesbury"
+ },
+ "43.707540,-79.505043": {
+  "name": "1832 Jane Street",
+  "source": "nominatim",
+  "neighbourhood": "Rustic"
+ },
+ "43.718566,-79.275132": {
+  "name": "General Brock Public School",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.719492,-79.401065": {
+  "name": "2833 Yonge Street",
+  "source": "nominatim"
+ },
+ "43.774537,-79.517916": {
+  "name": "The Village at Black Creek",
+  "source": "nominatim",
+  "neighbourhood": "York University Heights"
+ },
+ "43.627693,-79.389560": {
+  "name": "Ned Hanlan",
+  "source": "nominatim"
+ },
+ "43.636592,-79.440313": {
+  "name": "1502 King Street West",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.638363,-79.453516": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "South Parkdale"
+ },
+ "43.646682,-79.406534": {
+  "name": "A&W",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.649639,-79.392116": {
+  "name": "The Beverley Hotel Queen West, Sonder",
+  "source": "nominatim"
+ },
+ "43.650922,-79.401269": {
+  "name": "Grange Hotel",
+  "source": "nominatim"
+ },
+ "43.651325,-79.438778": {
+  "name": "169 St. Clarens Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Brockton Village"
+ },
+ "43.652170,-79.392220": {
+  "name": "Leash-free zone",
+  "source": "nominatim"
+ },
+ "43.653193,-79.374632": {
+  "name": "Illy",
+  "source": "nominatim"
+ },
+ "43.654270,-79.365306": {
+  "name": "123 Berkeley Street",
+  "source": "nominatim"
+ },
+ "43.654437,-79.360333": {
+  "name": "432 King Street East",
+  "source": "nominatim"
+ },
+ "43.654498,-79.402006": {
+  "name": "Pancho y Emiliano",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.654925,-79.398720": {
+  "name": "337 Spadina Avenue",
+  "source": "nominatim"
+ },
+ "43.654969,-79.364339": {
+  "name": "142 Parliament Street",
+  "source": "nominatim"
+ },
+ "43.654975,-79.370256": {
+  "name": "Moss Park Arena",
+  "source": "nominatim"
+ },
+ "43.656868,-79.356168": {
+  "name": "42 Lower River Street",
+  "source": "nominatim"
+ },
+ "43.656939,-79.364992": {
+  "name": "Kullubi Food & Spice",
+  "source": "nominatim"
+ },
+ "43.658973,-79.439718": {
+  "name": "Nail Spa & Massage Clinic",
+  "source": "nominatim",
+  "neighbourhood": "Wallace Emerson"
+ },
+ "43.661939,-79.326733": {
+  "name": "849 Eastern Avenue",
+  "source": "nominatim"
+ },
+ "43.662597,-79.364024": {
+  "name": "274 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.662804,-79.379731": {
+  "name": "466 Church Street",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.663852,-79.384115": {
+  "name": "528 Yonge Street",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.666180,-79.302898": {
+  "name": "22 Kippendavie Avenue",
+  "source": "nominatim"
+ },
+ "43.668212,-79.404164": {
+  "name": "Children's Aid Foundation",
+  "source": "nominatim"
+ },
+ "43.672337,-79.379475": {
+  "name": "Mount Pleasant Road",
+  "source": "nominatim"
+ },
+ "43.673085,-79.390666": {
+  "name": "Bay Street",
+  "source": "nominatim"
+ },
+ "43.674698,-79.294509": {
+  "name": "273 Glen Manor Drive East",
+  "source": "nominatim"
+ },
+ "43.674924,-79.407644": {
+  "name": "Krispy Kreme",
+  "source": "nominatim"
+ },
+ "43.674941,-79.407547": {
+  "name": "Modern Laundry & Dry Cleaning",
+  "source": "nominatim"
+ },
+ "43.675601,-79.388971": {
+  "name": "1000 Yonge Street",
+  "source": "nominatim"
+ },
+ "43.677111,-79.409233": {
+  "name": "248 Walmer Road",
+  "source": "nominatim"
+ },
+ "43.678237,-79.302426": {
+  "name": "Kingston Road",
+  "source": "nominatim"
+ },
+ "43.679146,-79.390424": {
+  "name": "1077 Yonge Street",
+  "source": "nominatim"
+ },
+ "43.685394,-79.407563": {
+  "name": "Russell Hill Road",
+  "source": "nominatim"
+ },
+ "43.688640,-79.383119": {
+  "name": "149 Inglewood Drive",
+  "source": "nominatim"
+ },
+ "43.698822,-79.257048": {
+  "name": "Variety Village",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.699750,-79.323928": {
+  "name": "34 Taylor Drive",
+  "source": "nominatim",
+  "neighbourhood": "East York"
+ },
+ "43.704069,-79.504465": {
+  "name": "See You Monday",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.709286,-79.505507": {
+  "name": "1890 Jane Street",
+  "source": "nominatim",
+  "neighbourhood": "Rustic"
+ },
+ "43.720003,-79.404303": {
+  "name": "843 Duplex Avenue",
+  "source": "nominatim"
+ },
+ "43.722819,-79.275384": {
+  "name": "714 Birchmount Road",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.726134,-79.313448": {
+  "name": "1686 Eglinton Avenue East",
+  "source": "nominatim",
+  "neighbourhood": "Victoria Village"
+ },
+ "43.732001,-79.267628": {
+  "name": "EK Dental",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.737168,-79.246245": {
+  "name": "2742 Eglinton Avenue East",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.737811,-79.335244": {
+  "name": "30 Deepwood Crescent",
+  "source": "nominatim"
+ },
+ "43.766159,-79.412949": {
+  "name": "Celebrity Photo Booth",
+  "source": "nominatim",
+  "neighbourhood": "North York"
+ },
+ "43.596573,-79.500861": {
+  "name": "67 Lake Shore Drive",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.613431,-79.391273": {
+  "name": "Trail 5",
+  "source": "nominatim"
+ },
+ "43.622941,-79.481281": {
+  "name": "Mimico Creek Dental",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.627308,-79.479037": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.635177,-79.417167": {
+  "name": "129 Manitoba Drive",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.637355,-79.425312": {
+  "name": "39 Mowat Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Liberty Village"
+ },
+ "43.638536,-79.392130": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.638692,-79.389137": {
+  "name": "Queens Quay West",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.642621,-79.371570": {
+  "name": "95 Queens Quay East",
+  "source": "nominatim"
+ },
+ "43.643986,-79.455868": {
+  "name": "185 Parkside Drive",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.644171,-79.418851": {
+  "name": "2 Ossington Avenue",
+  "source": "nominatim"
+ },
+ "43.644710,-79.523550": {
+  "name": "Islington Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.646823,-79.353675": {
+  "name": "Ookwemin Street",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.646888,-79.423897": {
+  "name": "200 Dovercourt Road",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.649321,-79.366069": {
+  "name": "210 The Esplanade",
+  "source": "nominatim"
+ },
+ "43.649527,-79.363235": {
+  "name": "33 Hahn Place",
+  "source": "nominatim"
+ },
+ "43.649625,-79.431424": {
+  "name": "1478 Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.649993,-79.452170": {
+  "name": "41 Marmaduke Street",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.652121,-79.448095": {
+  "name": "Blue Bird Bar",
+  "source": "nominatim",
+  "neighbourhood": "Roncesvalles"
+ },
+ "43.652316,-79.404730": {
+  "name": "13 Carlyle Street",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.652489,-79.433959": {
+  "name": "1148 College Street",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.653381,-79.369119": {
+  "name": "311 Richmond Street East",
+  "source": "nominatim"
+ },
+ "43.653818,-79.361168": {
+  "name": "449 King Street East",
+  "source": "nominatim"
+ },
+ "43.654017,-79.361011": {
+  "name": "467 King Street East",
+  "source": "nominatim"
+ },
+ "43.654557,-79.364001": {
+  "name": "529 Richmond Street East",
+  "source": "nominatim"
+ },
+ "43.654795,-79.363005": {
+  "name": "51 Power Street",
+  "source": "nominatim"
+ },
+ "43.655546,-79.360183": {
+  "name": "75 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.655705,-79.460743": {
+  "name": "28 Keele Street",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.656119,-79.480335": {
+  "name": "Beresford Dog Park",
+  "source": "nominatim",
+  "neighbourhood": "Runnymede-Bloor West Village"
+ },
+ "43.656373,-79.367544": {
+  "name": "230 Shuter Street",
+  "source": "nominatim"
+ },
+ "43.656453,-79.368365": {
+  "name": "61 Seaton Street",
+  "source": "nominatim"
+ },
+ "43.656625,-79.376535": {
+  "name": "88 Dalhousie Street",
+  "source": "nominatim"
+ },
+ "43.656704,-79.424915": {
+  "name": "82 Concord Avenue",
+  "source": "nominatim"
+ },
+ "43.657629,-79.342473": {
+  "name": "98 Booth Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.658485,-79.351544": {
+  "name": "666 Queen Street East",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.659126,-79.367351": {
+  "name": "266 Berkeley Street",
+  "source": "nominatim"
+ },
+ "43.659470,-79.478471": {
+  "name": "31 Lincoln Avenue",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.660678,-79.378852": {
+  "name": "365 Church Street",
+  "source": "nominatim"
+ },
+ "43.661558,-79.370686": {
+  "name": "222 Gerrard Street East",
+  "source": "nominatim"
+ },
+ "43.662566,-79.362953": {
+  "name": "407 Gerrard Street East",
+  "source": "nominatim"
+ },
+ "43.662652,-79.326940": {
+  "name": "40 Laing Street",
+  "source": "nominatim"
+ },
+ "43.663516,-79.450821": {
+  "name": "Royce Lane",
+  "source": "nominatim",
+  "neighbourhood": "Junction Triangle"
+ },
+ "43.663519,-79.371516": {
+  "name": "179 Carlton Street",
+  "source": "nominatim"
+ },
+ "43.663725,-79.370538": {
+  "name": "412 Ontario Street",
+  "source": "nominatim"
+ },
+ "43.664734,-79.385455": {
+  "name": "16 Wellesley Street West",
+  "source": "nominatim"
+ },
+ "43.665849,-79.304355": {
+  "name": "45 Woodbine Avenue",
+  "source": "nominatim"
+ },
+ "43.666728,-79.300947": {
+  "name": "70 Kewbeach Avenue",
+  "source": "nominatim"
+ },
+ "43.666826,-79.300432": {
+  "name": "Kewbeach Avenue",
+  "source": "nominatim"
+ },
+ "43.667097,-79.299675": {
+  "name": "26 Waverley Road",
+  "source": "nominatim"
+ },
+ "43.667221,-79.312599": {
+  "name": "Eastern Avenue",
+  "source": "nominatim"
+ },
+ "43.667812,-79.353345": {
+  "name": "2 Langley Avenue",
+  "source": "nominatim"
+ },
+ "43.667861,-79.352421": {
+  "name": "13 Langley Avenue",
+  "source": "nominatim"
+ },
+ "43.667923,-79.366186": {
+  "name": "436 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.669665,-79.375758": {
+  "name": "147 Isabella Street",
+  "source": "nominatim"
+ },
+ "43.669988,-79.372434": {
+  "name": "Rose Avenue Community Centre",
+  "source": "nominatim"
+ },
+ "43.670268,-79.370391": {
+  "name": "The Residences of Rose Park3",
+  "source": "nominatim"
+ },
+ "43.670510,-79.405688": {
+  "name": "70 Spadina Road",
+  "source": "nominatim"
+ },
+ "43.671983,-79.354898": {
+  "name": "559 Broadview Avenue",
+  "source": "nominatim"
+ },
+ "43.673412,-79.278934": {
+  "name": "Queen Street East",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.673444,-79.462993": {
+  "name": "330 Old Weston Road",
+  "source": "nominatim",
+  "neighbourhood": "Weston-Pelham Park"
+ },
+ "43.673739,-79.367102": {
+  "name": "711 Bloor Street East",
+  "source": "nominatim"
+ },
+ "43.674528,-79.300413": {
+  "name": "Norway Avenue",
+  "source": "nominatim"
+ },
+ "43.675057,-79.434017": {
+  "name": "39 Oakwood Avenue",
+  "source": "nominatim"
+ },
+ "43.675221,-79.363878": {
+  "name": "Prince Edward Viaduct",
+  "source": "nominatim"
+ },
+ "43.675280,-79.301165": {
+  "name": "154 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.675504,-79.300773": {
+  "name": "165 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.675517,-79.301366": {
+  "name": "162 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.675547,-79.400313": {
+  "name": "186 Bedford Road",
+  "source": "nominatim"
+ },
+ "43.675712,-79.453497": {
+  "name": "5 McRoberts Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Corso Italia-Davenport"
+ },
+ "43.682211,-79.423504": {
+  "name": "Wychwood Avenue",
+  "source": "nominatim"
+ },
+ "43.684194,-79.315315": {
+  "name": "West Lynn Avenue",
+  "source": "nominatim",
+  "neighbourhood": "East York"
+ },
+ "43.688156,-79.301804": {
+  "name": "Sultan Shawarma & Falafel",
+  "source": "nominatim"
+ },
+ "43.694618,-79.406648": {
+  "name": "146 Forest Hill Road",
+  "source": "nominatim"
+ },
+ "43.697177,-79.349186": {
+  "name": "Pape Avenue",
+  "source": "nominatim"
+ },
+ "43.705106,-79.374920": {
+  "name": "De La Mer",
+  "source": "nominatim"
+ },
+ "43.705116,-79.406061": {
+  "name": "505 Oriole Parkway",
+  "source": "nominatim"
+ },
+ "43.705708,-79.423904": {
+  "name": "640 Roselawn Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Forest Hill North"
+ },
+ "43.707876,-79.392866": {
+  "name": "180 Eglinton Avenue East",
+  "source": "nominatim"
+ },
+ "43.717515,-79.282791": {
+  "name": "Cleanside Road",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.742340,-79.407745": {
+  "name": "The Four Thousand",
+  "source": "nominatim"
+ },
+ "43.753443,-79.437897": {
+  "name": "4169 Bathurst Street",
+  "source": "nominatim",
+  "neighbourhood": "Lansing-Westgate"
+ },
+ "43.756576,-79.413373": {
+  "name": "71 Cameron Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Lansing-Westgate"
+ },
+ "43.762233,-79.423954": {
+  "name": "100 Senlac Road",
+  "source": "nominatim",
+  "neighbourhood": "North York"
+ },
+ "43.778073,-79.343361": {
+  "name": "Neex",
+  "source": "nominatim",
+  "neighbourhood": "Don Valley Village"
+ },
+ "43.784144,-79.168316": {
+  "name": "Highland Creek Overpass",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.789931,-79.335918": {
+  "name": "135 Cherokee Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "Pleasant View"
+ },
+ "43.591932,-79.544034": {
+  "name": "Long Branch Loop",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.619907,-79.371330": {
+  "name": "13 Avenue of the Islands",
+  "source": "nominatim"
+ },
+ "43.620166,-79.382701": {
+  "name": "Toronto Island Marina",
+  "source": "nominatim"
+ },
+ "43.631725,-79.420738": {
+  "name": "Queen Elizabeth Building",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.633438,-79.399507": {
+  "name": "Stadium Road",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.633967,-79.434789": {
+  "name": "Springhurst Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.635204,-79.468180": {
+  "name": "1940 Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "South Parkdale"
+ },
+ "43.635716,-79.398437": {
+  "name": "10 Bathurst Street",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.635930,-79.401965": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.636389,-79.539066": {
+  "name": "5343 Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.636681,-79.447155": {
+  "name": "Palais Royale",
+  "source": "nominatim",
+  "neighbourhood": "South Parkdale"
+ },
+ "43.637178,-79.436008": {
+  "name": "149 Jameson Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.641428,-79.414997": {
+  "name": "4 Shaw Street",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.641668,-79.404819": {
+  "name": "116 Niagara Street",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.642346,-79.400885": {
+  "name": "Niagara Street",
+  "source": "nominatim"
+ },
+ "43.643280,-79.375499": {
+  "name": "Harbour Dental Centre",
+  "source": "nominatim"
+ },
+ "43.643699,-79.389977": {
+  "name": "315 Front Street West",
+  "source": "nominatim"
+ },
+ "43.644316,-79.412253": {
+  "name": "865 Richmond Street West",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.644440,-79.408699": {
+  "name": "234 Niagara Street",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.644699,-79.394971": {
+  "name": "46 Spadina Avenue",
+  "source": "nominatim"
+ },
+ "43.645854,-79.419145": {
+  "name": "69 Ossington Avenue",
+  "source": "nominatim"
+ },
+ "43.646220,-79.398126": {
+  "name": "Oasis Alternative Secondary School",
+  "source": "nominatim"
+ },
+ "43.646969,-79.401105": {
+  "name": "132 Portland Street",
+  "source": "nominatim"
+ },
+ "43.647849,-79.390275": {
+  "name": "280 Adelaide Street West",
+  "source": "nominatim"
+ },
+ "43.648066,-79.399649": {
+  "name": "7 Augusta Avenue",
+  "source": "nominatim"
+ },
+ "43.648969,-79.375437": {
+  "name": "13 Leader Lane",
+  "source": "nominatim"
+ },
+ "43.649318,-79.393644": {
+  "name": "375 Peter Street",
+  "source": "nominatim"
+ },
+ "43.649673,-79.408778": {
+  "name": "127 Euclid Avenue",
+  "source": "nominatim"
+ },
+ "43.649942,-79.481736": {
+  "name": "2365 Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.651195,-79.391617": {
+  "name": "190 John Street",
+  "source": "nominatim"
+ },
+ "43.651291,-79.395301": {
+  "name": "25 Huron Street",
+  "source": "nominatim"
+ },
+ "43.651492,-79.390247": {
+  "name": "22 McCaul Street",
+  "source": "nominatim"
+ },
+ "43.651767,-79.403980": {
+  "name": "674 Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.651834,-79.397481": {
+  "name": "251 Spadina Avenue",
+  "source": "nominatim"
+ },
+ "43.652253,-79.395690": {
+  "name": "36 Huron Street",
+  "source": "nominatim"
+ },
+ "43.653937,-79.398331": {
+  "name": "KC Jeweler",
+  "source": "nominatim"
+ },
+ "43.654094,-79.362733": {
+  "name": "Adelaide Street East",
+  "source": "nominatim"
+ },
+ "43.654829,-79.433410": {
+  "name": "Marshalls",
+  "source": "nominatim",
+  "neighbourhood": "Dufferin Grove"
+ },
+ "43.654947,-79.375846": {
+  "name": "67 Shuter Street",
+  "source": "nominatim"
+ },
+ "43.655297,-79.396953": {
+  "name": "113 Huron Street",
+  "source": "nominatim"
+ },
+ "43.655398,-79.456828": {
+  "name": "Pho T&T Express",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.655419,-79.385205": {
+  "name": "Kyoto House Japanese Restaurant",
+  "source": "nominatim"
+ },
+ "43.655604,-79.374730": {
+  "name": "55-57 Mutual Street",
+  "source": "nominatim"
+ },
+ "43.656380,-79.356987": {
+  "name": "52 St Lawrence Street",
+  "source": "nominatim"
+ },
+ "43.656482,-79.397439": {
+  "name": "138 Huron Street",
+  "source": "nominatim"
+ },
+ "43.656692,-79.359559": {
+  "name": "478 Queen Street East",
+  "source": "nominatim"
+ },
+ "43.657918,-79.346989": {
+  "name": "44 Saulter Street",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.658183,-79.365496": {
+  "name": "260 Parliament Street",
+  "source": "nominatim"
+ },
+ "43.658454,-79.488209": {
+  "name": "1 Baby Point Road",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.658797,-79.336168": {
+  "name": "Eastern Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.659046,-79.434731": {
+  "name": "991 Dufferin Street",
+  "source": "nominatim",
+  "neighbourhood": "Dufferin Grove"
+ },
+ "43.659054,-79.385966": {
+  "name": "La Plante Avenue",
+  "source": "nominatim"
+ },
+ "43.659280,-79.386017": {
+  "name": "La Plante Avenue",
+  "source": "nominatim"
+ },
+ "43.659416,-79.407699": {
+  "name": "190 Lippincott Street",
+  "source": "nominatim"
+ },
+ "43.660073,-79.457394": {
+  "name": "633 Indian Road",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.660336,-79.458983": {
+  "name": "94 Abbott Avenue",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.660528,-79.457727": {
+  "name": "72 Abbott Avenue",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.660605,-79.457576": {
+  "name": "668 Indian Road",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.660626,-79.407855": {
+  "name": "207 Lippincott Street",
+  "source": "nominatim"
+ },
+ "43.660655,-79.360475": {
+  "name": "170 Sumach Street",
+  "source": "nominatim"
+ },
+ "43.660743,-79.343528": {
+  "name": "Faiers Lane",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.660826,-79.432150": {
+  "name": "Rack & Pinon",
+  "source": "nominatim"
+ },
+ "43.660946,-79.373535": {
+  "name": "124 Pembroke Street",
+  "source": "nominatim"
+ },
+ "43.661159,-79.429379": {
+  "name": "INS Market",
+  "source": "nominatim"
+ },
+ "43.661260,-79.364052": {
+  "name": "63 Oak Street",
+  "source": "nominatim"
+ },
+ "43.661516,-79.409744": {
+  "name": "660 Bathurst Street",
+  "source": "nominatim"
+ },
+ "43.661779,-79.369708": {
+  "name": "Pimblett's Downtown Toronto Bed and Breakfast",
+  "source": "nominatim"
+ },
+ "43.661850,-79.358429": {
+  "name": "149 River Street",
+  "source": "nominatim"
+ },
+ "43.662028,-79.458781": {
+  "name": "734 Indian Road",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.662118,-79.358260": {
+  "name": "Cornwall Street",
+  "source": "nominatim"
+ },
+ "43.662421,-79.358682": {
+  "name": "177 River Street",
+  "source": "nominatim"
+ },
+ "43.663860,-79.364535": {
+  "name": "312 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.664161,-79.341643": {
+  "name": "318 Carlaw Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.664191,-79.343652": {
+  "name": "1110 Dundas Street East",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.665125,-79.365053": {
+  "name": "315 Carlton Street",
+  "source": "nominatim"
+ },
+ "43.666179,-79.352906": {
+  "name": "415 Broadview Avenue",
+  "source": "nominatim"
+ },
+ "43.666523,-79.365618": {
+  "name": "386 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.666725,-79.446448": {
+  "name": "816 Lansdowne Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Wallace Emerson"
+ },
+ "43.666820,-79.419894": {
+  "name": "124 Christie Street",
+  "source": "nominatim"
+ },
+ "43.667217,-79.365907": {
+  "name": "443 Sackville Street",
+  "source": "nominatim"
+ },
+ "43.667295,-79.359983": {
+  "name": "Lower Road",
+  "source": "nominatim"
+ },
+ "43.667893,-79.370915": {
+  "name": "62 Rose Avenue",
+  "source": "nominatim"
+ },
+ "43.668169,-79.382794": {
+  "name": "53 Isabella Street",
+  "source": "nominatim",
+  "neighbourhood": "Church-Wellesley"
+ },
+ "43.668768,-79.439393": {
+  "name": "1170 Dupont Street",
+  "source": "nominatim",
+  "neighbourhood": "Wallace Emerson"
+ },
+ "43.669979,-79.392594": {
+  "name": "La Canadienne, Boutique Yorkville",
+  "source": "nominatim"
+ },
+ "43.670095,-79.331698": {
+  "name": "1153 Gerrard Street East",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.670245,-79.378567": {
+  "name": "44 Huntley Street",
+  "source": "nominatim"
+ },
+ "43.671511,-79.372078": {
+  "name": "97 Howard Street",
+  "source": "nominatim"
+ },
+ "43.671869,-79.413066": {
+  "name": "192 Albany Avenue",
+  "source": "nominatim"
+ },
+ "43.672130,-79.390496": {
+  "name": "1315 Bay Street",
+  "source": "nominatim"
+ },
+ "43.672159,-79.289937": {
+  "name": "54 Balsam Avenue",
+  "source": "nominatim"
+ },
+ "43.672453,-79.385272": {
+  "name": "Collier Street",
+  "source": "nominatim"
+ },
+ "43.672981,-79.440975": {
+  "name": "1383 Davenport Road",
+  "source": "nominatim",
+  "neighbourhood": "Corso Italia-Davenport"
+ },
+ "43.674247,-79.357051": {
+  "name": "Mary's Variety & Grocery Store",
+  "source": "nominatim"
+ },
+ "43.674271,-79.300349": {
+  "name": "121 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.674303,-79.300847": {
+  "name": "122 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.674407,-79.368615": {
+  "name": "49 McKenzie Avenue",
+  "source": "nominatim"
+ },
+ "43.674410,-79.311428": {
+  "name": "War Memorial",
+  "source": "nominatim"
+ },
+ "43.674560,-79.390200": {
+  "name": "61 McMurrich Street",
+  "source": "nominatim"
+ },
+ "43.674909,-79.457131": {
+  "name": "4 Prescott Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Weston-Pelham Park"
+ },
+ "43.675010,-79.300723": {
+  "name": "149 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.675021,-79.389380": {
+  "name": "77 McMurrich Street",
+  "source": "nominatim"
+ },
+ "43.675283,-79.300760": {
+  "name": "157 Wheeler Avenue",
+  "source": "nominatim"
+ },
+ "43.675800,-79.402546": {
+  "name": "Black & White Barber Shop",
+  "source": "nominatim"
+ },
+ "43.675852,-79.407475": {
+  "name": "239 Spadina Road",
+  "source": "nominatim"
+ },
+ "43.676035,-79.422044": {
+  "name": "880 Davenport Road",
+  "source": "nominatim"
+ },
+ "43.677193,-79.471905": {
+  "name": "14 McCormack Street",
+  "source": "nominatim",
+  "neighbourhood": "Junction Area"
+ },
+ "43.678112,-79.360443": {
+  "name": "12 Dartford Road",
+  "source": "nominatim"
+ },
+ "43.678549,-79.439321": {
+  "name": "St. Clair Avenue West",
+  "source": "nominatim",
+  "neighbourhood": "Corso Italia-Davenport"
+ },
+ "43.678970,-79.457408": {
+  "name": "57 Gilbert Avenue",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.679870,-79.434689": {
+  "name": "928 St. Clair Avenue West",
+  "source": "nominatim"
+ },
+ "43.681353,-79.427698": {
+  "name": "740 St. Clair Avenue West",
+  "source": "nominatim"
+ },
+ "43.682781,-79.378865": {
+  "name": "Highland Avenue",
+  "source": "nominatim"
+ },
+ "43.685077,-79.409357": {
+  "name": "276 St. Clair Avenue West",
+  "source": "nominatim"
+ },
+ "43.687039,-79.308088": {
+  "name": "2300 Danforth Avenue",
+  "source": "nominatim"
+ },
+ "43.687331,-79.359507": {
+  "name": "Fantasy Farm",
+  "source": "nominatim"
+ },
+ "43.687989,-79.405160": {
+  "name": "53 Dunvegan Road",
+  "source": "nominatim"
+ },
+ "43.689521,-79.387338": {
+  "name": "St. Clair Avenue East",
+  "source": "nominatim"
+ },
+ "43.690417,-79.302408": {
+  "name": "365 Main Street",
+  "source": "nominatim"
+ },
+ "43.692726,-79.292693": {
+  "name": "110 Dentonia Park Avenue",
+  "source": "nominatim"
+ },
+ "43.693500,-79.411190": {
+  "name": "412 Russell Hill Road",
+  "source": "nominatim"
+ },
+ "43.695552,-79.424353": {
+  "name": "Beth Tzedec Synagogue",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.697060,-79.264011": {
+  "name": "Birchmount Road",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.699003,-79.417001": {
+  "name": "73 Old Forest Hill Road",
+  "source": "nominatim"
+ },
+ "43.699382,-79.386313": {
+  "name": "319 Balliol Street",
+  "source": "nominatim"
+ },
+ "43.699966,-79.325387": {
+  "name": "20 Taylor Drive",
+  "source": "nominatim",
+  "neighbourhood": "East York"
+ },
+ "43.707906,-79.273644": {
+  "name": "52 Santamonica Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.708640,-79.529614": {
+  "name": "35 Oak Street",
+  "source": "nominatim",
+  "neighbourhood": "York"
+ },
+ "43.710600,-79.393846": {
+  "name": "100 Broadway Avenue",
+  "source": "nominatim"
+ },
+ "43.719591,-79.401084": {
+  "name": "Glen Grove Suites",
+  "source": "nominatim"
+ },
+ "43.725575,-79.452144": {
+  "name": "Van Cleef & Arpels",
+  "source": "nominatim",
+  "neighbourhood": "Yorkdale-Glen Park"
+ },
+ "43.730400,-79.432330": {
+  "name": "3562 Bathurst Street",
+  "source": "nominatim"
+ },
+ "43.731315,-79.465075": {
+  "name": "La Rosa Chilena",
+  "source": "nominatim",
+  "neighbourhood": "Downsview"
+ },
+ "43.734711,-79.433369": {
+  "name": "3700 Bathurst Street",
+  "source": "nominatim"
+ },
+ "43.735714,-79.441948": {
+  "name": "451 Wilson Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Clanton Park"
+ },
+ "43.741935,-79.304122": {
+  "name": "1097 Pharmacy Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Scarborough"
+ },
+ "43.766617,-79.412159": {
+  "name": "Elmwood Avenue",
+  "source": "nominatim",
+  "neighbourhood": "North York"
+ },
+ "43.784663,-79.416473": {
+  "name": "Olympic Garden Drive",
+  "source": "nominatim",
+  "neighbourhood": "Newtonbrook East"
+ },
+ "43.785964,-79.455559": {
+  "name": "95 Rockford Road",
+  "source": "nominatim",
+  "neighbourhood": "Westminster-Branson"
+ },
+ "43.596751,-79.500464": {
+  "name": "61 Lake Shore Drive",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.618493,-79.489964": {
+  "name": "61 Burlington Street",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.622050,-79.365590": {
+  "name": "Chippewa Avenue",
+  "source": "nominatim"
+ },
+ "43.627672,-79.389405": {
+  "name": "Lakeshore Avenue",
+  "source": "nominatim"
+ },
+ "43.630529,-79.355290": {
+  "name": "8 Willow Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Ward's Island"
+ },
+ "43.631727,-79.402166": {
+  "name": "National Yacht Club Restaurant",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.633404,-79.434576": {
+  "name": "Jameson Avenue",
+  "source": "nominatim",
+  "neighbourhood": "South Parkdale"
+ },
+ "43.633520,-79.407062": {
+  "name": "Royal Oak",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.634344,-79.402747": {
+  "name": "Waterfront Recreational Trail",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.636286,-79.440730": {
+  "name": "Links Living Properties",
+  "source": "nominatim",
+  "neighbourhood": "Parkdale"
+ },
+ "43.638747,-79.467950": {
+  "name": "8 Ellis Gardens",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.638786,-79.538290": {
+  "name": "5238 Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.640144,-79.446345": {
+  "name": "81 Harvard Avenue",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.640178,-79.421250": {
+  "name": "King Street West",
+  "source": "nominatim",
+  "neighbourhood": "Fort York-Liberty Village"
+ },
+ "43.640565,-79.392844": {
+  "name": "363 Bremner Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "Harbourfront-CityPlace"
+ },
+ "43.641428,-79.398820": {
+  "name": "2 Portland Street",
+  "source": "nominatim"
+ },
+ "43.642533,-79.427116": {
+  "name": "1214 Queen Street West",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.642542,-79.445265": {
+  "name": "148 Pearson Avenue",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.642630,-79.402162": {
+  "name": "62 Bathurst Street",
+  "source": "nominatim"
+ },
+ "43.643318,-79.414176": {
+  "name": "57 Crawford Street",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.643448,-79.375442": {
+  "name": "Harbour Street",
+  "source": "nominatim"
+ },
+ "43.644500,-79.523064": {
+  "name": "3379 Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.644894,-79.455072": {
+  "name": "67 High Park Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.644957,-79.415049": {
+  "name": "Fresh",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.645030,-79.407429": {
+  "name": "45 Mitchell Avenue",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.645080,-79.454166": {
+  "name": "57 High Park Boulevard",
+  "source": "nominatim",
+  "neighbourhood": "High Park-Swansea"
+ },
+ "43.645501,-79.398785": {
+  "name": "3 Morrison Street",
+  "source": "nominatim"
+ },
+ "43.645628,-79.398646": {
+  "name": "7 Morrison Street",
+  "source": "nominatim"
+ },
+ "43.645800,-79.398234": {
+  "name": "Oasis Alternative Secondary School",
+  "source": "nominatim"
+ },
+ "43.646024,-79.406981": {
+  "name": "The Toronto Fringe Theatre Festival",
+  "source": "nominatim",
+  "neighbourhood": "West Queen West"
+ },
+ "43.646908,-79.410384": {
+  "name": "14 Crocker Avenue",
+  "source": "nominatim"
+ },
+ "43.647067,-79.409002": {
+  "name": "24 Manning Avenue",
+  "source": "nominatim"
+ },
+ "43.647141,-79.369157": {
+  "name": "54 Henry Lane Terrace",
+  "source": "nominatim"
+ },
+ "43.647661,-79.510274": {
+  "name": "2996 Bloor Street West",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.647812,-79.441007": {
+  "name": "High Park Scrap Metals",
+  "source": "nominatim",
+  "neighbourhood": "Roncesvalles"
+ },
+ "43.647835,-79.361228": {
+  "name": "Lake Shore Boulevard West",
+  "source": "nominatim"
+ },
+ "43.647972,-79.365520": {
+  "name": "2 Longboat Avenue",
+  "source": "nominatim"
+ },
+ "43.648773,-79.369151": {
+  "name": "158 The Esplanade",
+  "source": "nominatim"
+ },
+ "43.650192,-79.362133": {
+  "name": "Parliament Square",
+  "source": "nominatim"
+ },
+ "43.650247,-79.441005": {
+  "name": "Dundas Street West",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.650386,-79.367861": {
+  "name": "Lower Sherbourne Street",
+  "source": "nominatim"
+ },
+ "43.650460,-79.394957": {
+  "name": "33 Phoebe Street",
+  "source": "nominatim"
+ },
+ "43.650605,-79.393901": {
+  "name": "25 Soho Street",
+  "source": "nominatim"
+ },
+ "43.650888,-79.409175": {
+  "name": "179 Euclid Avenue",
+  "source": "nominatim"
+ },
+ "43.651143,-79.438940": {
+  "name": "1255 College Street",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.651280,-79.497260": {
+  "name": "76 Old Mill Road",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.651433,-79.496972": {
+  "name": "72 Old Mill Road",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.651458,-79.496642": {
+  "name": "68 Old Mill Road",
+  "source": "nominatim",
+  "neighbourhood": "Etobicoke"
+ },
+ "43.652096,-79.400272": {
+  "name": "Dundas Street West",
+  "source": "nominatim"
+ },
+ "43.652226,-79.404701": {
+  "name": "11 Carlyle Street",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.652555,-79.432546": {
+  "name": "724 Dufferin Street",
+  "source": "nominatim",
+  "neighbourhood": "Little Portugal"
+ },
+ "43.652606,-79.475420": {
+  "name": "277 Kennedy Avenue",
+  "source": "nominatim",
+  "neighbourhood": "High Park North"
+ },
+ "43.652889,-79.393490": {
+  "name": "94 Beverley Street",
+  "source": "nominatim"
+ },
+ "43.652967,-79.360119": {
+  "name": "16 Eastern Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Corktown"
+ },
+ "43.653155,-79.442127": {
+  "name": "Whytock Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Brockton Village"
+ },
+ "43.653379,-79.436802": {
+  "name": "391 Brock Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Brockton Village"
+ },
+ "43.653619,-79.436900": {
+  "name": "395 Brock Avenue",
+  "source": "nominatim",
+  "neighbourhood": "Brockton Village"
+ },
+ "43.654337,-79.383169": {
+  "name": "Bay Street",
+  "source": "nominatim"
+ },
+ "43.654388,-79.422680": {
+  "name": "LES Studio Ossington",
+  "source": "nominatim"
+ },
+ "43.654660,-79.386030": {
+  "name": "Hemispheres Restaurant Bistro",
+  "source": "nominatim"
+ },
+ "43.654751,-79.365855": {
+  "name": "130 Berkeley Street",
+  "source": "nominatim"
+ },
+ "43.654930,-79.403552": {
+  "name": "Burritoz Bowlz",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.654943,-79.402931": {
+  "name": "Nassau Street",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.654947,-79.368081": {
+  "name": "Seaton Street",
+  "source": "nominatim"
+ },
+ "43.654992,-79.337438": {
+  "name": "885 Lake Shore Boulevard East",
+  "source": "nominatim",
+  "neighbourhood": "South Riverdale"
+ },
+ "43.655219,-79.402305": {
+  "name": "Eative Film Cafe",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.655235,-79.358931": {
+  "name": "456 King Street East",
+  "source": "nominatim"
+ },
+ "43.655277,-79.403469": {
+  "name": "82 Nassau Street",
+  "source": "nominatim",
+  "neighbourhood": "Kensington Market"
+ },
+ "43.655304,-79.391850": {
+  "name": "2 D'Arcy Street",
+  "source": "nominatim"
+ },
+ "43.655308,-79.358066": {
+  "name": "27 Sumach Street",
+  "source": "nominatim"
+ },
+ "43.655543,-79.358406": {
+  "name": "474 King Street East",
+  "source": "nominatim"
+ }
+}

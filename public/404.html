@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Redirecting...</title>
+  <script>
+    // GitHub Pages SPA redirect: converts path-based routes to hash routes
+    // e.g. /old-toronto/admin → /old-toronto/#admin
+    var base = '/old-toronto/';
+    var path = window.location.pathname;
+    if (path.startsWith(base)) {
+      var route = path.slice(base.length).replace(/\/$/, '');
+      if (route) {
+        window.location.replace(base + '#' + route);
+      } else {
+        window.location.replace(base);
+      }
+    } else {
+      window.location.replace(base);
+    }
+  </script>
+</head>
+<body></body>
+</html>

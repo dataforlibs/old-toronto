@@ -1,0 +1,9 @@
+// ── Analytics Configuration ──────────────────────────────────────────────────
+// To enable analytics, create a free Supabase project and fill in these values.
+// See README.md for setup instructions.
+//
+// When these are empty, the app works normally — analytics just won't record.
+// ─────────────────────────────────────────────────────────────────────────────
+
+export const SUPABASE_URL = '';       // e.g. 'https://xyzcompany.supabase.co'
+export const SUPABASE_ANON_KEY = '';  // e.g. 'eyJhbGciOiJIUzI1NiIsInR5cCI6...'
