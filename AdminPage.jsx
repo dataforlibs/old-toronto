@@ -3,12 +3,11 @@ import L from 'leaflet';
 import { fetchAllPageviews, fetchAllEvents } from './analytics';
 import { SUPABASE_URL } from './config';
 
-// ── Login Gate ──────────────────────────────────────────────────────────────
+// ── Login ────────────────────────────────────────────────────────────────────
 function AdminLogin({ onAuth }) {
   const [user, setUser] = useState('');
   const [pass, setPass] = useState('');
   const [error, setError] = useState('');
-
   const handleSubmit = (e) => {
     e.preventDefault();
     if (user === 'old-toronto' && pass === 'old-toronto-stats') {
@@ -18,19 +17,16 @@ function AdminLogin({ onAuth }) {
       setError('Invalid credentials');
     }
   };
-
   return (
     <div className="admin-login-wrap">
       <form className="admin-login-box" onSubmit={handleSubmit}>
         <div className="admin-login-icon">🔐</div>
         <h2>Admin Access</h2>
         <p className="admin-login-sub">Enter credentials to view analytics</p>
-        <div className="admin-field">
-          <label>Username</label>
+        <div className="admin-field"><label>Username</label>
           <input type="text" value={user} onChange={e => setUser(e.target.value)} autoComplete="username" autoFocus />
         </div>
-        <div className="admin-field">
-          <label>Password</label>
+        <div className="admin-field"><label>Password</label>
           <input type="password" value={pass} onChange={e => setPass(e.target.value)} autoComplete="current-password" />
         </div>
         {error && <div className="admin-error">{error}</div>}
@@ -40,18 +36,18 @@ function AdminLogin({ onAuth }) {
   );
 }
 
-// ── Stat Card ───────────────────────────────────────────────────────────────
-function StatCard({ label, value, sub }) {
+// ── Stat Card ────────────────────────────────────────────────────────────────
+function StatCard({ label, value, icon }) {
   return (
     <div className="admin-stat-card">
+      {icon && <div style={{ fontSize: 22, marginBottom: 4 }}>{icon}</div>}
       <div className="admin-stat-value">{value}</div>
       <div className="admin-stat-label">{label}</div>
-      {sub && <div className="admin-stat-sub">{sub}</div>}
     </div>
   );
 }
 
-// ── Bar Chart (horizontal) ──────────────────────────────────────────────────
+// ── Horizontal Bar Chart ─────────────────────────────────────────────────────
 function BarChart({ data, labelKey, valueKey, title, maxBars = 10 }) {
   const sorted = [...data].sort((a, b) => b[valueKey] - a[valueKey]).slice(0, maxBars);
   const max = Math.max(...sorted.map(d => d[valueKey]), 1);
@@ -61,7 +57,7 @@ function BarChart({ data, labelKey, valueKey, title, maxBars = 10 }) {
       <div className="admin-bar-chart">
         {sorted.map((d, i) => (
           <div key={i} className="admin-bar-row">
-            <span className="admin-bar-label">{d[labelKey]}</span>
+            <span className="admin-bar-label">{d[labelKey] || '—'}</span>
             <div className="admin-bar-track">
               <div className="admin-bar-fill" style={{ width: `${(d[valueKey] / max) * 100}%` }} />
             </div>
@@ -74,12 +70,12 @@ function BarChart({ data, labelKey, valueKey, title, maxBars = 10 }) {
   );
 }
 
-// ── Daily Bar Chart (vertical, last 14 days) ────────────────────────────────
-function DailyChart({ dailyCounts, title }) {
+// ── Daily Chart ───────────────────────────────────────────────────────────────
+function DailyChart({ dailyCounts }) {
   const max = Math.max(...dailyCounts.map(d => d.count), 1);
   return (
     <div className="admin-chart-card">
-      <h4>{title}</h4>
+      <h4>Pageviews — Last 14 Days</h4>
       <div className="admin-daily-chart">
         {dailyCounts.map((d, i) => (
           <div key={i} className="admin-daily-col">
@@ -96,7 +92,7 @@ function DailyChart({ dailyCounts, title }) {
   );
 }
 
-// ── Visitor Map (Leaflet) ───────────────────────────────────────────────────
+// ── Visitor Map ───────────────────────────────────────────────────────────────
 function VisitorMap({ visitors }) {
   const mapRef = useRef(null);
   const mapInstance = useRef(null);
@@ -107,204 +103,228 @@ function VisitorMap({ visitors }) {
 
     const map = L.map(mapRef.current, { zoomControl: true, scrollWheelZoom: true, minZoom: 2 });
     mapInstance.current = map;
-
     L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-      attribution: '© OpenStreetMap © CARTO', subdomains: 'abcd', maxZoom: 18
+      attribution: '© OpenStreetMap © CARTO', subdomains: 'abcd', maxZoom: 18,
     }).addTo(map);
 
-    if (visitors.length === 0) {
-      map.setView([30, 0], 2);
-      return () => { if (mapInstance.current) { mapInstance.current.remove(); mapInstance.current = null; } };
-    }
+    if (visitors.length === 0) { map.setView([30, 0], 2); return; }
 
-    // Cluster by city (combine visitors at same lat/lng)
     const clusters = {};
     for (const v of visitors) {
       const key = `${Number(v.lat).toFixed(2)},${Number(v.lng).toFixed(2)}`;
-      if (!clusters[key]) clusters[key] = { lat: Number(v.lat), lng: Number(v.lng), city: v.city, country: v.country, count: 0, sessions: new Set() };
+      if (!clusters[key]) clusters[key] = { lat: Number(v.lat), lng: Number(v.lng), city: v.city, region: v.region, country: v.country_name || v.country, count: 0, sessions: new Set() };
       clusters[key].count++;
       if (v.session_id) clusters[key].sessions.add(v.session_id);
     }
 
     const bounds = [];
-    Object.values(clusters).forEach(cl => {
-      const r = Math.max(6, Math.min(22, 6 + cl.count * 2));
+    for (const cl of Object.values(clusters)) {
+      const r = Math.max(6, Math.min(24, 6 + cl.count * 2));
       const icon = L.divIcon({
         className: '',
-        html: `<div style="width:${r*2}px;height:${r*2}px;border-radius:50%;background:rgba(94,74,46,0.7);border:2px solid rgba(244,236,224,0.9);display:flex;align-items:center;justify-content:center;font-size:${Math.max(10,r-2)}px;font-weight:700;color:#f4ece0;font-family:'Cormorant Garamond',serif;box-shadow:0 2px 8px rgba(0,0,0,0.3);">${cl.count > 1 ? cl.count : ''}</div>`,
+        html: `<div style="width:${r*2}px;height:${r*2}px;border-radius:50%;background:rgba(94,74,46,0.75);border:2px solid rgba(244,236,224,0.9);display:flex;align-items:center;justify-content:center;font-size:${Math.max(10,r-2)}px;font-weight:700;color:#f4ece0;font-family:'Cormorant Garamond',serif;box-shadow:0 2px 8px rgba(0,0,0,0.25);">${cl.count > 1 ? cl.count : ''}</div>`,
         iconSize: [r*2, r*2], iconAnchor: [r, r],
       });
-      const label = [cl.city, cl.country].filter(Boolean).join(', ') || 'Unknown';
+      const parts = [cl.city, cl.region, cl.country].filter(Boolean);
+      const label = parts.join(', ') || 'Unknown';
       L.marker([cl.lat, cl.lng], { icon })
-        .bindPopup(`<div style="font-family:'Cormorant Garamond',serif;font-size:16px;font-weight:700;color:#5e4a2e;">${label}</div><div style="font-size:12px;color:#a89878;margin-top:4px;">${cl.count} visit${cl.count > 1 ? 's' : ''} · ${cl.sessions.size} session${cl.sessions.size > 1 ? 's' : ''}</div>`)
+        .bindPopup(`<div style="font-family:'Cormorant Garamond',serif;font-size:15px;font-weight:700;color:#5e4a2e;">${label}</div><div style="font-size:11px;color:#a89878;margin-top:3px;">${cl.count} visit${cl.count>1?'s':''} · ${cl.sessions.size} session${cl.sessions.size>1?'s':''}</div>`)
         .addTo(map);
       bounds.push([cl.lat, cl.lng]);
-    });
-
-    if (bounds.length === 1) {
-      map.setView(bounds[0], 5);
-    } else if (bounds.length > 1) {
-      map.fitBounds(bounds, { padding: [40, 40], maxZoom: 8 });
-    } else {
-      map.setView([30, 0], 2);
     }
+
+    if (bounds.length === 1) map.setView(bounds[0], 5);
+    else if (bounds.length > 1) map.fitBounds(bounds, { padding: [40, 40], maxZoom: 8 });
 
     return () => { if (mapInstance.current) { mapInstance.current.remove(); mapInstance.current = null; } };
   }, [visitors]);
 
   return (
     <div className="admin-chart-card">
-      <h4>🌍 Visitor Locations</h4>
-      {visitors.length === 0 ? (
-        <div className="admin-empty">No geo data yet — visitors will appear once tracked with location</div>
-      ) : (
-        <div ref={mapRef} style={{ height: 380, borderRadius: 4, overflow: 'hidden' }} />
-      )}
+      <h4>🌍 Visitor Map {visitors.length > 0 && <span style={{ fontWeight: 400, fontSize: 13, color: 'var(--faded)' }}>({visitors.length} with coordinates)</span>}</h4>
+      {visitors.length === 0
+        ? <div className="admin-empty">No geo data yet</div>
+        : <div ref={mapRef} style={{ height: 380, borderRadius: 4, overflow: 'hidden' }} />}
     </div>
   );
 }
 
-// ── Helper: safely parse lat/lng which may come back as strings from Supabase
-function parseCoord(v) {
-  if (v === null || v === undefined || v === '') return null;
-  const n = typeof v === 'number' ? v : parseFloat(v);
-  return isNaN(n) ? null : n;
+// ── Recent Visits Table ───────────────────────────────────────────────────────
+function RecentTable({ pageviews }) {
+  return (
+    <div className="admin-chart-card">
+      <h4>Recent Visits</h4>
+      <div className="admin-table-wrap">
+        <table className="admin-table">
+          <thead>
+            <tr>
+              <th>Time</th><th>Page</th><th>City</th><th>Region</th>
+              <th>Country</th><th>Device</th><th>Browser</th><th>Referrer</th>
+            </tr>
+          </thead>
+          <tbody>
+            {pageviews.slice(0, 50).map((p, i) => {
+              let ref = 'Direct';
+              if (p.referrer) { try { ref = new URL(p.referrer).hostname; } catch {} }
+              return (
+                <tr key={i}>
+                  <td>{p.created_at ? new Date(p.created_at).toLocaleString('en-GB', { day:'numeric', month:'short', hour:'2-digit', minute:'2-digit' }) : '—'}</td>
+                  <td>{p.page || '/'}</td>
+                  <td>{p.city || '—'}</td>
+                  <td>{p.region || '—'}</td>
+                  <td>{p.country_name || p.country || '—'}</td>
+                  <td>{p.device_type || '—'}</td>
+                  <td>{p.browser || '—'}</td>
+                  <td className="admin-ref-cell">{ref}</td>
+                </tr>
+              );
+            })}
+            {pageviews.length === 0 && (
+              <tr><td colSpan={8} style={{ textAlign: 'center', color: 'var(--faded)' }}>No visits recorded yet</td></tr>
+            )}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  );
 }
 
-// ── Helper: deduplicate pageviews — prefer geo-enriched row per session
-function deduplicatePageviews(pageviews) {
-  // Group by session_id + page, keep the row that has geo data if available
-  const map = new Map();
-  for (const p of pageviews) {
-    const key = `${p.session_id}__${p.page}`;
-    const existing = map.get(key);
-    if (!existing) {
-      map.set(key, p);
-    } else {
-      // Prefer the row with geo data
-      const hasGeo = parseCoord(p.lat) !== null;
-      const existingHasGeo = parseCoord(existing.lat) !== null;
-      if (hasGeo && !existingHasGeo) map.set(key, p);
-    }
-  }
-  return Array.from(map.values());
-}
-
-// ── Dashboard ───────────────────────────────────────────────────────────────
+// ── Dashboard ─────────────────────────────────────────────────────────────────
 function AdminDashboard({ onLogout }) {
   const [pageviews, setPageviews] = useState([]);
   const [events, setEvents] = useState([]);
   const [loading, setLoading] = useState(true);
   const [err, setErr] = useState(null);
-  const [rawCount, setRawCount] = useState(0);
+  const [tab, setTab] = useState('overview');
+  const [days, setDays] = useState(30);
   const configured = !!SUPABASE_URL;
 
   useEffect(() => {
     if (!configured) { setLoading(false); return; }
     (async () => {
+      setLoading(true);
       try {
         const [pv, ev] = await Promise.all([fetchAllPageviews(), fetchAllEvents()]);
-        setRawCount(pv.length);
-        // Deduplicate: one row per session+page, preferring rows with geo
-        setPageviews(deduplicatePageviews(pv));
+        setPageviews(pv);
         setEvents(ev);
-      } catch (e) {
-        setErr(e.message);
-      }
+      } catch (e) { setErr(e.message); }
       setLoading(false);
     })();
   }, []);
+
+  const filtered = useMemo(() => {
+    if (days === 0) return pageviews;
+    const cutoff = new Date(Date.now() - days * 86400000).toISOString();
+    return pageviews.filter(p => p.created_at >= cutoff);
+  }, [pageviews, days]);
 
   const stats = useMemo(() => {
     const now = new Date();
     const todayStr = now.toISOString().slice(0, 10);
     const weekAgo = new Date(now - 7 * 86400000).toISOString();
 
-    const total = pageviews.length;
-    const uniqueSessions = new Set(pageviews.map(p => p.session_id)).size;
-    const todayViews = pageviews.filter(p => p.created_at?.startsWith(todayStr)).length;
-    const weekViews = pageviews.filter(p => p.created_at >= weekAgo).length;
+    const total = filtered.length;
+    const uniqueSessions = new Set(filtered.map(p => p.session_id)).size;
+    const todayViews = filtered.filter(p => p.created_at?.startsWith(todayStr)).length;
+    const weekViews = filtered.filter(p => p.created_at >= weekAgo).length;
 
-    // Daily counts (last 14 days)
-    const dailyMap = {};
+    // Daily counts
     const dayNames = ['Sun','Mon','Tue','Wed','Thu','Fri','Sat'];
+    const dailyMap = {};
     for (let i = 13; i >= 0; i--) {
       const d = new Date(now - i * 86400000);
       const key = d.toISOString().slice(0, 10);
-      const dayName = dayNames[d.getDay()];
-      const monthDay = `${d.getMonth()+1}/${d.getDate()}`;
-      dailyMap[key] = { date: key, label: i <= 7 ? `${dayName}\n${monthDay}` : monthDay, count: 0 };
+      dailyMap[key] = { label: `${dayNames[d.getDay()]}\n${d.getMonth()+1}/${d.getDate()}`, count: 0 };
     }
-    for (const p of pageviews) {
+    for (const p of filtered) {
       const d = p.created_at?.slice(0, 10);
       if (d && dailyMap[d]) dailyMap[d].count++;
     }
     const dailyCounts = Object.values(dailyMap);
 
-    // Top pages
+    // Countries — use country_name if available, else country code
+    const countryCounts = {};
+    for (const p of filtered) {
+      const c = p.country_name || p.country || null;
+      if (!c) continue;
+      countryCounts[c] = (countryCounts[c] || 0) + 1;
+    }
+    const unknowns = filtered.filter(p => !p.country_name && !p.country).length;
+    if (unknowns > 0) countryCounts['Unknown'] = unknowns;
+    const countries = Object.entries(countryCounts).map(([country, count]) => ({ country, count }));
+
+    // Cities
+    const cityCounts = {};
+    for (const p of filtered) {
+      if (!p.city) continue;
+      const key = [p.city, p.region, p.country || ''].filter(Boolean).join(', ');
+      cityCounts[key] = (cityCounts[key] || 0) + 1;
+    }
+    const cities = Object.entries(cityCounts).map(([city, count]) => ({ city, count }));
+
+    // Regions
+    const regionCounts = {};
+    for (const p of filtered) {
+      if (!p.region) continue;
+      const key = [p.region, p.country_name || p.country].filter(Boolean).join(', ');
+      regionCounts[key] = (regionCounts[key] || 0) + 1;
+    }
+    const regions = Object.entries(regionCounts).map(([region, count]) => ({ region, count }));
+
+    // Pages
     const pageCounts = {};
-    for (const p of pageviews) { pageCounts[p.page || '/'] = (pageCounts[p.page || '/'] || 0) + 1; }
+    for (const p of filtered) { pageCounts[p.page || '/'] = (pageCounts[p.page || '/'] || 0) + 1; }
     const topPages = Object.entries(pageCounts).map(([page, count]) => ({ page, count }));
 
     // Devices
     const deviceCounts = {};
-    for (const p of pageviews) { deviceCounts[p.device_type || 'Unknown'] = (deviceCounts[p.device_type || 'Unknown'] || 0) + 1; }
+    for (const p of filtered) { deviceCounts[p.device_type || 'Unknown'] = (deviceCounts[p.device_type || 'Unknown'] || 0) + 1; }
     const devices = Object.entries(deviceCounts).map(([device, count]) => ({ device, count }));
 
     // Browsers
     const browserCounts = {};
-    for (const p of pageviews) { browserCounts[p.browser || 'Unknown'] = (browserCounts[p.browser || 'Unknown'] || 0) + 1; }
+    for (const p of filtered) { browserCounts[p.browser || 'Unknown'] = (browserCounts[p.browser || 'Unknown'] || 0) + 1; }
     const browsers = Object.entries(browserCounts).map(([browser, count]) => ({ browser, count }));
 
     // Referrers
     const refCounts = {};
-    for (const p of pageviews) {
+    for (const p of filtered) {
       let ref = 'Direct';
       if (p.referrer) { try { ref = new URL(p.referrer).hostname; } catch {} }
       refCounts[ref] = (refCounts[ref] || 0) + 1;
     }
     const referrers = Object.entries(refCounts).map(([source, count]) => ({ source, count }));
 
-    // Countries — only count rows that actually have country data
-    const countryCounts = {};
-    for (const p of pageviews) {
-      const c = p.country || null;
-      if (!c) continue;
-      countryCounts[c] = (countryCounts[c] || 0) + 1;
+    // Languages
+    const langCounts = {};
+    for (const p of filtered) {
+      const l = (p.language || 'Unknown').split('-')[0];
+      langCounts[l] = (langCounts[l] || 0) + 1;
     }
-    const unknownCountry = pageviews.filter(p => !p.country).length;
-    if (unknownCountry > 0) countryCounts['Unknown'] = unknownCountry;
-    const countries = Object.entries(countryCounts).map(([country, count]) => ({ country, count }));
+    const languages = Object.entries(langCounts).map(([language, count]) => ({ language, count }));
 
-    // Cities — only count rows with city data
-    const cityCounts = {};
-    for (const p of pageviews) {
-      if (!p.city) continue;
-      const c = [p.city, p.country_code].filter(Boolean).join(', ');
-      cityCounts[c] = (cityCounts[c] || 0) + 1;
-    }
-    const cities = Object.entries(cityCounts).map(([city, count]) => ({ city, count }));
-
-    // Geo visitors for map — parse coords safely
-    const geoVisitors = pageviews
-      .map(p => ({
-        lat: parseCoord(p.lat),
-        lng: parseCoord(p.lng),
-        city: p.city || null,
-        country: p.country || null,
-        session_id: p.session_id,
-      }))
-      .filter(v => v.lat !== null && v.lng !== null);
+    // Geo visitors for map
+    const geoVisitors = filtered.filter(p => {
+      const lat = typeof p.lat === 'number' ? p.lat : parseFloat(p.lat);
+      const lng = typeof p.lng === 'number' ? p.lng : parseFloat(p.lng);
+      return !isNaN(lat) && !isNaN(lng) && lat !== 0 && lng !== 0;
+    }).map(p => ({
+      lat: typeof p.lat === 'number' ? p.lat : parseFloat(p.lat),
+      lng: typeof p.lng === 'number' ? p.lng : parseFloat(p.lng),
+      city: p.city || null,
+      region: p.region || null,
+      country: p.country || null,
+      country_name: p.country_name || null,
+      session_id: p.session_id,
+    }));
 
     // Events
     const eventCounts = {};
     for (const e of events) { eventCounts[e.event_name || 'unknown'] = (eventCounts[e.event_name || 'unknown'] || 0) + 1; }
     const topEvents = Object.entries(eventCounts).map(([event, count]) => ({ event, count }));
 
-    const geoCount = pageviews.filter(p => parseCoord(p.lat) !== null).length;
-
-    return { total, uniqueSessions, todayViews, weekViews, dailyCounts, topPages, devices, browsers, referrers, countries, cities, geoVisitors, topEvents, geoCount };
-  }, [pageviews, events]);
+    return { total, uniqueSessions, todayViews, weekViews, dailyCounts, countries, cities, regions, topPages, devices, browsers, referrers, languages, geoVisitors, topEvents };
+  }, [filtered, events]);
 
   if (!configured) {
     return (
@@ -315,7 +335,7 @@ function AdminDashboard({ onLogout }) {
         </div>
         <div className="admin-setup-box">
           <h3>⚙️ Supabase Not Configured</h3>
-          <p>To enable analytics tracking, set up a free Supabase project and add your credentials to <code>src/config.js</code>.</p>
+          <p>Add your credentials to <code>src/config.js</code>.</p>
         </div>
       </div>
     );
@@ -336,85 +356,98 @@ function AdminDashboard({ onLogout }) {
     );
   }
 
+  const TABS = [
+    { id: 'overview', label: '📈 Overview' },
+    { id: 'geo',      label: '🌍 Geography' },
+    { id: 'recent',   label: '🕐 Recent' },
+  ];
+
   return (
     <div className="admin-wrap">
+      {/* Header */}
       <div className="admin-header">
         <h2>📊 Analytics Dashboard</h2>
-        <div style={{ display: 'flex', gap: 8, alignItems: 'center' }}>
-          <span style={{ fontSize: 12, color: 'var(--faded)' }}>
-            {rawCount} raw rows → {pageviews.length} deduplicated · {stats.geoCount} with geo
-          </span>
+        <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
+          {/* Day range filter */}
+          {[7, 14, 30, 90, 0].map(d => (
+            <button key={d} onClick={() => setDays(d)}
+              className={`btn ${days === d ? 'btn-primary' : 'btn-ghost'}`}
+              style={{ padding: '4px 10px', fontSize: 12 }}>
+              {d === 0 ? 'All' : `${d}d`}
+            </button>
+          ))}
           <button className="btn btn-ghost" onClick={onLogout}>Sign Out</button>
         </div>
       </div>
 
       {err && <div className="admin-error" style={{ marginBottom: 16 }}>Error: {err}</div>}
 
+      {/* Stat cards */}
       <div className="admin-stats-grid">
-        <StatCard label="Total Pageviews" value={stats.total.toLocaleString()} />
-        <StatCard label="Unique Sessions" value={stats.uniqueSessions.toLocaleString()} />
-        <StatCard label="Today" value={stats.todayViews.toLocaleString()} />
-        <StatCard label="Last 7 Days" value={stats.weekViews.toLocaleString()} />
+        <StatCard icon="👁" label="Total Pageviews" value={stats.total.toLocaleString()} />
+        <StatCard icon="🙋" label="Unique Sessions" value={stats.uniqueSessions.toLocaleString()} />
+        <StatCard icon="📅" label="Today" value={stats.todayViews.toLocaleString()} />
+        <StatCard icon="📆" label="Last 7 Days" value={stats.weekViews.toLocaleString()} />
+        <StatCard icon="🌍" label="Countries" value={stats.countries.filter(c => c.country !== 'Unknown').length} />
+        <StatCard icon="🏙" label="Cities" value={stats.cities.length} />
+        <StatCard icon="🗺" label="With Coordinates" value={stats.geoVisitors.length} />
+        <StatCard icon="⚡" label="Events" value={events.length.toLocaleString()} />
       </div>
 
-      <DailyChart dailyCounts={stats.dailyCounts} title="Pageviews — Last 14 Days" />
-
-      <VisitorMap visitors={stats.geoVisitors} />
-
-      <div className="admin-charts-row">
-        <BarChart data={stats.countries} labelKey="country" valueKey="count" title={`Countries (${stats.countries.length})`} />
-        <BarChart data={stats.cities} labelKey="city" valueKey="count" title={`Cities (${stats.cities.length})`} maxBars={8} />
+      {/* Tabs */}
+      <div style={{ display: 'flex', gap: 4, marginBottom: 20, borderBottom: '1px solid var(--border)', paddingBottom: 0 }}>
+        {TABS.map(t => (
+          <button key={t.id} onClick={() => setTab(t.id)}
+            style={{
+              padding: '8px 16px', fontSize: 13, fontWeight: 500, border: 'none', background: 'none',
+              cursor: 'pointer', borderBottom: tab === t.id ? '2px solid var(--ink)' : '2px solid transparent',
+              color: tab === t.id ? 'var(--ink)' : 'var(--faded)', marginBottom: -1,
+            }}>
+            {t.label}
+          </button>
+        ))}
       </div>
 
-      <div className="admin-charts-row">
-        <BarChart data={stats.topPages} labelKey="page" valueKey="count" title="Top Pages" />
-        <BarChart data={stats.referrers} labelKey="source" valueKey="count" title="Referrers" />
-      </div>
-
-      <div className="admin-charts-row">
-        <BarChart data={stats.devices} labelKey="device" valueKey="count" title="Devices" />
-        <BarChart data={stats.browsers} labelKey="browser" valueKey="count" title="Browsers" />
-      </div>
-
-      {stats.topEvents.length > 0 && (
-        <BarChart data={stats.topEvents} labelKey="event" valueKey="count" title="Events" />
+      {/* Overview tab */}
+      {tab === 'overview' && (
+        <div>
+          <DailyChart dailyCounts={stats.dailyCounts} />
+          <div className="admin-charts-row">
+            <BarChart data={stats.topPages} labelKey="page" valueKey="count" title="Top Pages" />
+            <BarChart data={stats.referrers} labelKey="source" valueKey="count" title="Referrers" />
+          </div>
+          <div className="admin-charts-row">
+            <BarChart data={stats.devices} labelKey="device" valueKey="count" title="Devices" />
+            <BarChart data={stats.browsers} labelKey="browser" valueKey="count" title="Browsers" />
+          </div>
+          <div className="admin-charts-row">
+            <BarChart data={stats.languages} labelKey="language" valueKey="count" title="Languages" />
+            {stats.topEvents.length > 0 && (
+              <BarChart data={stats.topEvents} labelKey="event" valueKey="count" title="Events" />
+            )}
+          </div>
+        </div>
       )}
 
-      <div className="admin-chart-card">
-        <h4>Recent Visits</h4>
-        <div className="admin-table-wrap">
-          <table className="admin-table">
-            <thead>
-              <tr><th>Time</th><th>Page</th><th>Location</th><th>Device</th><th>Browser</th><th>Referrer</th></tr>
-            </thead>
-            <tbody>
-              {pageviews.slice(0, 50).map((p, i) => {
-                const loc = [p.city, p.country_code].filter(Boolean).join(', ') || '—';
-                let ref = 'Direct';
-                if (p.referrer) { try { ref = new URL(p.referrer).hostname; } catch {} }
-                return (
-                  <tr key={i}>
-                    <td>{p.created_at ? new Date(p.created_at).toLocaleString() : '—'}</td>
-                    <td>{p.page || '/'}</td>
-                    <td>{loc}</td>
-                    <td>{p.device_type || '—'}</td>
-                    <td>{p.browser || '—'}</td>
-                    <td className="admin-ref-cell">{ref}</td>
-                  </tr>
-                );
-              })}
-              {pageviews.length === 0 && (
-                <tr><td colSpan={6} style={{ textAlign: 'center', color: 'var(--faded)' }}>No visits recorded yet</td></tr>
-              )}
-            </tbody>
-          </table>
+      {/* Geography tab */}
+      {tab === 'geo' && (
+        <div>
+          <VisitorMap visitors={stats.geoVisitors} />
+          <div className="admin-charts-row">
+            <BarChart data={stats.countries} labelKey="country" valueKey="count" title={`Countries (${stats.countries.length})`} maxBars={15} />
+            <BarChart data={stats.regions} labelKey="region" valueKey="count" title={`Regions (${stats.regions.length})`} maxBars={15} />
+          </div>
+          <BarChart data={stats.cities} labelKey="city" valueKey="count" title={`Cities (${stats.cities.length})`} maxBars={20} />
         </div>
-      </div>
+      )}
+
+      {/* Recent tab */}
+      {tab === 'recent' && <RecentTable pageviews={filtered} />}
     </div>
   );
 }
 
-// ── Export ───────────────────────────────────────────────────────────────────
+// ── Export ────────────────────────────────────────────────────────────────────
 export default function AdminPage({ onBack }) {
   const [authed, setAuthed] = useState(() => sessionStorage.getItem('_ot_admin') === '1');
   const handleLogout = () => { sessionStorage.removeItem('_ot_admin'); setAuthed(false); };
@@ -429,9 +462,7 @@ export default function AdminPage({ onBack }) {
           </div>
         </div>
       </header>
-      {authed
-        ? <AdminDashboard onLogout={handleLogout} />
-        : <AdminLogin onAuth={() => setAuthed(true)} />}
+      {authed ? <AdminDashboard onLogout={handleLogout} /> : <AdminLogin onAuth={() => setAuthed(true)} />}
     </>
   );
 }
