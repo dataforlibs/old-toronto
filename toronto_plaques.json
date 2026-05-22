@@ -3,500 +3,808 @@
     "id": 1,
     "name": "Glenn Gould",
     "address": "32 Southwood Drive, The Beach",
-    "lat": 43.6742, "lng": -79.2987,
+    "lat": 43.6745,
+    "lng": -79.3002,
     "colour": "bronze",
     "inscription": "Celebrated pianist Glenn Gould was born in Toronto and lived here at 32 Southwood Drive throughout his childhood. A child prodigy, he gave his first public concert on the organ at the Eaton Auditorium, 12 December 1945. He made his debut as a soloist with the Toronto Symphony Orchestra at age 14. Worldwide recognition followed his brilliant rendition of J.S. Bach's Goldberg Variations, recorded in June 1955.",
     "uri": "https://torontoplaques.ca/Pages/Glenn_Gould1.html",
-    "subjects": [{"name": "Glenn Gould", "role": "pianist"}]
+    "subjects": [
+      {
+        "name": "Glenn Gould",
+        "role": "pianist"
+      }
+    ]
   },
   {
     "id": 2,
     "name": "Glenn Gould",
     "address": "110 St. Clair Avenue West",
-    "lat": 43.6878, "lng": -79.3954,
+    "lat": 43.6878,
+    "lng": -79.3954,
     "colour": "bronze",
     "inscription": "Glenn Gould (1932–1982) lived in an apartment in this building from 1959 until his death. It was here that he retreated from the concert stage and dedicated himself to recording, writing, and pioneering radio documentaries.",
     "uri": "https://torontoplaques.ca/Pages/Glenn_Gould2.html",
-    "subjects": [{"name": "Glenn Gould", "role": "pianist"}]
+    "subjects": [
+      {
+        "name": "Glenn Gould",
+        "role": "pianist"
+      }
+    ]
   },
   {
     "id": 3,
     "name": "Frederick Banting & Charles Best",
     "address": "105 Grenville Street (Banting Institute)",
-    "lat": 43.6641, "lng": -79.3881,
+    "lat": 43.6641,
+    "lng": -79.3881,
     "colour": "bronze",
     "inscription": "In the summer of 1921, working in a laboratory in the Medical Building of the University of Toronto, Frederick Banting and Charles Best discovered insulin, transforming diabetes from a fatal disease into a manageable condition and saving millions of lives worldwide.",
     "uri": "https://torontoplaques.ca/Pages/Frederick_Banting.html",
-    "subjects": [{"name": "Frederick Banting", "role": "physician"}, {"name": "Charles Best", "role": "scientist"}]
+    "subjects": [
+      {
+        "name": "Frederick Banting",
+        "role": "physician"
+      },
+      {
+        "name": "Charles Best",
+        "role": "scientist"
+      }
+    ]
   },
   {
     "id": 4,
     "name": "Jane Jacobs",
     "address": "69 Albany Avenue, The Annex",
-    "lat": 43.6697, "lng": -79.4094,
+    "lat": 43.6697,
+    "lng": -79.4094,
     "colour": "blue",
     "inscription": "Jane Jacobs (1916–2006), author of The Death and Life of Great American Cities, lived in this house from 1968 until 2006. Her landmark book revolutionized urban planning thinking worldwide. In Toronto she championed neighbourhoods and helped defeat the Spadina Expressway.",
     "uri": "https://torontoplaques.ca/Pages/Jane_Jacobs.html",
-    "subjects": [{"name": "Jane Jacobs", "role": "urban activist and author"}]
+    "subjects": [
+      {
+        "name": "Jane Jacobs",
+        "role": "urban activist and author"
+      }
+    ]
   },
   {
     "id": 5,
     "name": "Ernest Hemingway",
     "address": "1599 Bathurst Street",
-    "lat": 43.6905, "lng": -79.4176,
+    "lat": 43.6905,
+    "lng": -79.4158,
     "colour": "bronze",
     "inscription": "Ernest Hemingway (1899–1961) lived here in 1920 while working as a reporter for the Toronto Star and Toronto Star Weekly. This early period in Toronto shaped his spare journalistic prose style that would define his later literary career.",
     "uri": "https://torontoplaques.ca/Pages/Ernest_Hemingway.html",
-    "subjects": [{"name": "Ernest Hemingway", "role": "author"}]
+    "subjects": [
+      {
+        "name": "Ernest Hemingway",
+        "role": "author"
+      }
+    ]
   },
   {
     "id": 6,
     "name": "Marshall McLuhan",
     "address": "3 Wychwood Park",
-    "lat": 43.6794, "lng": -79.4278,
+    "lat": 43.6794,
+    "lng": -79.4278,
     "colour": "blue",
     "inscription": "Marshall McLuhan (1911–1980), communications theorist and author of Understanding Media, lived at this address from 1968 until his death. His aphorism 'the medium is the message' transformed how the world understood mass communication and technology.",
     "uri": "https://torontoplaques.ca/Pages/Marshall_McLuhan.html",
-    "subjects": [{"name": "Marshall McLuhan", "role": "communication theorist"}]
+    "subjects": [
+      {
+        "name": "Marshall McLuhan",
+        "role": "communication theorist"
+      }
+    ]
   },
   {
     "id": 7,
     "name": "William Lyon Mackenzie",
     "address": "82 Bond Street",
-    "lat": 43.6548, "lng": -79.3763,
+    "lat": 43.6597,
+    "lng": -79.376,
     "colour": "bronze",
     "inscription": "William Lyon Mackenzie (1795–1861), first mayor of Toronto and leader of the Upper Canada Rebellion of 1837, lived at this location. A passionate advocate of responsible government and democratic reform, he edited the Colonial Advocate and challenged the Family Compact.",
     "uri": "https://torontoplaques.ca/Pages/William_Lyon_Mackenzie.html",
-    "subjects": [{"name": "William Lyon Mackenzie", "role": "politician and journalist"}]
+    "subjects": [
+      {
+        "name": "William Lyon Mackenzie",
+        "role": "politician and journalist"
+      }
+    ]
   },
   {
     "id": 8,
     "name": "Neil Young",
     "address": "88 Brooke Avenue, Lawrence Park",
-    "lat": 43.7157, "lng": -79.4089,
+    "lat": 43.7157,
+    "lng": -79.375,
     "colour": "blue",
     "inscription": "Neil Young (born 1945) lived in this house as a teenager from 1960 to 1963. During this formative period he attended Lawrence Park Collegiate and began playing guitar, eventually leaving Toronto to pursue a career that would make him one of rock music's most enduring artists.",
     "uri": "https://torontoplaques.ca/Pages/Neil_Young.html",
-    "subjects": [{"name": "Neil Young", "role": "musician"}]
+    "subjects": [
+      {
+        "name": "Neil Young",
+        "role": "musician"
+      }
+    ]
   },
   {
     "id": 9,
     "name": "Lester B. Pearson",
     "address": "83 Bowden Street, East York",
-    "lat": 43.6956, "lng": -79.3399,
+    "lat": 43.686,
+    "lng": -79.338,
     "colour": "bronze",
     "inscription": "Lester B. Pearson (1897–1972), 14th Prime Minister of Canada and Nobel Peace Prize laureate, lived in this house during his early career. He is credited with creating the United Nations Emergency Force, the modern concept of peacekeeping, and Canada's maple leaf flag.",
     "uri": "https://torontoplaques.ca/Pages/Lester_Pearson.html",
-    "subjects": [{"name": "Lester B. Pearson", "role": "Prime Minister, Nobel laureate"}]
+    "subjects": [
+      {
+        "name": "Lester B. Pearson",
+        "role": "Prime Minister, Nobel laureate"
+      }
+    ]
   },
   {
     "id": 10,
     "name": "Northrop Frye",
     "address": "Victoria University, 73 Queen's Park Crescent",
-    "lat": 43.6664, "lng": -79.3930,
+    "lat": 43.6664,
+    "lng": -79.393,
     "colour": "bronze",
     "inscription": "Northrop Frye (1912–1991), one of the twentieth century's most influential literary critics, spent his entire academic career at Victoria University. His Anatomy of Criticism (1957) transformed the study of literature worldwide. He served as chancellor of Victoria University from 1978 to 1991.",
     "uri": "https://torontoplaques.ca/Pages/Northrop_Frye.html",
-    "subjects": [{"name": "Northrop Frye", "role": "literary critic"}]
+    "subjects": [
+      {
+        "name": "Northrop Frye",
+        "role": "literary critic"
+      }
+    ]
   },
   {
     "id": 11,
     "name": "Robertson Davies",
     "address": "Massey College, 4 Devonshire Place",
-    "lat": 43.6638, "lng": -79.3984,
+    "lat": 43.6638,
+    "lng": -79.3984,
     "colour": "bronze",
     "inscription": "Robertson Davies (1913–1995), novelist, playwright, and critic, was the founding Master of Massey College from 1963 to 1981. His Deptford Trilogy and Cornish Trilogy established him as one of Canada's foremost literary figures. He wrote most of his celebrated novels while residing here.",
     "uri": "https://torontoplaques.ca/Pages/Robertson_Davies.html",
-    "subjects": [{"name": "Robertson Davies", "role": "novelist"}]
+    "subjects": [
+      {
+        "name": "Robertson Davies",
+        "role": "novelist"
+      }
+    ]
   },
   {
     "id": 12,
     "name": "Mazo de la Roche",
     "address": "Windy Ridge, Forest Hill",
-    "lat": 43.6965, "lng": -79.4138,
+    "lat": 43.6965,
+    "lng": -79.4138,
     "colour": "bronze",
     "inscription": "Mazo de la Roche (1879–1961), author of the Jalna saga, lived in the Forest Hill area of Toronto. Her Jalna (1927) won the Atlantic Monthly prize and launched a sequence of sixteen novels that sold millions of copies worldwide, making her one of the best-selling Canadian novelists of the 20th century.",
     "uri": "https://torontoplaques.ca/Pages/Mazo_de_la_Roche.html",
-    "subjects": [{"name": "Mazo de la Roche", "role": "novelist"}]
+    "subjects": [
+      {
+        "name": "Mazo de la Roche",
+        "role": "novelist"
+      }
+    ]
   },
   {
     "id": 13,
     "name": "Lucy Maud Montgomery",
     "address": "210 Riverside Drive, Swansea",
-    "lat": 43.6448, "lng": -79.4741,
+    "lat": 43.6448,
+    "lng": -79.4741,
     "colour": "bronze",
     "inscription": "Lucy Maud Montgomery (1874–1942), author of Anne of Green Gables, lived in this house from 1935 until her death in 1942. Although her most beloved works were set on Prince Edward Island, she spent the last years of her life in Toronto, continuing to write prolifically.",
     "uri": "https://torontoplaques.ca/Pages/Lucy_Maud_Montgomery.html",
-    "subjects": [{"name": "Lucy Maud Montgomery", "role": "author"}]
+    "subjects": [
+      {
+        "name": "Lucy Maud Montgomery",
+        "role": "author"
+      }
+    ]
   },
   {
     "id": 14,
     "name": "Timothy Eaton",
     "address": "Eaton's College Street, 444 Yonge Street",
-    "lat": 43.6604, "lng": -79.3836,
+    "lat": 43.6584,
+    "lng": -79.3806,
     "colour": "bronze",
     "inscription": "Timothy Eaton (1834–1907) opened his first Toronto dry goods store here in 1869, pioneering fixed prices and the money-back guarantee in Canadian retail. The T. Eaton Company grew to become one of Canada's largest retail empires, defining Canadian shopping culture for over a century.",
     "uri": "https://torontoplaques.ca/Pages/Timothy_Eaton.html",
-    "subjects": [{"name": "Timothy Eaton", "role": "merchant"}]
+    "subjects": [
+      {
+        "name": "Timothy Eaton",
+        "role": "merchant"
+      }
+    ]
   },
   {
     "id": 15,
     "name": "George Brown",
     "address": "5 Homewood Avenue",
-    "lat": 43.6641, "lng": -79.3742,
+    "lat": 43.6641,
+    "lng": -79.3742,
     "colour": "bronze",
     "inscription": "George Brown (1818–1880), founder of The Globe newspaper (now The Globe and Mail) and Father of Confederation, lived at this location. A powerful advocate for representation by population and opponents of the Family Compact, he was a dominant figure in pre-Confederation Canadian politics.",
     "uri": "https://torontoplaques.ca/Pages/George_Brown.html",
-    "subjects": [{"name": "George Brown", "role": "journalist and politician"}]
+    "subjects": [
+      {
+        "name": "George Brown",
+        "role": "journalist and politician"
+      }
+    ]
   },
   {
     "id": 16,
     "name": "Lawren Harris",
     "address": "Studio Building, 25 Severn Street",
-    "lat": 43.6784, "lng": -79.3941,
+    "lat": 43.6784,
+    "lng": -79.3941,
     "colour": "bronze",
     "inscription": "Lawren Harris (1885–1970) co-founded the Studio Building in 1914, providing studio space for Tom Thomson and the artists who became the Group of Seven. His luminous paintings of the Canadian Shield, Arctic, and Rockies established a distinctly Canadian modernist aesthetic.",
     "uri": "https://torontoplaques.ca/Pages/Lawren_Harris.html",
-    "subjects": [{"name": "Lawren Harris", "role": "painter, Group of Seven"}]
+    "subjects": [
+      {
+        "name": "Lawren Harris",
+        "role": "painter, Group of Seven"
+      }
+    ]
   },
   {
     "id": 17,
     "name": "Tom Thomson",
     "address": "Studio Building, 25 Severn Street",
-    "lat": 43.6784, "lng": -79.3941,
+    "lat": 43.6784,
+    "lng": -79.3941,
     "colour": "bronze",
     "inscription": "Tom Thomson (1877–1917) worked from the Studio Building in Rosedale ravine from 1914 until his mysterious death in Algonquin Park. His vivid paintings of the Ontario wilderness, including The West Wind and The Jack Pine, profoundly influenced the Group of Seven.",
     "uri": "https://torontoplaques.ca/Pages/Tom_Thomson.html",
-    "subjects": [{"name": "Tom Thomson", "role": "painter"}]
+    "subjects": [
+      {
+        "name": "Tom Thomson",
+        "role": "painter"
+      }
+    ]
   },
   {
     "id": 18,
     "name": "Emily Carr",
     "address": "Yonge Street at Davenport Road",
-    "lat": 43.6821, "lng": -79.3932,
+    "lat": 43.6821,
+    "lng": -79.3932,
     "colour": "bronze",
     "inscription": "Emily Carr (1871–1945), celebrated painter of Indigenous peoples and British Columbia landscapes, spent time in Toronto during the 1920s when her work was first brought to national attention through her association with the Group of Seven.",
     "uri": "https://torontoplaques.ca/Pages/Emily_Carr.html",
-    "subjects": [{"name": "Emily Carr", "role": "painter"}]
+    "subjects": [
+      {
+        "name": "Emily Carr",
+        "role": "painter"
+      }
+    ]
   },
   {
     "id": 19,
     "name": "Mordecai Richler",
     "address": "Glen Edyth Drive, Forest Hill",
-    "lat": 43.6941, "lng": -79.4161,
+    "lat": 43.6941,
+    "lng": -79.4161,
     "colour": "blue",
     "inscription": "Mordecai Richler (1931–2001), author of The Apprenticeship of Duddy Kravitz and Barney's Version, grew up in Montreal but lived in Toronto during his later years. One of Canada's most celebrated and controversial novelists, his satirical fiction defined urban Jewish-Canadian experience.",
     "uri": "https://torontoplaques.ca/Pages/Mordecai_Richler.html",
-    "subjects": [{"name": "Mordecai Richler", "role": "novelist"}]
+    "subjects": [
+      {
+        "name": "Mordecai Richler",
+        "role": "novelist"
+      }
+    ]
   },
   {
     "id": 20,
     "name": "Michael Ondaatje",
     "address": "Annex neighbourhood",
-    "lat": 43.6712, "lng": -79.4132,
+    "lat": 43.6712,
+    "lng": -79.4132,
     "colour": "blue",
     "inscription": "Michael Ondaatje (born 1943), Booker Prize-winning author of The English Patient, has lived and written in Toronto for decades. His poetry and novels, bridging Sri Lankan and Canadian experience, have established him as one of the world's foremost literary figures.",
     "uri": "https://torontoplaques.ca/Pages/Michael_Ondaatje.html",
-    "subjects": [{"name": "Michael Ondaatje", "role": "novelist and poet"}]
+    "subjects": [
+      {
+        "name": "Michael Ondaatje",
+        "role": "novelist and poet"
+      }
+    ]
   },
   {
     "id": 21,
     "name": "Massey Hall",
     "address": "178 Victoria Street",
-    "lat": 43.6505, "lng": -79.3786,
+    "lat": 43.6505,
+    "lng": -79.3786,
     "colour": "bronze",
     "inscription": "Massey Hall, opened in 1894 and funded by Hart Massey in memory of his son Charles Albert Massey, has hosted virtually every major musical artist of the 20th century. Toronto's premier concert venue for over a century, it remains a beloved landmark of Canadian cultural life.",
     "uri": "https://torontoplaques.ca/Pages/Massey_Hall.html",
-    "subjects": [{"name": "Hart Massey", "role": "industrialist and philanthropist"}]
+    "subjects": [
+      {
+        "name": "Hart Massey",
+        "role": "industrialist and philanthropist"
+      }
+    ]
   },
   {
     "id": 22,
     "name": "Hart House",
     "address": "7 Hart House Circle, University of Toronto",
-    "lat": 43.6641, "lng": -79.3961,
+    "lat": 43.6641,
+    "lng": -79.3961,
     "colour": "bronze",
     "inscription": "Hart House, completed in 1919 and given to the University of Toronto by Vincent Massey in memory of his grandfather Hart Massey, has served as the cultural and social centre of the university for over a century, fostering debate, the arts, and student life.",
     "uri": "https://torontoplaques.ca/Pages/Hart_House.html",
-    "subjects": [{"name": "Vincent Massey", "role": "diplomat and Governor General"}]
+    "subjects": [
+      {
+        "name": "Vincent Massey",
+        "role": "diplomat and Governor General"
+      }
+    ]
   },
   {
     "id": 23,
     "name": "Joseph Burr Tyrrell",
     "address": "Geological Survey, Bloor Street West",
-    "lat": 43.6673, "lng": -79.3921,
+    "lat": 43.6673,
+    "lng": -79.3921,
     "colour": "bronze",
     "inscription": "Joseph Burr Tyrrell (1858–1957) discovered the first dinosaur remains in the Badlands of Alberta in 1884, and conducted pioneering geological surveys of northern Canada. The Royal Tyrrell Museum of Palaeontology in Drumheller, Alberta bears his name.",
     "uri": "https://torontoplaques.ca/Pages/Joseph_Tyrrell.html",
-    "subjects": [{"name": "Joseph Burr Tyrrell", "role": "geologist and explorer"}]
+    "subjects": [
+      {
+        "name": "Joseph Burr Tyrrell",
+        "role": "geologist and explorer"
+      }
+    ]
   },
   {
     "id": 24,
     "name": "Goldwin Smith",
     "address": "The Grange, 317 Dundas Street West",
-    "lat": 43.6531, "lng": -79.3934,
+    "lat": 43.6531,
+    "lng": -79.3934,
     "colour": "bronze",
     "inscription": "Goldwin Smith (1823–1910), British-Canadian journalist and scholar, lived at The Grange from 1875 until his death. A founder of The Week magazine and a leading intellectual, he bequeathed The Grange to the city, which became the foundation for the Art Gallery of Ontario.",
     "uri": "https://torontoplaques.ca/Pages/Goldwin_Smith.html",
-    "subjects": [{"name": "Goldwin Smith", "role": "journalist and scholar"}]
+    "subjects": [
+      {
+        "name": "Goldwin Smith",
+        "role": "journalist and scholar"
+      }
+    ]
   },
   {
     "id": 25,
     "name": "Ned Hanlan",
     "address": "Hanlan's Point, Toronto Islands",
-    "lat": 43.6279, "lng": -79.3919,
+    "lat": 43.6279,
+    "lng": -79.3919,
     "colour": "bronze",
     "inscription": "Edward 'Ned' Hanlan (1855–1908), born on the Toronto Islands, became the first Canadian to hold a world sports championship. His victories in professional sculling from 1876 to 1884 made him an international celebrity and one of the most famous athletes of the 19th century.",
     "uri": "https://torontoplaques.ca/Pages/Ned_Hanlan.html",
-    "subjects": [{"name": "Ned Hanlan", "role": "world champion sculler"}]
+    "subjects": [
+      {
+        "name": "Ned Hanlan",
+        "role": "world champion sculler"
+      }
+    ]
   },
   {
     "id": 26,
     "name": "Foster Hewitt",
     "address": "Maple Leaf Gardens, 60 Carlton Street",
-    "lat": 43.6615, "lng": -79.3793,
+    "lat": 43.6615,
+    "lng": -79.3793,
     "colour": "bronze",
     "inscription": "Foster Hewitt (1902–1985), the 'Voice of Hockey,' broadcast Maple Leafs games from this arena for decades. His iconic call 'He shoots, he scores!' became part of the Canadian lexicon. His broadcasts on radio and later television brought hockey to millions of Canadians.",
     "uri": "https://torontoplaques.ca/Pages/Foster_Hewitt.html",
-    "subjects": [{"name": "Foster Hewitt", "role": "sports broadcaster"}]
+    "subjects": [
+      {
+        "name": "Foster Hewitt",
+        "role": "sports broadcaster"
+      }
+    ]
   },
   {
     "id": 27,
     "name": "E.J. Pratt",
     "address": "Victoria University, 73 Queen's Park Crescent",
-    "lat": 43.6664, "lng": -79.3930,
+    "lat": 43.6664,
+    "lng": -79.393,
     "colour": "bronze",
     "inscription": "E.J. Pratt (1882–1964), widely considered the founder of modern Canadian poetry, taught English at Victoria University from 1920 to 1953. His epic poems Brébeuf and His Brethren and Towards the Last Spike gave voice to Canada's historical experience.",
     "uri": "https://torontoplaques.ca/Pages/EJ_Pratt.html",
-    "subjects": [{"name": "E.J. Pratt", "role": "poet"}]
+    "subjects": [
+      {
+        "name": "E.J. Pratt",
+        "role": "poet"
+      }
+    ]
   },
   {
     "id": 28,
     "name": "Vilhjalmur Stefansson",
     "address": "University of Toronto campus",
-    "lat": 43.6629, "lng": -79.3957,
+    "lat": 43.6629,
+    "lng": -79.3957,
     "colour": "bronze",
     "inscription": "Vilhjalmur Stefansson (1879–1962), Arctic explorer and ethnologist, was educated at the University of Toronto and Harvard. His Arctic expeditions between 1906 and 1918 mapped vast unknown territories and he lived with Inuit peoples, documenting their way of life.",
     "uri": "https://torontoplaques.ca/Pages/Vilhjalmur_Stefansson.html",
-    "subjects": [{"name": "Vilhjalmur Stefansson", "role": "Arctic explorer"}]
+    "subjects": [
+      {
+        "name": "Vilhjalmur Stefansson",
+        "role": "Arctic explorer"
+      }
+    ]
   },
   {
     "id": 29,
     "name": "Sir Oliver Mowat",
     "address": "Queen's Park, Legislative Assembly",
-    "lat": 43.6629, "lng": -79.3920,
+    "lat": 43.6629,
+    "lng": -79.392,
     "colour": "bronze",
     "inscription": "Sir Oliver Mowat (1820–1903) served as Premier of Ontario for 24 years (1872–1896) and as Lieutenant Governor of Ontario. A Father of Confederation, he championed provincial rights and helped define the constitutional balance that shaped modern Canada.",
     "uri": "https://torontoplaques.ca/Pages/Oliver_Mowat.html",
-    "subjects": [{"name": "Sir Oliver Mowat", "role": "Premier of Ontario"}]
+    "subjects": [
+      {
+        "name": "Sir Oliver Mowat",
+        "role": "Premier of Ontario"
+      }
+    ]
   },
   {
     "id": 30,
     "name": "Albert Einstein (Visit)",
     "address": "King Edward Hotel, 37 King Street East",
-    "lat": 43.6491, "lng": -79.3756,
+    "lat": 43.6491,
+    "lng": -79.374,
     "colour": "bronze",
     "inscription": "Albert Einstein stayed at the King Edward Hotel during his visit to Toronto in 1921, delivering a lecture at the University of Toronto. This was his first visit to Canada, made shortly after he received the Nobel Prize in Physics.",
     "uri": "https://torontoplaques.ca/Pages/Albert_Einstein.html",
-    "subjects": [{"name": "Albert Einstein", "role": "physicist"}]
+    "subjects": [
+      {
+        "name": "Albert Einstein",
+        "role": "physicist"
+      }
+    ]
   },
   {
     "id": 31,
     "name": "William Osler",
     "address": "169 Dundas Street West",
-    "lat": 43.6543, "lng": -79.3898,
+    "lat": 43.6543,
+    "lng": -79.3898,
     "colour": "bronze",
     "inscription": "Sir William Osler (1849–1919), one of the four founding professors of Johns Hopkins Hospital and the father of modern medical education, received his medical education in Toronto and began his teaching career here. His Principles and Practice of Medicine (1892) was the standard medical text for decades.",
     "uri": "https://torontoplaques.ca/Pages/William_Osler.html",
-    "subjects": [{"name": "William Osler", "role": "physician and medical educator"}]
+    "subjects": [
+      {
+        "name": "William Osler",
+        "role": "physician and medical educator"
+      }
+    ]
   },
   {
     "id": 32,
     "name": "Alexander Muir",
     "address": "Laing Street, East Toronto",
-    "lat": 43.6791, "lng": -79.3182,
+    "lat": 43.6601,
+    "lng": -79.3182,
     "colour": "bronze",
     "inscription": "Alexander Muir (1830–1906), schoolteacher and poet, composed 'The Maple Leaf Forever' in 1867, inspired by a maple leaf that fell onto his coat near this location. For decades this song served as an unofficial Canadian national anthem.",
     "uri": "https://torontoplaques.ca/Pages/Alexander_Muir.html",
-    "subjects": [{"name": "Alexander Muir", "role": "educator and poet"}]
+    "subjects": [
+      {
+        "name": "Alexander Muir",
+        "role": "educator and poet"
+      }
+    ]
   },
   {
     "id": 33,
     "name": "John McCrae",
     "address": "University of Toronto Faculty of Medicine",
-    "lat": 43.6598, "lng": -79.3935,
+    "lat": 43.6598,
+    "lng": -79.3935,
     "colour": "bronze",
     "inscription": "John McCrae (1872–1918), physician and poet, studied medicine at the University of Toronto. He wrote 'In Flanders Fields' in 1915, one of the most quoted poems of the First World War, which gave rise to the tradition of wearing poppies on Remembrance Day.",
     "uri": "https://torontoplaques.ca/Pages/John_McCrae.html",
-    "subjects": [{"name": "John McCrae", "role": "physician and poet"}]
+    "subjects": [
+      {
+        "name": "John McCrae",
+        "role": "physician and poet"
+      }
+    ]
   },
   {
     "id": 34,
     "name": "Pauline Johnson",
     "address": "Brant House, Brantford — Toronto connection",
-    "lat": 43.6548, "lng": -79.3814,
+    "lat": 43.6548,
+    "lng": -79.3814,
     "colour": "bronze",
     "inscription": "E. Pauline Johnson (1861–1913), Mohawk poet and performer, gave numerous recitals in Toronto and was celebrated here as one of Canada's foremost poets. Her collections Flint and Feather established her as a pioneering Indigenous voice in Canadian literature.",
     "uri": "https://torontoplaques.ca/Pages/Pauline_Johnson.html",
-    "subjects": [{"name": "Pauline Johnson", "role": "poet and performer"}]
+    "subjects": [
+      {
+        "name": "Pauline Johnson",
+        "role": "poet and performer"
+      }
+    ]
   },
   {
     "id": 35,
     "name": "Clarence Gagnon",
     "address": "Arts and Letters Club, 14 Elm Street",
-    "lat": 43.6567, "lng": -79.3825,
+    "lat": 43.6576,
+    "lng": -79.384,
     "colour": "bronze",
     "inscription": "The Arts and Letters Club, founded in 1908, has been the gathering place for Toronto's artists, writers, architects, and musicians. Members have included members of the Group of Seven, Robertson Davies, and countless figures who shaped Canadian cultural life.",
     "uri": "https://torontoplaques.ca/Pages/Arts_Letters_Club.html",
-    "subjects": [{"name": "Arts and Letters Club members", "role": "artists and writers"}]
+    "subjects": [
+      {
+        "name": "Arts and Letters Club members",
+        "role": "artists and writers"
+      }
+    ]
   },
   {
     "id": 36,
     "name": "Conn Smythe",
     "address": "Maple Leaf Gardens, 60 Carlton Street",
-    "lat": 43.6615, "lng": -79.3793,
+    "lat": 43.6615,
+    "lng": -79.3793,
     "colour": "bronze",
     "inscription": "Conn Smythe (1895–1980) built Maple Leaf Gardens in 1931 in a remarkable 155 days during the Great Depression. As owner and manager of the Toronto Maple Leafs, he built championship teams and transformed professional hockey in Canada.",
     "uri": "https://torontoplaques.ca/Pages/Conn_Smythe.html",
-    "subjects": [{"name": "Conn Smythe", "role": "hockey builder"}]
+    "subjects": [
+      {
+        "name": "Conn Smythe",
+        "role": "hockey builder"
+      }
+    ]
   },
   {
     "id": 37,
     "name": "Harold Innis",
     "address": "University of Toronto, Sidney Smith Hall",
-    "lat": 43.6625, "lng": -79.3969,
+    "lat": 43.6625,
+    "lng": -79.3969,
     "colour": "bronze",
     "inscription": "Harold Innis (1894–1952), political economist and communications theorist, spent his career at the University of Toronto. His studies of the fur trade and cod fisheries as staple industries, and his theories of media and empire, profoundly influenced Canadian social science and inspired Marshall McLuhan.",
     "uri": "https://torontoplaques.ca/Pages/Harold_Innis.html",
-    "subjects": [{"name": "Harold Innis", "role": "economist and communications theorist"}]
+    "subjects": [
+      {
+        "name": "Harold Innis",
+        "role": "economist and communications theorist"
+      }
+    ]
   },
   {
     "id": 38,
     "name": "Glenn Gould Studio / CBC",
     "address": "250 Front Street West",
-    "lat": 43.6442, "lng": -79.3897,
+    "lat": 43.6438,
+    "lng": -79.3911,
     "colour": "bronze",
     "inscription": "The Glenn Gould Studio at the Canadian Broadcasting Centre, opened in 1992, honours the memory of Canada's greatest classical musician. A statue by Ruth Abernethy stands outside. The CBC, for which Gould created radio documentaries, became his primary artistic home after he left the concert stage in 1964.",
     "uri": "https://torontoplaques.ca/Pages/Glenn_Gould4.html",
-    "subjects": [{"name": "Glenn Gould", "role": "pianist"}]
+    "subjects": [
+      {
+        "name": "Glenn Gould",
+        "role": "pianist"
+      }
+    ]
   },
   {
     "id": 39,
     "name": "Sandford Fleming",
     "address": "University College, University of Toronto",
-    "lat": 43.6633, "lng": -79.3966,
+    "lat": 43.6633,
+    "lng": -79.3966,
     "colour": "bronze",
     "inscription": "Sandford Fleming (1827–1915), engineer, designer of Canada's first postage stamp, and chief engineer of the Canadian Pacific Railway, proposed the system of worldwide standard time zones in 1879. He also participated in designing University College where he worked.",
     "uri": "https://torontoplaques.ca/Pages/Sandford_Fleming.html",
-    "subjects": [{"name": "Sandford Fleming", "role": "engineer and inventor"}]
+    "subjects": [
+      {
+        "name": "Sandford Fleming",
+        "role": "engineer and inventor"
+      }
+    ]
   },
   {
     "id": 40,
     "name": "The Eaton Auditorium",
     "address": "444 Yonge Street (College Street)",
-    "lat": 43.6604, "lng": -79.3836,
+    "lat": 43.6584,
+    "lng": -79.3806,
     "colour": "bronze",
     "inscription": "The Eaton Auditorium, opened in 1930 on the seventh floor of Eaton's College Street store, was Toronto's premier concert hall and the site of Glenn Gould's first public performance on 12 December 1945. Its Art Deco interior hosted the city's finest musical events for decades.",
     "uri": "https://torontoplaques.ca/Pages/Eaton_Auditorium.html",
-    "subjects": [{"name": "Eaton Auditorium", "role": "concert hall"}]
+    "subjects": [
+      {
+        "name": "Eaton Auditorium",
+        "role": "concert hall"
+      }
+    ]
   },
   {
     "id": 41,
     "name": "Barbara Ann Scott",
     "address": "Granite Club, Bayview Avenue",
-    "lat": 43.7076, "lng": -79.3691,
+    "lat": 43.723,
+    "lng": -79.3701,
     "colour": "bronze",
     "inscription": "Barbara Ann Scott (1928–2012), born in Ottawa and trained in Toronto, won the world figure skating championship in 1947 and 1948 and the Olympic gold medal in 1948, becoming one of Canada's most beloved athletes and the first non-European to win the world title.",
     "uri": "https://torontoplaques.ca/Pages/Barbara_Ann_Scott.html",
-    "subjects": [{"name": "Barbara Ann Scott", "role": "Olympic figure skater"}]
+    "subjects": [
+      {
+        "name": "Barbara Ann Scott",
+        "role": "Olympic figure skater"
+      }
+    ]
   },
   {
     "id": 42,
     "name": "Banting and Best — Discovery of Insulin",
     "address": "Medical Sciences Building, University of Toronto",
-    "lat": 43.6598, "lng": -79.3941,
+    "lat": 43.6598,
+    "lng": -79.3941,
     "colour": "bronze",
     "inscription": "On this site, in the summer of 1921, Frederick Banting and Charles Best extracted insulin from the pancreatic tissue of dogs. Their landmark discovery, developed with J.J.R. Macleod and James Collip, revolutionized the treatment of diabetes and earned Banting and Macleod the 1923 Nobel Prize in Physiology or Medicine.",
     "uri": "https://torontoplaques.ca/Pages/Insulin_Discovery.html",
-    "subjects": [{"name": "Frederick Banting", "role": "physician"}, {"name": "Charles Best", "role": "scientist"}]
+    "subjects": [
+      {
+        "name": "Frederick Banting",
+        "role": "physician"
+      },
+      {
+        "name": "Charles Best",
+        "role": "scientist"
+      }
+    ]
   },
   {
     "id": 43,
     "name": "William Arthur Caste",
     "address": "Fort York, 250 Fort York Boulevard",
-    "lat": 43.6391, "lng": -79.4020,
+    "lat": 43.6391,
+    "lng": -79.402,
     "colour": "bronze",
     "inscription": "Fort York, established in 1793 by Lieutenant Governor John Graves Simcoe as the military garrison for the newly founded Town of York, was the site of the Battle of York during the War of 1812. American forces briefly occupied York and burned the Parliament Buildings in April 1813.",
     "uri": "https://torontoplaques.ca/Pages/Fort_York.html",
-    "subjects": [{"name": "John Graves Simcoe", "role": "Lieutenant Governor"}]
+    "subjects": [
+      {
+        "name": "John Graves Simcoe",
+        "role": "Lieutenant Governor"
+      }
+    ]
   },
   {
     "id": 44,
     "name": "Francis Collins (Colonial Advocate)",
     "address": "King Street West at Bay Street",
-    "lat": 43.6482, "lng": -79.3832,
+    "lat": 43.6482,
+    "lng": -79.3832,
     "colour": "bronze",
     "inscription": "William Lyon Mackenzie published the Colonial Advocate from premises near this site from 1824, using his newspaper to campaign relentlessly against the oligarchy known as the Family Compact. In 1826 a mob of Family Compact supporters destroyed his press and threw the type into the bay.",
     "uri": "https://torontoplaques.ca/Pages/Colonial_Advocate.html",
-    "subjects": [{"name": "William Lyon Mackenzie", "role": "journalist and politician"}]
+    "subjects": [
+      {
+        "name": "William Lyon Mackenzie",
+        "role": "journalist and politician"
+      }
+    ]
   },
   {
     "id": 45,
     "name": "James Lick",
     "address": "St. Lawrence Market, 93 Front Street East",
-    "lat": 43.6487, "lng": -79.3718,
+    "lat": 43.6487,
+    "lng": -79.3718,
     "colour": "bronze",
     "inscription": "St. Lawrence Market, opened in 1803, has served as the commercial heart of Toronto for over two centuries. The south building, built in 1850 on the site of Toronto's first City Hall, was described by National Geographic as the world's best food market.",
     "uri": "https://torontoplaques.ca/Pages/St_Lawrence_Market.html",
-    "subjects": [{"name": "St. Lawrence Market", "role": "historic market"}]
+    "subjects": [
+      {
+        "name": "St. Lawrence Market",
+        "role": "historic market"
+      }
+    ]
   },
   {
     "id": 46,
     "name": "Chief William Yellowhead (Musquakie)",
     "address": "Yonge Street at Eglinton Avenue",
-    "lat": 43.7071, "lng": -79.3988,
+    "lat": 43.7071,
+    "lng": -79.3988,
     "colour": "bronze",
     "inscription": "Chief William Yellowhead (Musquakie, c.1769–1864) of the Ojibwe people was a respected leader who lived in the Toronto area for many years. Yellowhead Road is named in his honour. His family ceded land to the Crown through the Toronto Purchase of 1787.",
     "uri": "https://torontoplaques.ca/Pages/William_Yellowhead.html",
-    "subjects": [{"name": "Chief William Yellowhead", "role": "Ojibwe chief"}]
+    "subjects": [
+      {
+        "name": "Chief William Yellowhead",
+        "role": "Ojibwe chief"
+      }
+    ]
   },
   {
     "id": 47,
     "name": "Mary Pickford",
     "address": "University Avenue at Queen Street",
-    "lat": 43.6521, "lng": -79.3869,
+    "lat": 43.6521,
+    "lng": -79.3869,
     "colour": "blue",
     "inscription": "Gladys Louise Smith, known worldwide as Mary Pickford (1892–1979), was born in Toronto and became one of Hollywood's first superstars and a founder of United Artists studio. Known as 'America's Sweetheart,' she was the most famous woman in the world during the silent film era.",
     "uri": "https://torontoplaques.ca/Pages/Mary_Pickford.html",
-    "subjects": [{"name": "Mary Pickford", "role": "actress and film producer"}]
+    "subjects": [
+      {
+        "name": "Mary Pickford",
+        "role": "actress and film producer"
+      }
+    ]
   },
   {
     "id": 48,
     "name": "John A. Macdonald",
     "address": "Osgoode Hall, 130 Queen Street West",
-    "lat": 43.6519, "lng": -79.3873,
+    "lat": 43.6519,
+    "lng": -79.3873,
     "colour": "bronze",
     "inscription": "Sir John A. Macdonald (1815–1891), first Prime Minister of Canada and chief architect of Confederation, practiced law in Toronto before entering federal politics. His National Policy of tariffs, immigration, and the Canadian Pacific Railway defined the new Dominion.",
     "uri": "https://torontoplaques.ca/Pages/John_A_Macdonald.html",
-    "subjects": [{"name": "John A. Macdonald", "role": "Prime Minister of Canada"}]
+    "subjects": [
+      {
+        "name": "John A. Macdonald",
+        "role": "Prime Minister of Canada"
+      }
+    ]
   },
   {
     "id": 49,
     "name": "Dr. Emily Howard Stowe",
     "address": "451 Church Street",
-    "lat": 43.6602, "lng": -79.3793,
+    "lat": 43.6644,
+    "lng": -79.3793,
     "colour": "bronze",
     "inscription": "Dr. Emily Howard Stowe (1831–1903), Canada's first female physician to practice in Canada and a leader of the suffrage movement, maintained her medical practice at this address. She founded the Toronto Women's Literary Club in 1876, which became the Canadian Women's Suffrage Association.",
     "uri": "https://torontoplaques.ca/Pages/Emily_Howard_Stowe.html",
-    "subjects": [{"name": "Emily Howard Stowe", "role": "physician and suffragist"}]
+    "subjects": [
+      {
+        "name": "Emily Howard Stowe",
+        "role": "physician and suffragist"
+      }
+    ]
   },
   {
     "id": 50,
     "name": "Cabbagetown Heritage",
     "address": "Parliament Street and Spruce Street",
-    "lat": 43.6601, "lng": -79.3630,
+    "lat": 43.6601,
+    "lng": -79.363,
     "colour": "bronze",
     "inscription": "Cabbagetown, one of Toronto's oldest neighbourhoods, was settled in the 1840s by Irish famine immigrants who grew cabbages in their front gardens. It later became home to waves of working-class immigrants and is today one of the largest preserved areas of Victorian residential architecture in North America.",
     "uri": "https://torontoplaques.ca/Pages/Cabbagetown.html",
-    "subjects": [{"name": "Cabbagetown community", "role": "neighbourhood heritage"}]
+    "subjects": [
+      {
+        "name": "Cabbagetown community",
+        "role": "neighbourhood heritage"
+      }
+    ]
   }
 ]
