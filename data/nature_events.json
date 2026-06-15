@@ -1,0 +1,2744 @@
+{
+  "flooding": {
+    "label": "Floods & High Water",
+    "icon": "🌊",
+    "total": 28,
+    "items": [
+      {
+        "id": "",
+        "title": "After the breakup of the Don River looking north from Gerrard Street bridge showing flooding",
+        "date": "1900",
+        "location": "43.663694,-79.359231",
+        "geocode": {
+          "lat": 43.6636944,
+          "lng": -79.35923129999999,
+          "address": "River St & Gerrard St E, Toronto, ON M5A, Canada",
+          "original_title": "After the breakup of the Don River looking north from Gerrard Street bridge showing flooding"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0376_fl0002_it0061.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0376_fl0002_it0061.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 376, File 2, Item 61",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "February 9, 1900",
+          "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "9 Pawnee Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.797186,-79.336486",
+        "geocode": {
+          "lat": 43.7971862,
+          "lng": -79.3364857,
+          "address": "9 Pawnee Ave, North York, ON M2H 3C6, Canada",
+          "original_title": "9 Pawnee Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0719.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0719.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 719",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "7 Pawnee Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.797186,-79.336486",
+        "geocode": {
+          "lat": 43.7971862,
+          "lng": -79.3364857,
+          "address": "7 Pawnee Ave, North York, ON M2H 3C6, Canada",
+          "original_title": "7 Pawnee Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0718.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0718.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 718",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "9 St. Andrews Avenue, High water of Island",
+        "date": "1908",
+        "location": "43.651214,-79.40734",
+        "geocode": {
+          "lat": 43.6512143,
+          "lng": -79.40734049999999,
+          "address": "9 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "9 St. Andrews Avenue, High water of Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0507.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0507.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 507",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 10 x 7.5 cm. — 1 photonegative : b&w; ; 3 x 4 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "7 Cherokee Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.789926,-79.335916",
+        "geocode": {
+          "lat": 43.7899261,
+          "lng": -79.33591559999999,
+          "address": "7 Cherokee Blvd, North York, ON M2J 3T7, Canada",
+          "original_title": "7 Cherokee Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0707.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0707.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 707",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "13 Cherokee Avenue - High water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.789926,-79.335916",
+        "geocode": {
+          "lat": 43.7899261,
+          "lng": -79.33591559999999,
+          "address": "13 Cherokee Blvd, North York, ON M2J 3T7, Canada",
+          "original_title": "13 Cherokee Avenue - High water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0710.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0710.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 710",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "Island in flood, 12 St. Andrews Avenue : Copy negative: Fire Department, September, 1973.",
+        "date": "1908",
+        "location": "43.651273,-79.40733",
+        "geocode": {
+          "lat": 43.6512726,
+          "lng": -79.4073298,
+          "address": "12 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "Island in flood, 12 St. Andrews Avenue : Copy negative: Fire Department, September, 1973."
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0506.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0506.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 506",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 3 x 4 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "High water, Toronto Island: looking north on Cherokee",
+        "date": "1908",
+        "location": "43.626657,-79.394677",
+        "geocode": {
+          "lat": 43.6266572,
+          "lng": -79.3946772,
+          "address": "",
+          "original_title": "High water, Toronto Island: looking north on Cherokee"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0825.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0825.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 825",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 2, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 18 x 13 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "11 Cherokee Avenue - High water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.789926,-79.335916",
+        "geocode": {
+          "lat": 43.7899261,
+          "lng": -79.33591559999999,
+          "address": "11 Cherokee Blvd, North York, ON M2J 3T7, Canada",
+          "original_title": "11 Cherokee Avenue - High water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0709.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0709.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 709",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "13 St. Andrew's Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.651191,-79.407437",
+        "geocode": {
+          "lat": 43.6511912,
+          "lng": -79.40743680000001,
+          "address": "13 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "13 St. Andrew's Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0727.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0727.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 727",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "15 St. Andrew's Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.651182,-79.407491",
+        "geocode": {
+          "lat": 43.65118229999999,
+          "lng": -79.40749129999999,
+          "address": "15 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "15 St. Andrew's Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0729.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0729.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 729",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "High water, Toronto Island: 6 St. Andrew Avenue",
+        "date": "1908",
+        "location": "43.654393,-79.399258",
+        "geocode": {
+          "lat": 43.6543932,
+          "lng": -79.399258,
+          "address": "6 St Andrew St, Toronto, ON M5T 1K6, Canada",
+          "original_title": "High water, Toronto Island: 6 St. Andrew Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0821.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0821.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 821",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 18 x 13 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "11 Pawnee Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.797186,-79.336486",
+        "geocode": {
+          "lat": 43.7971862,
+          "lng": -79.3364857,
+          "address": "11 Pawnee Ave, North York, ON M2H 3C6, Canada",
+          "original_title": "11 Pawnee Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0720.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0720.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 720",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "2 photoprints : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "High water, Toronto Island: 5 St. Andrew Avenue",
+        "date": "1908",
+        "location": "43.721017,-79.244726",
+        "geocode": {
+          "lat": 43.7210166,
+          "lng": -79.2447263,
+          "address": "5 Andrew Ave, Scarborough, ON M1M 3G8, Canada",
+          "original_title": "High water, Toronto Island: 5 St. Andrew Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0820.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0820.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 820",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 18 x 13 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "High water, Toronto Island: 16 St. Andrew Avenue",
+        "date": "1908",
+        "location": "43.685494,-79.377035",
+        "geocode": {
+          "lat": 43.6854942,
+          "lng": -79.37703479999999,
+          "address": "16 St Andrews Gardens, Toronto, ON M4W 2E1, Canada",
+          "original_title": "High water, Toronto Island: 16 St. Andrew Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0824.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0824.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 824",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 18 x 13 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "12 St. Andrew's Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.651273,-79.40733",
+        "geocode": {
+          "lat": 43.6512726,
+          "lng": -79.4073298,
+          "address": "12 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "12 St. Andrew's Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0726.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0726.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 726",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "1 St. Andrew's Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.651329,-79.40711",
+        "geocode": {
+          "lat": 43.6513292,
+          "lng": -79.4071103,
+          "address": "1 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "1 St. Andrew's Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0722.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0722.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 722",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "14 St. Andrew's Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.651371,-79.407479",
+        "geocode": {
+          "lat": 43.6513713,
+          "lng": -79.4074789,
+          "address": "14 Andrews Ave, Toronto, ON M6J 1S3, Canada",
+          "original_title": "14 St. Andrew's Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0728.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0728.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 728",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 11 x 8 cm. — 1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "3 St. Andrews Avenue, High water of Island",
+        "date": "1908",
+        "location": "43.651266,-79.407309",
+        "geocode": {
+          "lat": 43.6512656,
+          "lng": -79.40730909999999,
+          "address": "3 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "3 St. Andrews Avenue, High water of Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0509.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0509.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 509",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 10 x 7.5 cm. — 1 photonegative : b&w; ; 3 x 4 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "High water, Toronto Island: 10 St. Andrew Avenue",
+        "date": "1908",
+        "location": "43.654307,-79.399712",
+        "geocode": {
+          "lat": 43.6543066,
+          "lng": -79.3997117,
+          "address": "10 St Andrew St, Toronto, ON M5T 1K6, Canada",
+          "original_title": "High water, Toronto Island: 10 St. Andrew Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0823.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0823.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 823",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 18 x 13 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "6 Cherokee Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.789926,-79.335916",
+        "geocode": {
+          "lat": 43.7899261,
+          "lng": -79.33591559999999,
+          "address": "6 Cherokee Blvd, North York, ON M2J 3T7, Canada",
+          "original_title": "6 Cherokee Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0706.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0706.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 706",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "7 St. Andrews Avenue, High water of Island",
+        "date": "1908",
+        "location": "43.651303,-79.407245",
+        "geocode": {
+          "lat": 43.651303,
+          "lng": -79.4072446,
+          "address": "7 Andrews Ave, Toronto, ON M6J 1S2, Canada",
+          "original_title": "7 St. Andrews Avenue, High water of Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0508.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0508.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 508",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photoprint : b&w; ; 10 x 7.5 cm. — 1 photonegative : b&w; ; 3 x 4 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "High water, Toronto Island: 8 St. Andrew Avenue",
+        "date": "1908",
+        "location": "43.654388,-79.399329",
+        "geocode": {
+          "lat": 43.65438830000001,
+          "lng": -79.39932859999999,
+          "address": "8 St Andrew St, Toronto, ON M5T 1K6, Canada",
+          "original_title": "High water, Toronto Island: 8 St. Andrew Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0822.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0822.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 822",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 18 x 13 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "5 Cherokee Avenue - high water on Island : Original negative by D.P.W",
+        "date": "1908",
+        "location": "43.789926,-79.335916",
+        "geocode": {
+          "lat": 43.7899261,
+          "lng": -79.33591559999999,
+          "address": "5 Cherokee Blvd, North York, ON M2J 3T7, Canada",
+          "original_title": "5 Cherokee Avenue - high water on Island : Original negative by D.P.W"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0041_it0705.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0041_it0705.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 41, Item 705",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 3, 1908",
+          "physical_desc": "1 photonegative : b&w; ; 12.5 x 10 cm."
+        }
+      },
+      {
+        "id": "",
+        "title": "Flooding of toboggan runs, Riverdale Park",
+        "date": "1912",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Flooding of toboggan runs, Riverdale Park"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0465b.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0465b.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 465B",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[ca. 1912]",
+          "physical_desc": "1 photoprint : b&w; ; 20 x 12 cm. — 1 photonegative : b&w; ; 12 x 10 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Don flood, Riverdale Park",
+        "date": "1918",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Don flood, Riverdale Park"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it1172.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it1172.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 1172",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "February 29, 1918",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Eastern Avenue east of St. Lawrence Street, Don River flood",
+        "date": "1925",
+        "location": "43.654782,-79.35519",
+        "geocode": {
+          "lat": 43.65478239999999,
+          "lng": -79.3551899,
+          "address": "St Lawrence St & Eastern Ave Diversion, Toronto, ON M5A, Canada",
+          "original_title": "Eastern Avenue east of St. Lawrence Street, Don River flood"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it1196.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it1196.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 1196",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "February 24, 1925",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Flooding, Toronto Island",
+        "date": "1980",
+        "location": "43.626657,-79.394677",
+        "geocode": {
+          "lat": 43.6266572,
+          "lng": -79.3946772,
+          "address": "",
+          "original_title": "Flooding, Toronto Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0314_it0028.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0314_it0028.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 1465, File 314, Item 28",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "[between 1980 and 1998]",
+          "physical_desc": null
+        }
+      }
+    ]
+  },
+  "snowstorms": {
+    "label": "Snowstorms & Blizzards",
+    "icon": "🌨",
+    "total": 22,
+    "items": [
+      {
+        "id": "",
+        "title": "Cleared path through snow bank to open lake at Island Filtration Plant construction site",
+        "date": "1911",
+        "location": "43.614512,-79.38057",
+        "geocode": {
+          "lat": 43.6145116,
+          "lng": -79.3805696,
+          "address": "",
+          "original_title": "Cleared path through snow bank to open lake at Island Filtration Plant construction site"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0024_it0216.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0024_it0216.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 24, Item 216",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "1911",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Cleared path through snow bank at Island Filtration Plant construction site",
+        "date": "1911",
+        "location": "43.614512,-79.38057",
+        "geocode": {
+          "lat": 43.6145116,
+          "lng": -79.3805696,
+          "address": "",
+          "original_title": "Cleared path through snow bank at Island Filtration Plant construction site"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0024_it0215.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0024_it0215.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 24, Item 215",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "1911",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Broadview Ave. at Riverdale Park - Snow drift",
+        "date": "1917",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Broadview Ave. at Riverdale Park - Snow drift"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0058_it0728.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0058_it0728.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 58, Item 728",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "December 10, 1917",
+          "physical_desc": "1 photonegative : b&w; ; 15 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Union Station milk cans in snow",
+        "date": "1924",
+        "location": "43.644691,-79.380348",
+        "geocode": {
+          "lat": 43.6446907,
+          "lng": -79.380348,
+          "address": "",
+          "original_title": "Union Station milk cans in snow"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1548_s0393_it18688a.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1548_s0393_it18688a.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1548, Series 393, Item 18688A",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 22, 1924",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 15 cm\n1 copy neg"
+        }
+      },
+      {
+        "id": "",
+        "title": "Snow conditions, Roncesvalles and Howard Park",
+        "date": "1924",
+        "location": "43.651499,-79.451063",
+        "geocode": {
+          "lat": 43.6514994,
+          "lng": -79.4510634,
+          "address": "Howard Park Ave & Roncesvalles Ave, Toronto, ON M6R, Canada",
+          "original_title": "Snow conditions, Roncesvalles and Howard Park"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0071_it3059.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0071_it3059.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 16, Series 71, Item 3059",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "February 25, 1924",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Shuter St, east from Jarvis, showing condition of roadway after snowstorm, (Way Department)",
+        "date": "1929",
+        "location": "43.655362,-79.373879",
+        "geocode": {
+          "lat": 43.6553619,
+          "lng": -79.373879,
+          "address": "Shuter St & Jarvis St, Toronto, ON M5B, Canada",
+          "original_title": "Shuter St, east from Jarvis, showing condition of roadway after snowstorm, (Way Department)"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0071_it7327.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0071_it7327.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 16, Series 71, Item 7327",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "December 24, 1929",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm\n1 photonegative : glass, b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Fleet Street snow scenes, scene west of York Street",
+        "date": "1931",
+        "location": "43.636301,-79.406782",
+        "geocode": {
+          "lat": 43.6363013,
+          "lng": -79.40678199999999,
+          "address": "Fleet St & Fort York Blvd, Toronto, ON M5V, Canada",
+          "original_title": "Fleet Street snow scenes, scene west of York Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it23381.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it23381.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 23381",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "March 12, 1931",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Fleet Street snow scenes, one-way traffic west of Bathurst Street",
+        "date": "1931",
+        "location": "43.636625,-79.399643",
+        "geocode": {
+          "lat": 43.6366248,
+          "lng": -79.3996429,
+          "address": "Fleet St & Bathurst St, Toronto, ON M5V, Canada",
+          "original_title": "Fleet Street snow scenes, one-way traffic west of Bathurst Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it23377.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it23377.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 23377",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "March 12, 1931",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "King and Bay - snow conditions, (Way Department)",
+        "date": "1931",
+        "location": "43.651755,-79.366059",
+        "geocode": {
+          "lat": 43.6517547,
+          "lng": -79.3660587,
+          "address": "Ontario St & King St E, Toronto, ON M5A, Canada",
+          "original_title": "King and Bay - snow conditions, (Way Department)"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0071_it8391.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0071_it8391.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 16, Series 71, Item 8391",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "March 9, 1931",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm\n1 photonegative : glass, b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "531 Runnymede Road, collapsed snow-house",
+        "date": "1931",
+        "location": "43.660974,-79.480033",
+        "geocode": {
+          "lat": 43.66097370000001,
+          "lng": -79.48003299999999,
+          "address": "531 Runnymede Rd, Toronto, ON M6S 2Z8, Canada",
+          "original_title": "531 Runnymede Road, collapsed snow-house"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it23162.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it23162.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 23162",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "February 17, 1931",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "College and St. George Streets - 13 \" snow",
+        "date": "1936",
+        "location": "43.658688,-79.396023",
+        "geocode": {
+          "lat": 43.6586878,
+          "lng": -79.3960227,
+          "address": "St George St & College St, Toronto, ON M5T, Canada",
+          "original_title": "College and St. George Streets - 13 \" snow"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0070_it0496.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0070_it0496.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 70, Item 496",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "March 17, 1936",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm. - 1 photoprint : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Lambton Golf Club - snow on creek ",
+        "date": "1940",
+        "location": "43.669144,-79.506965",
+        "geocode": {
+          "lat": 43.6691439,
+          "lng": -79.5069653,
+          "address": "",
+          "original_title": "Lambton Golf Club - snow on creek"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1548_s0393_it25040d.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1548_s0393_it25040d.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1548, Series 393, Item 25040D",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[before 1940]",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 15 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Snowstorm (22.5\" in 35 hours), Bay Street, Queen's Park, Yonge Street, etc",
+        "date": "1944",
+        "location": "43.652413,-79.379259",
+        "geocode": {
+          "lat": 43.6524128,
+          "lng": -79.3792588,
+          "address": "Queen St W & Yonge St, Toronto, ON M5C, Canada",
+          "original_title": "Snowstorm (22.5\" in 35 hours), Bay Street, Queen's Park, Yonge Street, etc"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0100_it0454.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0100_it0454.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 100, Item 454",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "December 11, 1944",
+          "physical_desc": "1 photoprint : b&w;"
+        }
+      },
+      {
+        "id": "",
+        "title": "Snowstorm (22.5\" in 36 hours), Bay Street, Queen's Park, Yonge Street, etc",
+        "date": "1944",
+        "location": "43.652413,-79.379259",
+        "geocode": {
+          "lat": 43.6524128,
+          "lng": -79.3792588,
+          "address": "Queen St W & Yonge St, Toronto, ON M5C, Canada",
+          "original_title": "Snowstorm (22.5\" in 36 hours), Bay Street, Queen's Park, Yonge Street, etc"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0100_it0453.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0100_it0453.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 100, Item 453",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "December 11, 1944",
+          "physical_desc": "1 photoprint : b&w;"
+        }
+      },
+      {
+        "id": "",
+        "title": "King Street West near John Street during  snow storm. ",
+        "date": "1961",
+        "location": "43.646589,-79.389745",
+        "geocode": {
+          "lat": 43.64658910000001,
+          "lng": -79.38974499999999,
+          "address": "John St & King St W, Toronto, ON M5V, Canada",
+          "original_title": "King Street West near John Street during  snow storm."
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it0024.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it0024.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 24",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "26 January 1961",
+          "physical_desc": "1 photonegative : b&w; ; 10 x 13 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "King Street West and John Street during snow storm",
+        "date": "1961",
+        "location": "43.646589,-79.389745",
+        "geocode": {
+          "lat": 43.64658910000001,
+          "lng": -79.38974499999999,
+          "address": "John St & King St W, Toronto, ON M5V, Canada",
+          "original_title": "King Street West and John Street during snow storm"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it0022.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it0022.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 22",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "January 26, 1961",
+          "physical_desc": "1 photonegative : b&w; ; 10 x 13 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "King Street West near John Street during snow storm.",
+        "date": "1961",
+        "location": "43.646589,-79.389745",
+        "geocode": {
+          "lat": 43.64658910000001,
+          "lng": -79.38974499999999,
+          "address": "John St & King St W, Toronto, ON M5V, Canada",
+          "original_title": "King Street West near John Street during snow storm."
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it0023.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it0023.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 23",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "26 January 1961",
+          "physical_desc": "1 photonegative : b&w; ; 10 x 13 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "King Street West near John Street during snow storm",
+        "date": "1961",
+        "location": "43.646589,-79.389745",
+        "geocode": {
+          "lat": 43.64658910000001,
+          "lng": -79.38974499999999,
+          "address": "John St & King St W, Toronto, ON M5V, Canada",
+          "original_title": "King Street West near John Street during snow storm"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it0025.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it0025.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 25",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "January 26, 1961",
+          "physical_desc": "1 photonegative : b&w; ; 10 x 13 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of snow-covered Bright Street from King Street East",
+        "date": "1978",
+        "location": "43.655235,-79.358931",
+        "geocode": {
+          "lat": 43.6552353,
+          "lng": -79.358931,
+          "address": "Bright St & King St E, Toronto, ON M5A, Canada",
+          "original_title": "View of snow-covered Bright Street from King Street East"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0007_it0122.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0007_it0122.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 7, Item 122",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "January 27, 1978",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "King St E., looking east from Frederick, snow fall",
+        "date": "1980",
+        "location": "43.650998,-79.369456",
+        "geocode": {
+          "lat": 43.6509981,
+          "lng": -79.3694561,
+          "address": "Frederick St & King St E, Toronto, ON M5A, Canada",
+          "original_title": "King St E., looking east from Frederick, snow fall"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0065_it0082.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0065_it0082.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 65, Item 82",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1980",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of antique lamp post and Simpson's store from the steps of old City Hall during a blizzard",
+        "date": "1980",
+        "location": "43.652522,-79.381976",
+        "geocode": {
+          "lat": 43.6525218,
+          "lng": -79.381976,
+          "address": "",
+          "original_title": "View of antique lamp post and Simpson's store from the steps of old City Hall during a blizzard"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0013_it0102.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0013_it0102.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 13, Item 102",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 13, 1980",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of snow being cleared at Roncesvalles and Dundas Street West, some storefronts",
+        "date": "1984",
+        "location": "43.653873,-79.451805",
+        "geocode": {
+          "lat": 43.6538732,
+          "lng": -79.451805,
+          "address": "Roncesvalles Ave & Dundas St W, Toronto, ON M6R, Canada",
+          "original_title": "View of snow being cleared at Roncesvalles and Dundas Street West, some storefronts"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0020.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0020.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 20",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "February 28, 1984",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      }
+    ]
+  },
+  "storms": {
+    "label": "Storms & Gales",
+    "icon": "⛈",
+    "total": 7,
+    "items": [
+      {
+        "id": "",
+        "title": "Sunnyside, storm waves on the lake in front of the Argonaut Rowing Club",
+        "date": "1928",
+        "location": "43.632027,-79.436034",
+        "geocode": {
+          "lat": 43.6320266,
+          "lng": -79.4360343,
+          "address": "",
+          "original_title": "Sunnyside, storm waves on the lake in front of the Argonaut Rowing Club"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1548_s0393_it22164.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1548_s0393_it22164.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1548, Series 393, Item 22164",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 15, 1928",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 15 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Woodbine Beach, 70-72 — sidewalks broken by storm of April first",
+        "date": "1929",
+        "location": "43.66174,-79.306836",
+        "geocode": {
+          "lat": 43.6617403,
+          "lng": -79.3068362,
+          "address": "",
+          "original_title": "Woodbine Beach, 70-72 — sidewalks broken by storm of April first"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0003_it0740.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0003_it0740.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 3, Item 740",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "April 2, 1929",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Woodbine Beach, 88-90 — Sidewalks broken by storm of April first",
+        "date": "1929",
+        "location": "43.66174,-79.306836",
+        "geocode": {
+          "lat": 43.6617403,
+          "lng": -79.3068362,
+          "address": "",
+          "original_title": "Woodbine Beach, 88-90 — Sidewalks broken by storm of April first"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0003_it0743.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0003_it0743.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 3, Item 743",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "April 2, 1929",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "James Nightingale, 97 West Lodge Avenue, portait",
+        "date": "1929",
+        "location": "43.644354,-79.436522",
+        "geocode": {
+          "lat": 43.6443545,
+          "lng": -79.4365225,
+          "address": "97 West Lodge Ave, Toronto, ON M6K 2T6, Canada",
+          "original_title": "James Nightingale, 97 West Lodge Avenue, portait"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it16977.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it16977.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 16977",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "June 17, 1929",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        }
+      },
+      {
+        "id": "7701974",
+        "title": "York Mills Swimming Pool, Yonge St., e. side, s. of Mill St.; looking n. showing aftermath of Hurricane Hazel. ",
+        "date": "1955",
+        "location": "43.740386,-79.405891",
+        "geocode": {
+          "lat": 43.7403864,
+          "lng": -79.4058912,
+          "address": "Yonge St & Mill St, Toronto, ON M4N, Canada",
+          "original_title": "York Mills Swimming Pool, Yonge St., e. side, s. of Mill St.; looking n. showing aftermath of Hurricane Hazel."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2138593/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2138593/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7701974"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "",
+        "title": "York Mills Swimming Pool, Yonge St., e. side, s. of Mill St.; looking s.e. showing aftermath of Hurricane Hazel ",
+        "date": "1955",
+        "location": "43.740386,-79.405891",
+        "geocode": {
+          "lat": 43.7403864,
+          "lng": -79.4058912,
+          "address": "Yonge St & Mill St, Toronto, ON M4N, Canada",
+          "original_title": "York Mills Swimming Pool, Yonge St., e. side, s. of Mill St.; looking s.e. showing aftermath of Hurricane Hazel"
+        },
+        "image": {
+          "url": "https://static.torontopubliclibrary.ca/da/images/LC/s1-3002a.jpg",
+          "thumb_url": "https://static.torontopubliclibrary.ca/da/images/LC/s1-3002a.jpg"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "7702301",
+        "title": "Hanna Road, looking north to Sharron Drive, showing aftermath of gale. ",
+        "date": "1956",
+        "location": "43.707755,-79.36941",
+        "geocode": {
+          "lat": 43.7077546,
+          "lng": -79.3694098,
+          "address": "Hanna Rd & Sharron Dr, East York, ON M4G, Canada",
+          "original_title": "Hanna Road, looking north to Sharron Drive, showing aftermath of gale."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139278/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139278/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7702301"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1956",
+          "physical_desc": ""
+        }
+      }
+    ]
+  },
+  "ice": {
+    "label": "Ice & Frost",
+    "icon": "🧊",
+    "total": 12,
+    "items": [
+      {
+        "id": "",
+        "title": "City Hall entrance covered in frost",
+        "date": "1910",
+        "location": "43.65357,-79.383943",
+        "geocode": {
+          "lat": 43.6535702,
+          "lng": -79.3839426,
+          "address": "",
+          "original_title": "City Hall entrance covered in frost"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0323j.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0323j.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 323J",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1910",
+          "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "West entrance of City Hall covered in frost",
+        "date": "1910",
+        "location": "43.65357,-79.383943",
+        "geocode": {
+          "lat": 43.6535702,
+          "lng": -79.3839426,
+          "address": "",
+          "original_title": "West entrance of City Hall covered in frost"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0323i.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0323i.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 323I",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1910",
+          "physical_desc": "1 photoprint : b&w; ; 26 x 20 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Ice-covered breakwater, C.N.E. grounds, close-up of damaged [rail]",
+        "date": "1928",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "Ice-covered breakwater, C.N.E. grounds, close-up of damaged [rail]"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it12750.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it12750.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 12750",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "February 20, 1928",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Frozen Grenadier Pond and shoreline in winter",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Frozen Grenadier Pond and shoreline in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0119.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0119.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 119",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 307 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Frozen Grenadier Pond and shoreline in winter, looking south",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Frozen Grenadier Pond and shoreline in winter, looking south"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0128.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0128.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 128",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 225 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Mallard duck on frozen Grenadier Pond near shoreline in winter",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Mallard duck on frozen Grenadier Pond near shoreline in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0135.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0135.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 135",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 293 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Skaters on frozen Grenadier Pond near shoreline in winter = Grenadier 9",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Skaters on frozen Grenadier Pond near shoreline in winter = Grenadier 9"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0134.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0134.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 134",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 566 KB, 72 dpi\n1 photograph : col. ; 30.5 x 45.7 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Frozen Grenadier Pond shoreline and High Park path in winter",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Frozen Grenadier Pond shoreline and High Park path in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0126.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0126.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 126",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 454 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "People playing hockey on frozen Grenadier Pond in winter = Grenadier 3",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "People playing hockey on frozen Grenadier Pond in winter = Grenadier 3"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0124.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0124.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 124",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 217 KB, 72 dpi\n1 photograph : col. ; 30.5 x 45.7 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "People playing hockey on frozen Grenadier Pond in winter",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "People playing hockey on frozen Grenadier Pond in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0123.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0123.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 123",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 191 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Person skating on frozen Grenadier Pond in winter",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Person skating on frozen Grenadier Pond in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0125.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0125.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 125",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 390 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Skaters on frozen Grenadier Pond in winter",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Skaters on frozen Grenadier Pond in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0131.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0131.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 131",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 253 KB, 72 dpi"
+        }
+      }
+    ]
+  },
+  "fog": {
+    "label": "Fog",
+    "icon": "🌫",
+    "total": 12,
+    "items": [
+      {
+        "id": "7699699",
+        "title": "Old Fogbell, Toronto Island ",
+        "date": "1880",
+        "location": "43.626657,-79.394677",
+        "geocode": {
+          "lat": 43.6266572,
+          "lng": -79.3946772,
+          "address": "",
+          "original_title": "Old Fogbell, Toronto Island"
+        },
+        "image": {
+          "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2133926.jpg",
+          "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2133926.jpg",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7699699"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1880",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "7704283",
+        "title": "Fog Horn Station, Eastern Gap, e. side. ",
+        "date": "1922",
+        "location": "43.633552,-79.350517",
+        "geocode": {
+          "lat": 43.6335521,
+          "lng": -79.3505172,
+          "address": "",
+          "original_title": "Fog Horn Station, Eastern Gap, e. side."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142482/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142482/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7704283"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1922",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "7701836",
+        "title": "Eastern Gap, looking south on east side of gap, showing, l. to r., lighthouse keeper's house, Toronto Hydro feeder tower, & fog-horn station. ",
+        "date": "1954",
+        "location": "43.633552,-79.350517",
+        "geocode": {
+          "lat": 43.6335521,
+          "lng": -79.3505172,
+          "address": "",
+          "original_title": "Eastern Gap, looking south on east side of gap, showing, l. to r., lighthouse keeper's house, Toronto Hydro feeder tower, & fog-horn station."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2138305/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2138305/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7701836"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1954",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "",
+        "title": "View of Fort York in fog",
+        "date": "1980",
+        "location": "43.638838,-79.403263",
+        "geocode": {
+          "lat": 43.638837599999995,
+          "lng": -79.40326259999998,
+          "address": "",
+          "original_title": "View of Fort York in fog"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0020_it0006.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0020_it0006.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 20, Item 6",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "June 7, 1980",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of CN Tower from Frederick looking west on Esplanade, on a foggy day",
+        "date": "1980",
+        "location": "43.642501,-79.387115",
+        "geocode": {
+          "lat": 43.6425012,
+          "lng": -79.3871153,
+          "address": "",
+          "original_title": "View of CN Tower from Frederick looking west on Esplanade, on a foggy day"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0047_it0075.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0047_it0075.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 47, Item 75",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 24, 1980",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fog looking west from Broadview and Bain Avenue",
+        "date": "1982",
+        "location": "43.67048,-79.353907",
+        "geocode": {
+          "lat": 43.6704803,
+          "lng": -79.3539067,
+          "address": "Bain Ave & Broadview Ave, Toronto, ON M4K, Canada",
+          "original_title": "View of fog looking west from Broadview and Bain Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0002.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0002.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 2",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 2, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fog at Yonge and Front Street",
+        "date": "1982",
+        "location": "43.646912,-79.376963",
+        "geocode": {
+          "lat": 43.6469121,
+          "lng": -79.37696319999999,
+          "address": "Front St W & Yonge St, Toronto, ON M5E, Canada",
+          "original_title": "View of fog at Yonge and Front Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0011.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0011.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 11",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 2, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fog in Riverdale Park, at Broadview and Montcrest",
+        "date": "1982",
+        "location": "43.67324,-79.35611",
+        "geocode": {
+          "lat": 43.6732404,
+          "lng": -79.35610969999999,
+          "address": "Montcrest Blvd & Broadview Ave, Toronto, ON M4K, Canada",
+          "original_title": "View of fog in Riverdale Park, at Broadview and Montcrest"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 1",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 2, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fog on the Esplanade, looking west from Church Street",
+        "date": "1982",
+        "location": "43.647252,-79.373278",
+        "geocode": {
+          "lat": 43.6472515,
+          "lng": -79.3732785,
+          "address": "The Esplanade & Church St, Toronto, ON M5E, Canada",
+          "original_title": "View of fog on the Esplanade, looking west from Church Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0008.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0008.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 8",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 2, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fog looking west from Broadview and Millbrook Avenue",
+        "date": "1982",
+        "location": "43.671983,-79.354898",
+        "geocode": {
+          "lat": 43.671983,
+          "lng": -79.3548977,
+          "address": "Millbrook Crescent & Broadview Ave, Toronto, ON M4K, Canada",
+          "original_title": "View of fog looking west from Broadview and Millbrook Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0006.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0006.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 6",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 3, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fog around billboard at Yonge and Lakeshore",
+        "date": "1982",
+        "location": "43.644256,-79.37578",
+        "geocode": {
+          "lat": 43.6442558,
+          "lng": -79.37578049999999,
+          "address": "Yonge St & Lake Shore Blvd E, Toronto, ON M5E, Canada",
+          "original_title": "View of fog around billboard at Yonge and Lakeshore"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0102_it0014.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0102_it0014.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 102, Item 14",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 2, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Gooderham Flatiron building - view west from Market St on Front St E., on a foggy day",
+        "date": "1982",
+        "location": "43.649074,-79.372143",
+        "geocode": {
+          "lat": 43.6490738,
+          "lng": -79.3721431,
+          "address": "Market St & Front St E, Toronto, ON M5E, Canada",
+          "original_title": "Gooderham Flatiron building - view west from Market St on Front St E., on a foggy day"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0031_it0032.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0031_it0032.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 31, Item 32",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 2, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      }
+    ]
+  },
+  "fire": {
+    "label": "Major Fires",
+    "icon": "🔥",
+    "total": 31,
+    "items": [
+      {
+        "id": "7689655",
+        "title": "St. James' Anglican Church (1833-1849), King St. E., n.e. corner Church St.; aftermath of fire of 7 April 1849. ",
+        "date": "1849",
+        "location": "43.649919,-79.374392",
+        "geocode": {
+          "lat": 43.6499189,
+          "lng": -79.3743915,
+          "address": "King St E & Church St, Toronto, ON M5C, Canada",
+          "original_title": "St. James' Anglican Church (1833-1849), King St. E., n.e. corner Church St.; aftermath of fire of 7 April 1849."
+        },
+        "image": {
+          "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2118631.jpg",
+          "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2118631.jpg",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7689655"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1849",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "",
+        "title": "University College : after the fire of 1890",
+        "date": "1890",
+        "location": "43.662838,-79.395856",
+        "geocode": {
+          "lat": 43.6628381,
+          "lng": -79.3958562,
+          "address": "",
+          "original_title": "University College : after the fire of 1890"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1478_it0037.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1478_it0037.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1478, Item 37",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1890",
+          "physical_desc": "1 photoprint : albumen ; 14 x 20 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "University of Toronto : University College after the fire of February 14, 1890.",
+        "date": "1890",
+        "location": "43.662838,-79.395856",
+        "geocode": {
+          "lat": 43.6628381,
+          "lng": -79.3958562,
+          "address": "",
+          "original_title": "University of Toronto : University College after the fire of February 14, 1890."
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1568_it0338.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1568_it0338.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1568, Item 338",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[after 14 Feb. 1890]",
+          "physical_desc": "1 photoprint : b&w; ; 21 x 26 cm - 1 photonegative : b&w; ; 8 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Excavating in the Great Fire ruins for new Customs House, Front Street and Yonge Street",
+        "date": "1908",
+        "location": "43.646912,-79.376963",
+        "geocode": {
+          "lat": 43.6469121,
+          "lng": -79.37696319999999,
+          "address": "Front St W & Yonge St, Toronto, ON M5E, Canada",
+          "original_title": "Excavating in the Great Fire ruins for new Customs House, Front Street and Yonge Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1173b.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1173b.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 1173B",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[1908?]",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 16 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Excavating ruins of the Great Fire of 1904 for a new Customs House, Front Street at Yonge Street",
+        "date": "1908",
+        "location": "43.646912,-79.376963",
+        "geocode": {
+          "lat": 43.6469121,
+          "lng": -79.37696319999999,
+          "address": "Front St W & Yonge St, Toronto, ON M5E, Canada",
+          "original_title": "Excavating ruins of the Great Fire of 1904 for a new Customs House, Front Street at Yonge Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1173j.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1173j.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 1173J",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1908",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 16 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Fire at No. 241 Yonge Street",
+        "date": "1912",
+        "location": "43.654748,-79.379883",
+        "geocode": {
+          "lat": 43.6547481,
+          "lng": -79.37988279999999,
+          "address": "241 Yonge St, Toronto, ON M5B 1N8, Canada",
+          "original_title": "Fire at No. 241 Yonge Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0372.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0372.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 372",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "December 3, 1912",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Fire on south side of Richmond Street near Bathurst Street",
+        "date": "1914",
+        "location": "43.646471,-79.403716",
+        "geocode": {
+          "lat": 43.6464714,
+          "lng": -79.4037161,
+          "address": "Richmond St W & Bathurst St, Toronto, ON M5V, Canada",
+          "original_title": "Fire on south side of Richmond Street near Bathurst Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0365.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0365.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 365",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "February 6, 1914",
+          "physical_desc": "1 photoprint : b&w; ; 18 x 13 cm. — 1 photonegative : b&w; ; 18 x 13 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Fire at 39 Poulette Street, exterior",
+        "date": "1927",
+        "location": "43.657191,-79.36581",
+        "geocode": {
+          "lat": 43.6571912,
+          "lng": -79.36580959999999,
+          "address": "39 Poulett St, Toronto, ON M5A, Canada",
+          "original_title": "Fire at 39 Poulette Street, exterior"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it9778.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it9778.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 9778",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "January 16, 1927",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "New Golfredson-Bickle pumper No. 9 at 2nd-alarm fire, Queen and Dennison streets",
+        "date": "1927",
+        "location": "43.647878,-79.400592",
+        "geocode": {
+          "lat": 43.6478777,
+          "lng": -79.4005919,
+          "address": "Denison Ave & Queen St W, Toronto, ON M5V, Canada",
+          "original_title": "New Golfredson-Bickle pumper No. 9 at 2nd-alarm fire, Queen and Dennison streets"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0061_fl0095_id0001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0061_fl0095_id0001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 249, Series 61, File 95",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 1927 and 1940]",
+          "physical_desc": "1 photonegative : b&w;, glass"
+        }
+      },
+      {
+        "id": "",
+        "title": "Skater jumps through ring of fire at Toronto War Savings Committee youth rally, Maple Leaf Gardens",
+        "date": "1941",
+        "location": "43.662192,-79.38029",
+        "geocode": {
+          "lat": 43.6621919,
+          "lng": -79.3802902,
+          "address": "",
+          "original_title": "Skater jumps through ring of fire at Toronto War Savings Committee youth rally, Maple Leaf Gardens"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it7068.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it7068.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 7068",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "February 13, 1941",
+          "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Fire at Lyons Furniture Store, Yonge and Alexander streets",
+        "date": "1941",
+        "location": "43.662896,-79.383722",
+        "geocode": {
+          "lat": 43.6628957,
+          "lng": -79.3837219,
+          "address": "Alexander St & Yonge St, Toronto, ON M4Y, Canada",
+          "original_title": "Fire at Lyons Furniture Store, Yonge and Alexander streets"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0366a.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0366a.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 366a",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 17, 1941",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "7703959",
+        "title": "Canadian General Electric Co., warehouse, Pacific Ave., w. side, betw. Annette & Dundas Sts.; aftermath of fire of 4 January 1952. ",
+        "date": "1952",
+        "location": "43.664437,-79.458801",
+        "geocode": {
+          "lat": 43.6644367,
+          "lng": -79.458801,
+          "address": "Dundas St W & Annette St, Toronto, ON M6P, Canada",
+          "original_title": "Canadian General Electric Co., warehouse, Pacific Ave., w. side, betw. Annette & Dundas Sts.; aftermath of fire of 4 January 1952."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2141819/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2141819/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7703959"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1952",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "7703960",
+        "title": "Canadian General Electric Co., warehouse, Pacific Ave., w. side, betw. Annette & Dundas Sts.; aftermath of fire of 4 January 1952; looking s.e. from rear. ",
+        "date": "1952",
+        "location": "43.664437,-79.458801",
+        "geocode": {
+          "lat": 43.6644367,
+          "lng": -79.458801,
+          "address": "Dundas St W & Annette St, Toronto, ON M6P, Canada",
+          "original_title": "Canadian General Electric Co., warehouse, Pacific Ave., w. side, betw. Annette & Dundas Sts.; aftermath of fire of 4 January 1952; looking s.e. from rear."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2141821/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2141821/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7703960"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1952",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "7703763",
+        "title": "Dundas St. W., looking n.w. from w. of Spadina Ave., showing fire engine called out for fire at M. Mandel & Sons, lumber dealers, Spadina Ave., w. side, n. of Dundas St. W. ",
+        "date": "1954",
+        "location": "43.652955,-79.397932",
+        "geocode": {
+          "lat": 43.6529555,
+          "lng": -79.3979318,
+          "address": "Dundas St W & Spadina Ave, Toronto, ON M5T, Canada",
+          "original_title": "Dundas St. W., looking n.w. from w. of Spadina Ave., showing fire engine called out for fire at M. Mandel & Sons, lumber dealers, Spadina Ave., w. side, n. of Dundas St. W."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2141424/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2141424/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7703763"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1954",
+          "physical_desc": ""
+        }
+      },
+      {
+        "id": "",
+        "title": "View of early morning fire at Bathurst and Wells Streets",
+        "date": "1956",
+        "location": "43.670113,-79.413164",
+        "geocode": {
+          "lat": 43.67011309999999,
+          "lng": -79.4131637,
+          "address": "Wells St & Bathurst St, Toronto, ON M5R, Canada",
+          "original_title": "View of early morning fire at Bathurst and Wells Streets"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 1",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "January 1, 1956",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "American LaFrance pumper No. 13 at fire at All Saints Anglican Church",
+        "date": "1960",
+        "location": "43.927362,-79.527118",
+        "geocode": {
+          "lat": 43.9273616,
+          "lng": -79.5271178,
+          "address": "",
+          "original_title": "American LaFrance pumper No. 13 at fire at All Saints Anglican Church"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0061_fl0179_id0001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0061_fl0179_id0001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 249, Series 61, File 179, Item 1",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": null,
+          "physical_desc": null
+        }
+      },
+      {
+        "id": "",
+        "title": "Fire at Hotel Carson (formerly Elliot House), Church Street at Shuter Street",
+        "date": "1961",
+        "location": "43.654823,-79.376437",
+        "geocode": {
+          "lat": 43.6548235,
+          "lng": -79.3764367,
+          "address": "Shuter St & Church St, Toronto, ON M5B, Canada",
+          "original_title": "Fire at Hotel Carson (formerly Elliot House), Church Street at Shuter Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it9727.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it9727.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 9727",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "January 16, 1961",
+          "physical_desc": "1 photonegative : b&w; ; 6 x 6 cm "
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fire at Terminal A of Union Station",
+        "date": "1974",
+        "location": "43.644691,-79.380348",
+        "geocode": {
+          "lat": 43.6446907,
+          "lng": -79.380348,
+          "address": "",
+          "original_title": "View of fire at Terminal A of Union Station"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0022.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0022.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 22",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 28, 1974",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Pumper No. 16 at 1st-alarm fire at meat market, Bloor Street West and Runnymede Road",
+        "date": "1974",
+        "location": "43.651142,-79.476259",
+        "geocode": {
+          "lat": 43.6511421,
+          "lng": -79.4762591,
+          "address": "Runnymede Rd & Bloor St W, Toronto, ON M6S, Canada",
+          "original_title": "Pumper No. 16 at 1st-alarm fire at meat market, Bloor Street West and Runnymede Road"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0061_fl0276_id0001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0061_fl0276_id0001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 249, Series 61, File 276",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1974",
+          "physical_desc": "1 photonegative : col."
+        }
+      },
+      {
+        "id": "",
+        "title": "View of loading dock and broken windows at Terminal A fire of Union Station",
+        "date": "1974",
+        "location": "43.644691,-79.380348",
+        "geocode": {
+          "lat": 43.6446907,
+          "lng": -79.380348,
+          "address": "",
+          "original_title": "View of loading dock and broken windows at Terminal A fire of Union Station"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0038.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0038.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 38",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 26, 1974",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of store and building after a fire on Yonge Street north of Wellesley, includes some store fronts",
+        "date": "1975",
+        "location": "43.664929,-79.384563",
+        "geocode": {
+          "lat": 43.664929,
+          "lng": -79.3845625,
+          "address": "Wellesley St W & Yonge St, Toronto, ON M4Y, Canada",
+          "original_title": "View of store and building after a fire on Yonge Street north of Wellesley, includes some store fronts"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0083.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0083.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 83",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "June 4, 1975",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of store and building after a fire on Yonge Street north of Wellesley ",
+        "date": "1975",
+        "location": "43.664929,-79.384563",
+        "geocode": {
+          "lat": 43.664929,
+          "lng": -79.3845625,
+          "address": "Wellesley St W & Yonge St, Toronto, ON M4Y, Canada",
+          "original_title": "View of store and building after a fire on Yonge Street north of Wellesley"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0082.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0082.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 82",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "June 4, 1975",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of sewer fire at Queen and Broadview Avenue, some store fronts included",
+        "date": "1979",
+        "location": "43.65887,-79.349824",
+        "geocode": {
+          "lat": 43.6588705,
+          "lng": -79.3498245,
+          "address": "Broadview Ave & Queen St E, Toronto, ON M4M, Canada",
+          "original_title": "View of sewer fire at Queen and Broadview Avenue, some store fronts included"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0094.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0094.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 94",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "January 27, 1979",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of sewer fire at Queen and Broadview Avenue",
+        "date": "1979",
+        "location": "43.65887,-79.349824",
+        "geocode": {
+          "lat": 43.6588705,
+          "lng": -79.3498245,
+          "address": "Broadview Ave & Queen St E, Toronto, ON M4M, Canada",
+          "original_title": "View of sewer fire at Queen and Broadview Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0093.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0093.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 93",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "January 27, 1979",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fire on Mictchell Avenue looking west from Tecumseth",
+        "date": "1981",
+        "location": "43.645311,-79.406037",
+        "geocode": {
+          "lat": 43.6453107,
+          "lng": -79.40603709999999,
+          "address": "Mitchell Ave & Tecumseth St, Toronto, ON M6J, Canada",
+          "original_title": "View of fire on Mictchell Avenue looking west from Tecumseth"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0007.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0007.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 7",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "November 10, 1981",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Queen St at River St - fire damage - view north from King",
+        "date": "1981",
+        "location": "43.65736,-79.356529",
+        "geocode": {
+          "lat": 43.6573601,
+          "lng": -79.3565295,
+          "address": "River St & Queen St E, Toronto, ON M5A, Canada",
+          "original_title": "Queen St at River St - fire damage - view north from King"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0069_it0032.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0069_it0032.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 69, Item 32",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "February 25, 1981",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fire damaged section of Adelaide Street East from Court Street",
+        "date": "1982",
+        "location": "43.652669,-79.366192",
+        "geocode": {
+          "lat": 43.6526694,
+          "lng": -79.36619200000001,
+          "address": "Ontario St & Adelaide St E, Toronto, ON M5A, Canada",
+          "original_title": "View of fire damaged section of Adelaide Street East from Court Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0076.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0076.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 76",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "April 22, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fire on Adelaide Street East, looking west from Princess Street",
+        "date": "1982",
+        "location": "43.652398,-79.367384",
+        "geocode": {
+          "lat": 43.6523981,
+          "lng": -79.36738419999999,
+          "address": "Princess St & Adelaide St E, Toronto, ON M5A, Canada",
+          "original_title": "View of fire on Adelaide Street East, looking west from Princess Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0048.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0048.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 48",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "April 6, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "View of fire on Adelaide Street East, looking west from Ontario Street",
+        "date": "1982",
+        "location": "43.652669,-79.366192",
+        "geocode": {
+          "lat": 43.6526694,
+          "lng": -79.36619200000001,
+          "address": "Ontario St & Adelaide St E, Toronto, ON M5A, Canada",
+          "original_title": "View of fire on Adelaide Street East, looking west from Ontario Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0047.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0047.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 47",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "April 6, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Closer view of fire damaged buildings on Adelaide Street East from Court Street",
+        "date": "1982",
+        "location": "43.652669,-79.366192",
+        "geocode": {
+          "lat": 43.6526694,
+          "lng": -79.36619200000001,
+          "address": "Ontario St & Adelaide St E, Toronto, ON M5A, Canada",
+          "original_title": "Closer view of fire damaged buildings on Adelaide Street East from Court Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0100_it0078.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0100_it0078.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1526, File 100, Item 78",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "April 22, 1982",
+          "physical_desc": "1 transparency : col. ; 35 mm"
+        }
+      },
+      {
+        "id": "",
+        "title": "White hose and combination truck, possibly No. 6, at 2nd-alarm fire, Jarvis and Richmond streets",
+        "date": "None",
+        "location": "43.653046,-79.372955",
+        "geocode": {
+          "lat": 43.6530459,
+          "lng": -79.3729546,
+          "address": "Richmond St E & Jarvis St, Toronto, ON M5C, Canada",
+          "original_title": "White hose and combination truck, possibly No. 6, at 2nd-alarm fire, Jarvis and Richmond streets"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0061_fl0096_id0001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0061_fl0096_id0001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 249, Series 61, File 96, Item 1",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": null,
+          "physical_desc": null
+        }
+      }
+    ]
+  },
+  "lightning": {
+    "label": "Lightning & Wind Damage",
+    "icon": "⚡",
+    "total": 10,
+    "items": [
+      {
+        "id": "",
+        "title": "Adelaide Street west of Simcoe — (cave-in)",
+        "date": "1913",
+        "location": "43.648636,-79.386597",
+        "geocode": {
+          "lat": 43.6486364,
+          "lng": -79.3865971,
+          "address": "Simcoe St & Adelaide St W, Toronto, ON M5H, Canada",
+          "original_title": "Adelaide Street west of Simcoe — (cave-in)"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0001_it0032.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0001_it0032.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 1, Item 32",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "March 17, 1913",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Margueretta St. north of College - cave-in",
+        "date": "1914",
+        "location": "43.651566,-79.437566",
+        "geocode": {
+          "lat": 43.651566,
+          "lng": -79.43756599999999,
+          "address": "Margueretta St & College St, Toronto, ON M6H, Canada",
+          "original_title": "Margueretta St. north of College - cave-in"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0058_it0337.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0058_it0337.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 58, Item 337",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "October 9, 1914",
+          "physical_desc": "1 photoprint : b&w; ; 15 x 18 cm — 1 photonegative : b&w; ; 15 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Cave-in opposite 1523 Dundas Street",
+        "date": "1915",
+        "location": "43.656463,-79.452461",
+        "geocode": {
+          "lat": 43.6564632,
+          "lng": -79.4524607,
+          "address": "1523 Dundas St W, Toronto, ON M6P, Canada",
+          "original_title": "Cave-in opposite 1523 Dundas Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0058_it0407.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0058_it0407.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 58, Item 407",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "April 17, 1915",
+          "physical_desc": "1 photoprint : b&w; ; 15 x 18 cm - 1 photonegative : b&w; ; 15 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Main Street south of Danforth Avenue, storm damage",
+        "date": "1926",
+        "location": "43.688156,-79.301804",
+        "geocode": {
+          "lat": 43.6881561,
+          "lng": -79.3018044,
+          "address": "Main St & Danforth Ave, Toronto, ON M4C, Canada",
+          "original_title": "Main Street south of Danforth Avenue, storm damage"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it1995.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it1995.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 1995",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 31, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "833 Danforth Avenue, cave-in, boy killed",
+        "date": "1929",
+        "location": "43.679695,-79.340963",
+        "geocode": {
+          "lat": 43.6796953,
+          "lng": -79.34096269999999,
+          "address": "833 Danforth Ave, Toronto, ON M4J 1L2, Canada",
+          "original_title": "833 Danforth Avenue, cave-in, boy killed"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it16393.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it16393.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 16393",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "May 5, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Massey Property, Dentonia Park — chimney damaged by lightning",
+        "date": "1934",
+        "location": "43.693616,-79.293273",
+        "geocode": {
+          "lat": 43.6936161,
+          "lng": -79.2932731,
+          "address": "",
+          "original_title": "Massey Property, Dentonia Park — chimney damaged by lightning"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0001_it1295.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0001_it1295.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 1, Item 1295",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "September 14, 1934",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Heron on fallen tree in Grenadier Pond = Grenadier 18",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Heron on fallen tree in Grenadier Pond = Grenadier 18"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0179.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0179.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 179",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 431 KB, 72 dpi\n1 photograph : col. ; 30.5 x 45.7 cm"
+        }
+      },
+      {
+        "id": "",
+        "title": "Bird on fallen tree on Grenadier Pond shoreline",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Bird on fallen tree on Grenadier Pond shoreline"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0047.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0047.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 47",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 587 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Duck on fallen tree in Grenadier Pond",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Duck on fallen tree in Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0051.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0051.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 51",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 395 KB, 72 dpi"
+        }
+      },
+      {
+        "id": "",
+        "title": "Excavation and cave-in adjacent to York Club",
+        "date": "None",
+        "location": "43.668009,-79.399459",
+        "geocode": {
+          "lat": 43.6680087,
+          "lng": -79.3994592,
+          "address": "",
+          "original_title": "Excavation and cave-in adjacent to York Club"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0648_fl0072_id0003.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0648_fl0072_id0003.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1567, Series 648, File 72, Item 3",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": null,
+          "physical_desc": null
+        }
+      }
+    ]
+  }
+}
