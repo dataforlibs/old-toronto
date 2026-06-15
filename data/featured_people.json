@@ -1,0 +1,478 @@
+{
+  "howard-john-george": {
+    "id": "howard-john-george",
+    "name": "John George Howard",
+    "years": "1803\u20131890",
+    "title": "Architect, Surveyor & Founder of High Park",
+    "icon": "\ud83c\udfd8\ufe0f",
+    "bio": "Born John Corby in Hertfordshire, England, Howard emigrated to York (Toronto) in 1832 and changed his name soon after. He became the first professional architect in Upper Canada, the city's official surveyor (1843\u20131855), and a teacher at Upper Canada College. He laid out the Esplanade and subdivided Toronto Island, designed dozens of homes, churches and public buildings, and in 1873 donated the land that became High Park \u2014 where he and his wife Jemima are buried near the home he built, Colborne Lodge.",
+    "source": "Dictionary of Canadian Biography / Biographical Dictionary of Architects in Canada",
+    "stops": [
+      {
+        "id": "colborne-lodge",
+        "name": "Colborne Lodge",
+        "years": "Built 1836\u201337",
+        "role": "His home, where he died in 1890 \u2014 now a museum",
+        "lat": 43.6403622,
+        "lng": -79.459996,
+        "address": "Colborne Lodge Drive, High Park, Toronto",
+        "description": "Howard built Colborne Lodge on land he bought in 1836 for a sheep farm. He and his wife Jemima lived here until his death in 1890; both are buried nearby beneath a cairn he designed himself, topped with a fence salvaged from a shipwreck that originally stood around St Paul's Cathedral in London. The house is now a museum displaying Howard's own watercolours and woodcarvings.",
+        "images": [
+          {
+            "id": "",
+            "title": "Colborne Lodge, High Park, southeast elevation",
+            "date": "1912",
+            "location": "43.640362,-79.459996",
+            "geocode": {
+              "lat": 43.6403622,
+              "lng": -79.459996,
+              "address": "",
+              "original_title": "Colborne Lodge, High Park, southeast elevation"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0087.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0087.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1231, Item 87",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1912",
+              "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "View of the Howards tombstone at Colborne Lodge",
+            "date": "1980",
+            "location": "43.640362,-79.459996",
+            "geocode": {
+              "lat": 43.6403622,
+              "lng": -79.459996,
+              "address": "",
+              "original_title": "View of the Howards tombstone at Colborne Lodge"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0018_it0001.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0018_it0001.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1526, File 18, Item 1",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "July 13, 1980",
+              "physical_desc": "1 transparency : col. ; 35 mm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "provincial-lunatic-asylum",
+        "name": "Provincial Lunatic Asylum",
+        "years": "Designed & built 1845\u201349",
+        "role": "His major architectural work \u2014 demolished 1976",
+        "lat": 43.644171,
+        "lng": -79.4188508,
+        "address": "Queen St W, opposite Ossington Ave, Toronto",
+        "description": "Howard's largest commission: an immense building in the white brick he introduced to Toronto building practice, modelled on London's National Gallery. It was the most significant public building of his career, and remained on this site (later expanded as 999 Queen St W) until its demolition in 1976.",
+        "images": [
+          {
+            "id": "",
+            "title": "Lunatic Asylum, Queen St. W., south side, opposite Ossington Ave., Toronto, Ont. ",
+            "date": "1868",
+            "location": "43.644171,-79.418851",
+            "geocode": {
+              "lat": 43.644171,
+              "lng": -79.4188508,
+              "address": "Queen St W & Ossington Ave, Toronto, ON M6J 2Y7, Canada",
+              "original_title": "Lunatic Asylum, Queen St. W., south side, opposite Ossington Ave., Toronto, Ont."
+            },
+            "image": {
+              "url": "https://static.torontopubliclibrary.ca/da/images/LC/f114.jpg",
+              "thumb_url": "https://static.torontopubliclibrary.ca/da/images/LC/f114.jpg"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1868",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "bank-of-british-north-america",
+        "name": "Bank of British North America",
+        "years": "Built 1845",
+        "role": "Commercial commission \u2014 demolished 1871",
+        "lat": 43.6478466,
+        "lng": -79.3773466,
+        "address": "Northeast corner of Yonge & Wellington Streets, Toronto",
+        "description": "One of Howard's commercial commissions from the busiest period of his practice in the 1830s\u201340s, when he designed buildings ranging from labourers' cottages to banks and government offices.",
+        "images": [
+          {
+            "id": "",
+            "title": "Bank of British North America : north-east corner of Wellington and Yonge streets",
+            "date": "1856",
+            "location": "43.647847,-79.377347",
+            "geocode": {
+              "lat": 43.6478466,
+              "lng": -79.3773466,
+              "address": "Wellington St W & Yonge St, Toronto, ON M5E, Canada",
+              "original_title": "Bank of British North America : north-east corner of Wellington and Yonge streets"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1498_it0003.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1498_it0003.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1498, Item 3",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1856",
+              "physical_desc": "1 photoprint : b&w; ; 23 x 29 cm on board 39 x 45 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "chewetts-block",
+        "name": "Chewett's Block",
+        "years": "Built 1833",
+        "role": "One of his earliest Toronto commissions \u2014 demolished 1946",
+        "lat": 43.6488,
+        "lng": -79.3781,
+        "address": "Southeast corner of York & King Streets, Toronto (later site of the Standard Life Centre)",
+        "description": "Among the first buildings Howard designed after arriving in York in 1832\u201333, in the wide range of late-Georgian styles typical of his early Toronto practice.",
+        "images": []
+      },
+      {
+        "id": "home-district-gaol",
+        "name": "Home District Gaol",
+        "years": "Built 1837\u201341",
+        "role": "Toronto's third jail \u2014 demolished 1887",
+        "lat": 43.6502,
+        "lng": -79.3645,
+        "address": "Southeast corner of Front & Berkeley Streets, Toronto",
+        "description": "As the city's surveyor and a busy public architect, Howard designed several institutional buildings; this jail replaced an earlier 1827 gaol on King Street and stood until 1887.",
+        "images": []
+      },
+      {
+        "id": "st-james-cemetery",
+        "name": "St James' Cemetery",
+        "years": "Surveyed & laid out 1844",
+        "role": "Picturesque-style cemetery plan, still in use",
+        "lat": 43.670526,
+        "lng": -79.368163,
+        "address": "635 Parliament Street, north of Wellesley Street East, Toronto",
+        "description": "Howard surveyed and laid out St James' Cemetery in 1844 \u2014 an early Toronto example of the 'picturesque' landscape planning style, in contrast to the gridiron subdivisions he carried out elsewhere in the city.",
+        "images": []
+      }
+    ]
+  },
+  "william-thomas": {
+    "id": "william-thomas",
+    "name": "William Thomas",
+    "years": "c.1799\u20131860",
+    "title": "Architect, Engineer & Founding President of the Toronto Society of Arts",
+    "icon": "\u26ea",
+    "bio": "Born in Suffolk, England, Thomas trained as a carpenter-joiner and builder before becoming an architect, working two decades in Leamington Spa before a building-trade depression sent him to Toronto in 1843. In under two decades he designed and supervised over 100 buildings across Ontario \u2014 including some of Toronto's most important 19th-century landmarks \u2014 and trained the next generation of architects, including William George Storm. He was a founding president of the Toronto Society of Arts (1847) and, when Howard travelled to England in 1853, served as city engineer in his place, overseeing work on the Esplanade.",
+    "source": "Dictionary of Canadian Biography / Canadian Encyclopedia",
+    "stops": [
+      {
+        "id": "oakham-house",
+        "name": "Oakham House",
+        "years": "Built 1848",
+        "role": "His own house and office \u2014 now part of Toronto Metropolitan University",
+        "lat": 43.6581909,
+        "lng": -79.3778192,
+        "address": "Church St & Gould St, Toronto",
+        "description": "Thomas designed this Gothic Revival house as his own residence and architectural office in 1848, the same year as St Michael's Cathedral. It later housed a working boys' home before being granted to Ryerson (now Toronto Metropolitan University), where it remains the campus's student centre.",
+        "images": [
+          {
+            "id": "7703336",
+            "title": "Thomas, William, 'Oakham House', Church St., s.w. corner Gould St. ",
+            "date": "1956",
+            "location": "43.658191,-79.377819",
+            "geocode": {
+              "lat": 43.6581909,
+              "lng": -79.37781919999999,
+              "address": "Church St & Gould St, Toronto, ON M5B, Canada",
+              "original_title": "Thomas, William, 'Oakham House', Church St., s.w. corner Gould St."
+            },
+            "image": {
+              "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2140562/full",
+              "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2140562/preview",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7703336"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1956",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "st-lawrence-hall",
+        "name": "St. Lawrence Hall",
+        "years": "Built 1850",
+        "role": "Civic meeting hall, market annex, and concert venue \u2014 still in use",
+        "lat": 43.6501667,
+        "lng": -79.3721787,
+        "address": "King St E & Jarvis St, Toronto",
+        "description": "One of Thomas's best-known surviving works, this Palladian-style hall hosted abolitionist meetings, concerts, and civic gatherings in 19th-century Toronto, and remains a designated heritage building used for events today.",
+        "images": [
+          {
+            "id": "",
+            "title": "St. Lawrence Hall, King St facade",
+            "date": "1981",
+            "location": "43.650167,-79.372179",
+            "geocode": {
+              "lat": 43.6501667,
+              "lng": -79.3721787,
+              "address": "",
+              "original_title": "St. Lawrence Hall, King St facade"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0064_it0116.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0064_it0116.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1526, File 64, Item 116",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 17, 1981",
+              "physical_desc": "1 transparency : col. ; 35 mm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "st-michaels-cathedral",
+        "name": "St. Michael's Cathedral",
+        "years": "Built 1845\u201348",
+        "role": "Gothic Revival cathedral, seat of the Archdiocese of Toronto",
+        "lat": 43.6545729,
+        "lng": -79.377599,
+        "address": "Bond St & Shuter St, Toronto",
+        "description": "A leading example of Thomas's Gothic Revival church work \u2014 the kind of ecclesiastical commission that made him, in his own generation, the chief proponent of the style in Canada.",
+        "images": [
+          {
+            "id": "",
+            "title": "St. Michael's Cathedral, northeast corner of Shuter and Bond streets",
+            "date": "1925",
+            "location": "43.654573,-79.377599",
+            "geocode": {
+              "lat": 43.6545729,
+              "lng": -79.37759899999999,
+              "address": "Bond St & Shuter St, Toronto, ON M5B, Canada",
+              "original_title": "St. Michael's Cathedral, northeast corner of Shuter and Bond streets"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0088.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0088.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1231, Item 88",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 1, 1925",
+              "physical_desc": "1 photoprint : b&w; ; 18 x 13 cm. \u2014 1 photonegative : b&w; ; 18 x 13 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "don-jail",
+        "name": "The Don Jail",
+        "years": "Designed 1858, completed 1864 (after his death)",
+        "role": "Toronto's most architecturally ambitious 19th-century jail \u2014 now an office building",
+        "lat": 43.6661646,
+        "lng": -79.3529099,
+        "address": "550 Gerrard St E, Toronto",
+        "description": "Thomas's design for a new Toronto jail was completed four years after his death in 1860, with William George Storm \u2014 his former apprentice and Cumberland's partner \u2014 overseeing construction. The building operated as a jail until 1977 and has since been restored as part of the Bridgepoint Health campus.",
+        "images": [],
+        "external_link": "https://en.wikipedia.org/wiki/Don_Jail"
+      }
+    ]
+  },
+  "frederic-cumberland": {
+    "id": "frederic-cumberland",
+    "name": "Frederic W. Cumberland",
+    "years": "1820\u20131881",
+    "title": "Architect, Engineer & Railway Manager",
+    "icon": "\ud83c\udf93",
+    "bio": "Born in London, England, Cumberland trained as an architect through the British Admiralty's Civil Architects Department before emigrating to Toronto in 1847. In partnership first with Thomas Ridout and then with William George Storm \u2014 himself trained under William Thomas \u2014 Cumberland designed many of Toronto's most significant Victorian-era buildings. He won the competition for St James' Cathedral in open contest against ten other entrants in 1849, and later balanced his architectural career with work as chief engineer and managing director of the Northern Railway, eventually leaving architecture for railways and politics, serving in both the Ontario legislature and the House of Commons.",
+    "source": "Dictionary of Canadian Biography / Canadian Encyclopedia",
+    "stops": [
+      {
+        "id": "cumberland-house",
+        "name": "Cumberland House (\"Pendarves\")",
+        "years": "Built 1860",
+        "role": "His home for 21 years \u2014 later a vice-regal residence, now U of T's International Student Centre",
+        "lat": 43.6586878,
+        "lng": -79.3960227,
+        "address": "College St & St George St, Toronto",
+        "description": "Cumberland built this Italianate villa while working on the nearby University College, and lived here for the last third of his life \u2014 during which he was elected to the first Ontario legislature (1867) and then to the House of Commons (1871). After 1912 it served as a temporary vice-regal residence; it is now the University of Toronto's International Student Centre.",
+        "images": [
+          {
+            "id": "7700143",
+            "title": "Cumberland, Frederic W., house, St. George St., e. side, n. of College St. ",
+            "date": "1910",
+            "location": "43.658688,-79.396023",
+            "geocode": {
+              "lat": 43.6586878,
+              "lng": -79.3960227,
+              "address": "College St & St George St, Toronto, ON M5T, Canada",
+              "original_title": "Cumberland, Frederic W., house, St. George St., e. side, n. of College St."
+            },
+            "image": {
+              "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2134836/full",
+              "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2134836/preview",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7700143"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1910",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "university-college",
+        "name": "University College",
+        "years": "Built 1856\u201359",
+        "role": "His masterwork \u2014 the founding college of the University of Toronto",
+        "lat": 43.6628381,
+        "lng": -79.3958562,
+        "address": "15 King's College Circle, Toronto",
+        "description": "Designed with William George Storm in a Norman Romanesque style with irregular massing and skillful stone-carving, University College is considered Cumberland's single best-known and most accomplished work \u2014 by one account, his last personal design before turning to railway management.",
+        "images": [
+          {
+            "id": "",
+            "title": "University College, University of Toronto",
+            "date": "1980",
+            "location": "43.662838,-79.395856",
+            "geocode": {
+              "lat": 43.6628381,
+              "lng": -79.3958562,
+              "address": "",
+              "original_title": "University College, University of Toronto"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0270_it0004.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0270_it0004.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 200, Series 1465, File 270, Item 4",
+              "condition": "OPEN - No restrictions on these government records.",
+              "date": "[between 1980 and 1998]",
+              "physical_desc": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "st-james-cathedral",
+        "name": "St. James' Cathedral",
+        "years": "Won in competition 1849; spire completed 1874",
+        "role": "Cathedral Church of the Diocese of Toronto",
+        "lat": 43.6492127,
+        "lng": -79.3737139,
+        "address": "King St E & Church St, Toronto",
+        "description": "Cumberland won the commission for St James' Cathedral in open competition against ten other entrants in 1849 \u2014 his first major Toronto building, and the start of his architectural career in the city. Cumberland & Storm later completed the cathedral's tower and spire.",
+        "images": [
+          {
+            "id": "",
+            "title": "St. James Cathedral from Market Square",
+            "date": "1983",
+            "location": "43.649213,-79.373714",
+            "geocode": {
+              "lat": 43.6492127,
+              "lng": -79.3737139,
+              "address": "",
+              "original_title": "St. James Cathedral from Market Square"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0003_id0116.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0003_id0116.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 124, File 3, Item 116",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "October, 1983",
+              "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "osgoode-hall",
+        "name": "Osgoode Hall",
+        "years": "Centre Block reconstruction, 1857\u201360",
+        "role": "Home of the Law Society of Ontario and the Ontario courts",
+        "lat": 43.6521026,
+        "lng": -79.3855358,
+        "address": "130 Queen St W, Toronto",
+        "description": "Cumberland & Storm reconstructed and expanded the imposing centre portion of Osgoode Hall, adding much of the carved stone detail and ornament the building is known for today.",
+        "images": [
+          {
+            "id": "",
+            "title": "Osgoode Hall - front",
+            "date": "1924",
+            "location": "43.652103,-79.385536",
+            "geocode": {
+              "lat": 43.6521026,
+              "lng": -79.3855358,
+              "address": "",
+              "original_title": "Osgoode Hall - front"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1548_s0393_it18734.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1548_s0393_it18734.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1548, Series 393, Item 18734",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "March 13, 1924",
+              "physical_desc": "1 photoprint : b&w; ; 12 x 15 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "stewart-observatory",
+        "name": "Stewart Observatory",
+        "years": "Built 1853\u201357",
+        "role": "Originally the Toronto Magnetic & Meteorological Observatory \u2014 one of Canada's first purpose-built scientific observatories",
+        "lat": 43.6639256,
+        "lng": -79.3944745,
+        "address": "12 Hart House Circle, Toronto",
+        "description": "Designed by Cumberland & Storm and built on the University of Toronto campus, this small Romanesque observatory housed Toronto's pioneering magnetic and meteorological research. It was later relocated within the campus and renamed for Louis B. Stewart.",
+        "images": [
+          {
+            "id": "",
+            "title": "Louis B. Stewart Observatory (UTSU), 12 Hart House Circle",
+            "date": "1980",
+            "location": "43.663926,-79.394475",
+            "geocode": {
+              "lat": 43.6639256,
+              "lng": -79.3944745,
+              "address": "",
+              "original_title": "Louis B. Stewart Observatory (UTSU), 12 Hart House Circle"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0272_it0006.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0272_it0006.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 200, Series 1465, File 272, Item 6",
+              "condition": "OPEN - No restrictions on these government records.",
+              "date": "[between 1980 and 1998]",
+              "physical_desc": null
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
