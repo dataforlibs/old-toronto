@@ -1561,7 +1561,9 @@
         "person_name": "Edward Hanlan",
         "person_title": "Hanlan Hotel, a four storey frame building bought from Edward Hanlan by the Toronto Ferry Company, destroyed in the fire which swept Hanlan's Point on August 10, 1909",
         "lat": 43.6276722,
-        "lng": -79.3894048
+        "lng": -79.3894048,
+        "notable": true,
+        "achievement": "Canada's first individual world sporting champion: a professional sculler (rower) who held the world singles rowing title from 1880 to 1884, won over 300 races, and grew up on the Toronto Island peninsula now known as Hanlan's Point. A Heritage Toronto plaque commemorates him there."
       },
       {
         "id": "",
@@ -2577,7 +2579,9 @@
         "person_name": "Sandford Fleming",
         "person_title": "Sandford Fleming Building, 10 King's College Road",
         "lat": 43.6600106,
-        "lng": -79.3948345
+        "lng": -79.3948345,
+        "notable": true,
+        "achievement": "Scottish-Canadian engineer and inventor best known for proposing worldwide standard time zones, designed Canada's first postage stamp (the Threepenny Beaver), and served as chief engineer of the Intercolonial and Canadian Pacific Railways. A Heritage Toronto plaque at University College commemorates him."
       },
       {
         "id": "",
@@ -7344,6 +7348,84 @@
         "person_title": "CNE, Music Day, Audrey Gardner",
         "lat": 43.633751,
         "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "C.N.E., Ukrainian choir going thru grounds",
+        "date": "1928",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "C.N.E., Ukrainian choir going thru grounds"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it14606.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it14606.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 14606",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 30, 1928",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "person_name": "Ukrainian Choir (CNE, 1928)",
+        "person_title": "C.N.E., Ukrainian choir going thru grounds",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, Music Day, Ukrainian choir",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, Music Day, Ukrainian choir"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17726.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17726.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17726",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 29, 1929",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "person_name": "Ukrainian Choir (CNE Music Day, 1929)",
+        "person_title": "CNE, Music Day, Ukrainian choir",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, Music Day, Ukrainian choir group",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, Music Day, Ukrainian choir group"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21754.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21754.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21754",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 28, 1930",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "person_name": "Ukrainian Choir (CNE Music Day, 1930)",
+        "person_title": "CNE, Music Day, Ukrainian choir group",
+        "lat": 43.633751,
+        "lng": -79.4192546
       }
     ]
   },
@@ -7692,6 +7774,230 @@
         "lng": -79.3802902,
         "notable": true,
         "achievement": "Captain of Canada's gold medal-winning hockey team at the 1924 Winter Olympics, and later captain of the Montreal Maroons when they won the 1926 Stanley Cup \u2014 the first European-born player to do so."
+      }
+    ]
+  },
+  "weddings-funerals": {
+    "label": "Weddings & Funerals",
+    "icon": "\ud83d\udd4a\ufe0f",
+    "note": "\u2b50 marks notable Torontonians whose funerals drew public attention \u2014 including two Featured People (Sir Henry Pellatt) and figures like Sir Oliver Mowat and Sir Edmund Walker. Named after the City of Toronto Archives' own subject category for this kind of photo.",
+    "people": [
+      {
+        "id": "7704482",
+        "title": "Mowat, Sir Oliver; Funeral Procession, on Yonge St., looking s. from Shuter St. ",
+        "date": "1903",
+        "location": "43.654074,-79.379958",
+        "geocode": {
+          "lat": 43.6540742,
+          "lng": -79.3799578,
+          "address": "Shuter St & Yonge St, Toronto, ON M5B, Canada",
+          "original_title": "Mowat, Sir Oliver; Funeral Procession, on Yonge St., looking s. from Shuter St."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142894/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142894/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7704482"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1903",
+          "physical_desc": ""
+        },
+        "person_name": "Sir Oliver Mowat",
+        "person_title": "Mowat, Sir Oliver; Funeral Procession, on Yonge St., looking s. from Shuter St. ",
+        "lat": 43.6540742,
+        "lng": -79.3799578,
+        "notable": true,
+        "achievement": "Ontario's longest-serving Premier (1872\u20131896, 24 years) and a Father of Confederation, having helped negotiate Canada's constitutional structure at the 1864 Quebec Conference. He later served as Lieutenant Governor of Ontario (1897\u20131903). His 1903 funeral procession passed down Yonge Street."
+      },
+      {
+        "id": "",
+        "title": "Funeral, Edmund Walker, scene in Convocation Hall",
+        "date": "1924",
+        "location": "43.660776,-79.395445",
+        "geocode": {
+          "lat": 43.6607762,
+          "lng": -79.3954452,
+          "address": "",
+          "original_title": "Funeral, Edmund Walker, scene in Convocation Hall"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it2277.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it2277.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 2277",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "March 29, 1924",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "person_name": "Sir Edmund Walker",
+        "person_title": "Funeral, Edmund Walker, scene in Convocation Hall",
+        "lat": 43.6607762,
+        "lng": -79.3954452,
+        "notable": true,
+        "achievement": "President of the Canadian Bank of Commerce (1907\u20131924) and one of Toronto's great philanthropists \u2014 founding chairman of the Royal Ontario Museum and a major benefactor of the Art Gallery of Ontario, the National Gallery of Canada, and the University of Toronto."
+      },
+      {
+        "id": "",
+        "title": "Sir Henry Pellatt's funeral, University Avenue Armouries",
+        "date": "1939",
+        "location": "43.652363,-79.38678",
+        "geocode": {
+          "lat": 43.6523632,
+          "lng": -79.3867798,
+          "address": "",
+          "original_title": "Sir Henry Pellatt's funeral, University Avenue Armouries"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4001.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4001.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 4001",
+          "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+          "date": "1939",
+          "physical_desc": "1 photoprint : b&w;"
+        },
+        "person_name": "Sir Henry Pellatt",
+        "person_title": "Sir Henry Pellatt's funeral, University Avenue Armouries",
+        "lat": 43.6523632,
+        "lng": -79.3867798,
+        "notable": true,
+        "achievement": "Financier and longtime commander of the Queen's Own Rifles, who built Casa Loma \u2014 see his full itinerary under Featured People."
+      },
+      {
+        "id": "",
+        "title": "Joseph Stalin memorial service at Massey Hall, Toronto general view",
+        "date": "1953",
+        "location": "43.653966,-79.378981",
+        "geocode": {
+          "lat": 43.6539659,
+          "lng": -79.3789814,
+          "address": "",
+          "original_title": "Joseph Stalin memorial service at Massey Hall, Toronto general view"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it150297.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it150297.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 150297",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 9, 1953",
+          "physical_desc": "1 photonegatve : nitrate ; 13 x 18 cm"
+        },
+        "person_name": "Joseph Stalin (memorial service)",
+        "person_title": "Joseph Stalin memorial service at Massey Hall, Toronto general view",
+        "lat": 43.6539659,
+        "lng": -79.3789814
+      },
+      {
+        "id": "",
+        "title": "Ex-Alderman John Dunn funeral, 110 Givins Street",
+        "date": "1930",
+        "location": "43.648028,-79.419171",
+        "geocode": {
+          "lat": 43.6480278,
+          "lng": -79.4191709,
+          "address": "110 Givins St, Toronto, ON M6J 2X9, Canada",
+          "original_title": "Ex-Alderman John Dunn funeral, 110 Givins Street"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it22617.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it22617.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 22617",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "November 25, 1930",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "person_name": "John Dunn",
+        "person_title": "Ex-Alderman John Dunn funeral, 110 Givins Street",
+        "lat": 43.6480278,
+        "lng": -79.4191709
+      },
+      {
+        "id": "",
+        "title": "Frank E. Dunbar funeral, crowd at house, 293 Willard Ave",
+        "date": "1929",
+        "location": "43.651405,-79.482089",
+        "geocode": {
+          "lat": 43.651405,
+          "lng": -79.4820888,
+          "address": "293 Willard Ave, Toronto, ON M6S 3R1, Canada",
+          "original_title": "Frank E. Dunbar funeral, crowd at house, 293 Willard Ave"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it16205.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it16205.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 16205",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "April 16, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "person_name": "Frank E. Dunbar",
+        "person_title": "Frank E. Dunbar funeral, crowd at house, 293 Willard Ave",
+        "lat": 43.651405,
+        "lng": -79.4820888
+      },
+      {
+        "id": "",
+        "title": "[Constable Roy] McQuillin funeral, line waiting to enter house, 27 McGregor Avenue",
+        "date": "1930",
+        "location": "43.744668,-79.281115",
+        "geocode": {
+          "lat": 43.7446681,
+          "lng": -79.281115,
+          "address": "27 McGregor Rd, Scarborough, ON M1P 1C9, Canada",
+          "original_title": "[Constable Roy] McQuillin funeral, line waiting to enter house, 27 McGregor Avenue"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it22738.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it22738.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 22738",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "December 15, 1930",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "person_name": "Constable Roy McQuillin",
+        "person_title": "[Constable Roy] McQuillin funeral, line waiting to enter house, 27 McGregor Avenue",
+        "lat": 43.7446681,
+        "lng": -79.281115
+      },
+      {
+        "id": "",
+        "title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church",
+        "date": "1922",
+        "location": "43.686343,-79.405608",
+        "geocode": {
+          "lat": 43.6863428,
+          "lng": -79.4056085,
+          "address": "",
+          "original_title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1020.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1020.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 1020",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1922",
+          "physical_desc": "2 photoprints : b&w; ; 24 x 20 cm. \u2014 1 photonegative : b&w; ; 12 x 10 cm"
+        },
+        "person_name": "Sir John Craig Eaton",
+        "person_title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church",
+        "lat": 43.6863428,
+        "lng": -79.4056085,
+        "notable": true,
+        "achievement": "President of the T. Eaton Company (1907\u20131922), youngest son of founder Timothy Eaton. He expanded the department store chain nationally and was knighted in 1915 for his wartime contributions. His funeral, like the church itself, honoured his father's legacy \u2014 see Timothy Eaton under Featured People."
       }
     ]
   }

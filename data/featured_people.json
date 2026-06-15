@@ -474,5 +474,658 @@
         ]
       }
     ]
+  },
+  "henry-pellatt": {
+    "id": "henry-pellatt",
+    "name": "Sir Henry Pellatt",
+    "years": "1859\u20131939",
+    "title": "Financier, Soldier & Builder of Casa Loma",
+    "icon": "\ud83c\udff0",
+    "bio": "Born in Kingston and raised in Toronto, Pellatt joined his father's stockbroking firm as a young man and built one of early 20th-century Canada's great fortunes \u2014 by 1901 he chaired 21 companies spanning mining, insurance, real estate, and electricity, and in 1902 his consortium built the first hydroelectric generating station at Niagara Falls, earning him a reputation as 'the man who lit up Toronto.' In parallel, he rose through the ranks of the Queen's Own Rifles of Canada, which he had joined as a private at 17 and commanded from 1901; his decades of personal financial support for the regiment \u2014 including funding a 600-man trip to England for its 50th anniversary in 1910 \u2014 earned him a knighthood in 1905. Starting in 1911, with a fortune estimated at $17 million, he spent lavishly to build Casa Loma, a 98-room castle designed by architect E.J. Lennox. The First World War and the provincial expropriation of his electric power business left him deeply in debt; he and Lady Pellatt left Casa Loma in 1923, and in 1933 its remaining contents were auctioned off for a fraction of their value. He died in 1939 in a modest Mimico apartment he shared with his former chauffeur, and was given a full military funeral by the regiment he had devoted his life to.",
+    "source": "Dictionary of Canadian Biography / Wikipedia / Queen's Own Rifles of Canada Regimental Museum",
+    "stops": [
+      {
+        "id": "casa-loma",
+        "name": "Casa Loma",
+        "years": "Built 1911\u20131914",
+        "role": "His castle, designed by architect E.J. Lennox \u2014 now a museum and one of Toronto's top tourist attractions",
+        "lat": 43.6781104,
+        "lng": -79.4093794,
+        "address": "1 Austin Terrace, Toronto",
+        "description": "Pellatt had been fascinated by European castles since a teenage trip abroad, and sketched their towers and turrets from memory when planning his own. Casa Loma's 98 rooms included a great hall, a wood-panelled study, an 800-foot tunnel to the stables, and stables with mahogany stalls and each horse's name spelled out in 18-karat gold. The Pellatts moved in in 1913 but lived there only a decade before financial collapse forced them out in 1923; the city took it over for unpaid taxes a decade later.",
+        "images": [
+          {
+            "id": "",
+            "title": "Casa Loma from Davenport and Walmer Roads",
+            "date": "1911",
+            "location": "43.67684,-79.410361",
+            "geocode": {
+              "lat": 43.6768401,
+              "lng": -79.4103615,
+              "address": "Walmer Rd & Davenport Rd, Toronto, ON M5R, Canada",
+              "original_title": "Casa Loma from Davenport and Walmer Roads"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4094.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4094.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 4094",
+              "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+              "date": "1911",
+              "physical_desc": "1 photoprint : b&w;"
+            }
+          },
+          {
+            "id": "",
+            "title": "Sir Henry Pellatt's study, Casa Loma",
+            "date": "1913",
+            "location": "43.67811,-79.409379",
+            "geocode": {
+              "lat": 43.6781104,
+              "lng": -79.4093794,
+              "address": "",
+              "original_title": "Sir Henry Pellatt's study, Casa Loma"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4063.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4063.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 4063",
+              "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+              "date": "[ca. 1913]",
+              "physical_desc": "1 photoprint : b&w;"
+            }
+          }
+        ]
+      },
+      {
+        "id": "university-avenue-armouries",
+        "name": "University Avenue Armouries (Funeral)",
+        "years": "Military funeral, 1939",
+        "role": "Site of his full military funeral, March 1939",
+        "lat": 43.6523632,
+        "lng": -79.3867798,
+        "address": "University Ave, Toronto (since demolished)",
+        "description": "Pellatt enlisted in the Queen's Own Rifles as a private at 17 in 1876, commanded the regiment from 1901 to 1912, and was promoted to Major-General on his retirement. When he died in 1939, the regiment gave him a full military funeral at its University Avenue armoury \u2014 a fitting send-off for the man whose decades of personal spending had turned it into one of Canada's most ceremonially prominent militia regiments.",
+        "images": [
+          {
+            "id": "",
+            "title": "Sir Henry Pellatt's funeral, University Avenue Armouries",
+            "date": "1939",
+            "location": "43.652363,-79.38678",
+            "geocode": {
+              "lat": 43.6523632,
+              "lng": -79.3867798,
+              "address": "",
+              "original_title": "Sir Henry Pellatt's funeral, University Avenue Armouries"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4001.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4001.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 4001",
+              "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+              "date": "1939",
+              "physical_desc": "1 photoprint : b&w;"
+            }
+          }
+        ]
+      },
+      {
+        "id": "knox-college",
+        "name": "Knox College",
+        "years": "1912",
+        "role": "Presbyterian theological college on Spadina Avenue, photographed with Pellatt and a group",
+        "lat": 43.6596693,
+        "lng": -79.4007352,
+        "address": "59 St. George St, Toronto",
+        "description": "One of several Toronto institutions that called on Pellatt during his years as one of the city's most prominent and generous public figures.",
+        "images": [
+          {
+            "id": "",
+            "title": "Sir Henry Pellatt and group at Knox College, Spadina Avenue",
+            "date": "1912",
+            "location": "43.659669,-79.400735",
+            "geocode": {
+              "lat": 43.6596693,
+              "lng": -79.4007352,
+              "address": "",
+              "original_title": "Sir Henry Pellatt and group at Knox College, Spadina Avenue"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0878.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0878.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 878",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[between 1912 and 1918?]",
+              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm ; 1 photonegative : b&w; ; 12 x 16 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "park-lawn-cemetery",
+        "name": "Park Lawn Cemetery",
+        "years": "Buried here, 1939",
+        "role": "His final resting place, in the Forest Lawn Mausoleum below Lady Pellatt's crypt",
+        "lat": 43.6464999,
+        "lng": -79.4998378,
+        "address": "Park Lawn Rd & The Queensway, Etobicoke",
+        "description": "After his military funeral, Pellatt was interred in the Forest Lawn Mausoleum at Park Lawn Cemetery, in a crypt below that of Lady Mary Pellatt, who had died in 1924 \u2014 their resting places mirroring, in death, the public partnership that had defined Casa Loma's heyday.",
+        "images": [
+          {
+            "id": "",
+            "title": "Park Lawn Cemetery entrance",
+            "date": "1941",
+            "location": "43.6465,-79.499838",
+            "geocode": {
+              "lat": 43.6464999,
+              "lng": -79.4998378,
+              "address": "",
+              "original_title": "Park Lawn Cemetery entrance"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1568_it0460.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1568_it0460.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1568, Item 460",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[ca. 1941]",
+              "physical_desc": "1 photoprint : b&w; ; 21 x 26 cm - 1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "adam-beck": {
+    "id": "adam-beck",
+    "name": "Sir Adam Beck",
+    "years": "1857\u20131925",
+    "title": "Founder & Chairman of Ontario Hydro",
+    "icon": "\u26a1",
+    "bio": "Born in Baden, Canada West, to a German immigrant foundryman, Beck made his early fortune manufacturing cigar boxes before entering politics as mayor of London, Ontario, and an MPP. Campaigning on the slogan 'Power at Cost' and the promise that 'the poorest working man will have electric light in his home,' he convinced Premier James Whitney to create the Hydro-Electric Power Commission of Ontario in 1906, with Beck as its first and only chairman until his death. His public utility competed directly with Toronto's private power companies \u2014 including Sir Henry Pellatt's Electrical Development Company \u2014 and in the winter of 1907\u20138 Toronto voters approved by-laws to buy power from Hydro instead. A 110,000-volt transmission line from Niagara Falls to Toronto opened in 1910, and in 1920 Ontario Hydro purchased the Toronto Power Plant and Toronto Electric Light Company outright, ending the 'Hydro Wars' and Pellatt's electricity business for good. Knighted in 1914, Beck died in 1925 having built what was then the largest publicly owned power utility in the world; the Sir Adam Beck generating stations at Niagara Falls carry his name today.",
+    "source": "Dictionary of Canadian Biography / The Canadian Encyclopedia / Wikipedia",
+    "stops": [
+      {
+        "id": "inauguration-hydro-power",
+        "name": "Old City Hall",
+        "years": "1911",
+        "role": "Site of the inauguration of public hydro-electric power in Toronto",
+        "lat": 43.6535702,
+        "lng": -79.3839426,
+        "address": "60 Queen St W, Toronto",
+        "description": "After Toronto voters approved buying power from Beck's Hydro-Electric Power Commission over the private Electrical Development Company, the new 110,000-volt line from Niagara Falls reached the city in 1911 \u2014 marked here by an inauguration ceremony at City Hall, the public triumph of Beck's 'Power at Cost' campaign.",
+        "images": [
+          {
+            "id": "",
+            "title": "Inauguration of  hydro-electric power in Toronto, City Hall",
+            "date": "1911",
+            "location": "43.65357,-79.383943",
+            "geocode": {
+              "lat": 43.6535702,
+              "lng": -79.3839426,
+              "address": "",
+              "original_title": "Inauguration of  hydro-electric power in Toronto, City Hall"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0323l.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0323l.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 323L",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "May 2, 1911",
+              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. \u2014 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ontario-hydro-building",
+        "name": "Ontario Hydro Building",
+        "years": "Headquarters",
+        "role": "Head office of the utility he founded and chaired until his death",
+        "lat": 43.659884,
+        "lng": -79.390349,
+        "address": "620 University Ave, Toronto",
+        "description": "The Hydro-Electric Power Commission of Ontario \u2014 later Ontario Hydro \u2014 grew under Beck's chairmanship (1906\u20131925) into the largest publicly owned power utility in the world, eventually headquartered in this building on University Avenue.",
+        "images": [
+          {
+            "id": "",
+            "title": "Ontario Hydro Building, south-west corner of University Avenue and College Street",
+            "date": "1975",
+            "location": "43.659884,-79.390349",
+            "geocode": {
+              "lat": 43.659884,
+              "lng": -79.390349,
+              "address": "College St & University Ave, Toronto, ON M5G, Canada",
+              "original_title": "Ontario Hydro Building, south-west corner of University Avenue and College Street"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0492_it0127.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0492_it0127.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 492, Item 127",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "November 1975",
+              "physical_desc": "1 photograph : col. transparency ; 35 mm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "beck-portrait",
+        "name": "Memorial Portrait",
+        "years": "1926",
+        "role": "A portrait painted the year after his death",
+        "lat": 43.6800939,
+        "lng": -79.2969364,
+        "address": "22 Walter Ave, Toronto",
+        "description": "This portrait of Beck by artist Francis J. Hassby was made in 1926, the year after his death \u2014 part of the wave of public commemoration for a man one magazine later called 'idolized, feared and hated' but undeniably one of the most consequential figures in Ontario's history.",
+        "images": [
+          {
+            "id": "",
+            "title": "Sir Adam Beck, portrait, artist Francis J. Hassby, 22 Walter Ave",
+            "date": "1926",
+            "location": "43.680094,-79.296936",
+            "geocode": {
+              "lat": 43.6800939,
+              "lng": -79.29693639999999,
+              "address": "22 Walter St, Toronto, ON M4E 2Z1, Canada",
+              "original_title": "Sir Adam Beck, portrait, artist Francis J. Hassby, 22 Walter Ave"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it8379.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it8379.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 8379",
+              "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+              "date": "July 28, 1926",
+              "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "frederick-banting": {
+    "id": "frederick-banting",
+    "name": "Sir Frederick Banting",
+    "years": "1891\u20131941",
+    "title": "Co-discoverer of Insulin, Nobel Laureate",
+    "icon": "\ud83d\udc89",
+    "bio": "Born on a farm near Alliston, Ontario, Banting trained in medicine at the University of Toronto and served as a battlefield surgeon in the First World War, earning the Military Cross. In May 1921, working in physiologist J.J.R. Macleod's lab with medical student Charles Best, he began the experiments that isolated insulin \u2014 first successfully used to treat a diabetic patient in 1922. In 1923 Banting and Macleod shared the Nobel Prize in Physiology or Medicine, the first ever awarded to Canadians and, at 32, the youngest recipient in the category's history. Furious that Macleod rather than Best had been honoured, Banting split his prize money with Best. He became director of the new Banting and Best Department of Medical Research that year, was knighted in 1934, and continued research on problems from cancer to aviation medicine. While serving as a wartime medical liaison officer in 1941, he was killed in a plane crash in Newfoundland at age 49.",
+    "source": "Nobel Prize biographical archive / Encyclopaedia Britannica / Canadian Medical Hall of Fame",
+    "stops": [
+      {
+        "id": "medical-sciences-building",
+        "name": "Medical Sciences Building (Discovery Site)",
+        "years": "Summer 1921",
+        "role": "Site of the original Medical Building, where insulin was first extracted",
+        "lat": 43.6609326,
+        "lng": -79.3933739,
+        "address": "1 King's College Circle, Toronto",
+        "description": "In the summer of 1921, Banting and 22-year-old medical student Charles Best worked through the hot months in a small lab in the University of Toronto's Medical Building on this site, extracting insulin from the pancreatic tissue of dogs \u2014 the experiments, carried out with J.J.R. Macleod and James Collip, that led to the 1923 Nobel Prize. Two Heritage Toronto plaques nearby (one at the Banting Institute on Grenville St, one here) commemorate the discovery.",
+        "images": [
+          {
+            "id": "",
+            "title": "FitzGerald Building looking north-east to Medical Sciences Building",
+            "date": "1980",
+            "location": "43.660933,-79.393374",
+            "geocode": {
+              "lat": 43.6609326,
+              "lng": -79.3933739,
+              "address": "",
+              "original_title": "FitzGerald Building looking north-east to Medical Sciences Building"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0203_it0032.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0203_it0032.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 200, Series 1465, File 203, Item 32",
+              "condition": "OPEN - No restrictions on these government records.",
+              "date": "[between 1980 and 1998]",
+              "physical_desc": null
+            }
+          }
+        ]
+      },
+      {
+        "id": "hart-house",
+        "name": "Hart House",
+        "years": "1923",
+        "role": "Site of a dinner celebrating the Banting\u2013Macleod Nobel Prize",
+        "lat": 43.6639256,
+        "lng": -79.3944745,
+        "address": "7 Hart House Circle, Toronto",
+        "description": "Shortly after the Nobel announcement in October 1923 \u2014 news that reportedly sent an enraged Banting driving across Toronto, furious that Macleod had been honoured alongside him rather than Best \u2014 the University of Toronto marked the achievement with a dinner at Hart House.",
+        "images": [
+          {
+            "id": "",
+            "title": "Hart House dinner for Banting-MacLeod",
+            "date": "1923",
+            "location": "43.663926,-79.394475",
+            "geocode": {
+              "lat": 43.6639256,
+              "lng": -79.3944745,
+              "address": "",
+              "original_title": "Hart House dinner for Banting-MacLeod"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it1707.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it1707.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 1707",
+              "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+              "date": "November 27, 1923",
+              "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "banting-institute",
+        "name": "Banting Institute",
+        "years": "Opened 1930, demolished 2025",
+        "role": "Medical research building where he served as director until his death in 1941",
+        "lat": 43.6605821,
+        "lng": -79.3886232,
+        "address": "100 College St, Toronto",
+        "description": "Named in his honour, the Banting Institute opened on the University of Toronto's College Street medical campus in 1930, with Banting as its first director. It remained a working research facility for 75 years before closing in 2005 and being demolished in 2025.",
+        "images": [
+          {
+            "id": "",
+            "title": "Banting Institute, College Street",
+            "date": "1930",
+            "location": "43.660582,-79.388623",
+            "geocode": {
+              "lat": 43.6605821,
+              "lng": -79.3886232,
+              "address": "",
+              "original_title": "Banting Institute, College Street"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it7025.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it7025.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 7025",
+              "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+              "date": "1930",
+              "physical_desc": "1 photoprint : b&w;"
+            }
+          }
+        ]
+      },
+      {
+        "id": "best-institute",
+        "name": "Best Institute",
+        "years": "Adjacent to the Banting Institute",
+        "role": "Named for Charles Best, his undergraduate co-discoverer of insulin",
+        "lat": 43.6604615,
+        "lng": -79.3892521,
+        "address": "112 College St, Toronto",
+        "description": "Charles Best was a 22-year-old medical student when he and Banting carried out the experiments that isolated insulin in the summer of 1921. Banting split his Nobel Prize money with Best in recognition of that work; the neighbouring Best Institute carries his name.",
+        "images": [
+          {
+            "id": "",
+            "title": "Best Institute, 112 College looking west",
+            "date": "1993",
+            "location": "43.660461,-79.389252",
+            "geocode": {
+              "lat": 43.6604615,
+              "lng": -79.3892521,
+              "address": "",
+              "original_title": "Best Institute, 112 College looking west"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0179_id0070.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0179_id0070.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 200, Series 1465, File 179, Item 70",
+              "condition": "OPEN - No restrictions on these government records.",
+              "date": "1993",
+              "physical_desc": null
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "lester-pearson": {
+    "id": "lester-pearson",
+    "name": "Lester B. Pearson",
+    "years": "1897\u20131972",
+    "title": "14th Prime Minister of Canada, Nobel Peace Prize Laureate",
+    "icon": "\ud83c\udf41",
+    "bio": "Born in Newtonbrook (now part of Toronto) and raised partly in East York, Pearson served in the First World War before becoming a historian, diplomat, and politician. As Canada's Secretary of State for External Affairs from 1948 to 1957, he was a key figure in founding NATO and, during the 1956 Suez Crisis, proposed creating the United Nations Emergency Force \u2014 the first large-scale UN peacekeeping mission, a model used ever since. For this he was awarded the 1957 Nobel Peace Prize. As Prime Minister from 1963 to 1968, his minority governments introduced universal medicare, the Canada Pension Plan, and in 1965 Canada's red maple leaf flag, which he had championed despite fierce opposition.",
+    "source": "Heritage Toronto plaque (83 Bowden Street) / Nobel Prize archive / Library and Archives Canada",
+    "stops": [
+      {
+        "id": "cne-grounds-1956",
+        "name": "CNE Grounds",
+        "years": "1956",
+        "role": "Touring the Canadian National Exhibition as Secretary of State for External Affairs",
+        "lat": 43.633751,
+        "lng": -79.4192546,
+        "address": "Exhibition Place, Toronto",
+        "description": "Photographed touring the CNE with Mayor Nathan Phillips and CNE president Bill Harris in the summer of 1956 \u2014 the same year as the Suez Crisis, whose resolution through Pearson's UN Emergency Force proposal would earn him the Nobel Peace Prize the following year.",
+        "images": [
+          {
+            "id": "",
+            "title": "Lester B. Pearson address audience from CNE Bandshell",
+            "date": "1956",
+            "location": "43.633751,-79.419255",
+            "geocode": {
+              "lat": 43.633751,
+              "lng": -79.4192546,
+              "address": "",
+              "original_title": "Lester B. Pearson address audience from CNE Bandshell"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3965.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3965.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1257, Series 1057, Item 3965",
+              "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+              "date": "1956",
+              "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Bill Harris, Lester B. Pearson, Mayor Nathan Phillips, and others arriving at the CNE Bandshell escorted by Mounties",
+            "date": "1956",
+            "location": "43.633751,-79.419255",
+            "geocode": {
+              "lat": 43.633751,
+              "lng": -79.4192546,
+              "address": "",
+              "original_title": "Bill Harris, Lester B. Pearson, Mayor Nathan Phillips, and others arriving at the CNE Bandshell escorted by Mounties"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3963.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3963.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1257, Series 1057, Item 3963",
+              "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+              "date": "1956",
+              "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Bill Harris looks on as Lester B. Pearson signs the CNE's guest books in executive office",
+            "date": "1956",
+            "location": "43.633751,-79.419255",
+            "geocode": {
+              "lat": 43.633751,
+              "lng": -79.4192546,
+              "address": "",
+              "original_title": "Bill Harris looks on as Lester B. Pearson signs the CNE's guest books in executive office"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3959.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3959.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1257, Series 1057, Item 3959",
+              "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+              "date": "1956",
+              "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "timothy-eaton": {
+    "id": "timothy-eaton",
+    "name": "Timothy Eaton",
+    "years": "1834\u20131907",
+    "title": "Founder of Eaton's Department Store",
+    "icon": "\ud83d\udecd\ufe0f",
+    "bio": "Born in Ballymena, Ireland, Eaton immigrated to Ontario as a young man and, after a failed bakery venture, opened a dry-goods store at 178 Yonge Street in Toronto in 1869. He built it into Canada's largest department store chain by pioneering retail practices that were radical at the time: fixed prices with no haggling, cash only, and a money-back guarantee summed up in the store's famous slogan, 'Goods Satisfactory or Money Refunded.' From 1884, his mail-order catalogue brought big-city department-store goods to rural and Western Canadian households for the first time, reshaping how Canadians shopped for generations. He died in 1907; his widow Margaret and son Sir John Craig Eaton built the Timothy Eaton Memorial Church in his honour, and the company he founded remained a dominant force in Canadian retail until its bankruptcy in 1999.",
+    "source": "Wikipedia / Dictionary of Canadian Biography / Heritage Toronto plaque (Eaton's College Street)",
+    "stops": [
+      {
+        "id": "eatons-yonge-queen",
+        "name": "Eaton's, Yonge & Queen Streets",
+        "years": "1945",
+        "role": "The flagship store that grew from his original 1869 dry-goods shop nearby on Yonge Street",
+        "lat": 43.6524128,
+        "lng": -79.3792588,
+        "address": "Yonge St & Queen St, Toronto",
+        "description": "Eaton opened his first Toronto store at 178 Yonge Street in 1869; by the 20th century the company's flagship had grown into this Yonge and Queen Street complex, the retail heart of the empire he built.",
+        "images": [
+          {
+            "id": "",
+            "title": "Eaton's, Yonge and Queen Streets",
+            "date": "1945",
+            "location": "43.652413,-79.379259",
+            "geocode": {
+              "lat": 43.6524128,
+              "lng": -79.3792588,
+              "address": "Queen St E & Yonge St, Toronto, ON M5C, Canada",
+              "original_title": "Eaton's, Yonge and Queen Streets"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0001_id0013.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0001_id0013.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 124, File 1, Item 13",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "August 15, 1945",
+              "physical_desc": "1 transparency : col. ; 35 mm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eatons-college-street",
+        "name": "Eaton's College Street",
+        "years": "Opened 1930",
+        "role": "A later Art Deco flagship store, built two decades after his death",
+        "lat": 43.6613693,
+        "lng": -79.3830879,
+        "address": "Yonge St & College St, Toronto",
+        "description": "This Art Deco store \u2014 today College Park \u2014 opened in 1930 as the company's grand new flagship, a testament to how far the business had grown since Eaton's modest 1869 beginnings.",
+        "images": [
+          {
+            "id": "",
+            "title": "Eaton's College Street, Yonge and College streets",
+            "date": "1972",
+            "location": "43.661369,-79.383088",
+            "geocode": {
+              "lat": 43.6613693,
+              "lng": -79.38308789999999,
+              "address": "College St & Yonge St, Toronto, ON M5B, Canada",
+              "original_title": "Eaton's College Street, Yonge and College streets"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0003_id0001.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0003_id0001.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 124, File 3, Item 1",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "August, 1972",
+              "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "timothy-eaton-memorial-church",
+        "name": "Timothy Eaton Memorial Church",
+        "years": "Opened 1909\u20131915",
+        "role": "Built by his family in his memory; later the site of his son's funeral",
+        "lat": 43.6863428,
+        "lng": -79.4056085,
+        "address": "230 St Clair Ave W, Toronto",
+        "description": "After Timothy Eaton's death in 1907, his widow Margaret and son Sir John Craig Eaton donated the land and funded this Gothic Revival church in his memory, completed in 1915. In 1922, it was also the site of Sir John Craig Eaton's own funeral \u2014 he died at just 45, having expanded his father's company nationally.",
+        "images": [
+          {
+            "id": "",
+            "title": "Opening of Timothy Eaton Memorial Church",
+            "date": "1909",
+            "location": "43.686343,-79.405608",
+            "geocode": {
+              "lat": 43.6863428,
+              "lng": -79.4056085,
+              "address": "",
+              "original_title": "Opening of Timothy Eaton Memorial Church"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1679.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1679.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1679",
+              "condition": "OPEN - No restrictions on these non-government records.To preserve the original prints, researchers should consult the reference photocopies available in the Research Hall.",
+              "date": "1909",
+              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. \u2014 1 photonegative : glass, b&w; ; 8 x 11 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church",
+            "date": "1922",
+            "location": "43.686343,-79.405608",
+            "geocode": {
+              "lat": 43.6863428,
+              "lng": -79.4056085,
+              "address": "",
+              "original_title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1020.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1020.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1020",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1922",
+              "physical_desc": "2 photoprints : b&w; ; 24 x 20 cm. \u2014 1 photonegative : b&w; ; 12 x 10 cm"
+            }
+          }
+        ]
+      }
+    ]
   }
 }

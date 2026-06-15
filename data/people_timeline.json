@@ -16,7 +16,8 @@
     },
     "notable": true,
     "achievement": "Born in Suffolk, England, Thomas trained as a carpenter-joiner and builder before becoming an architect, working two decades in Leamington Spa before a building-trade depression sent him to Toronto in...",
-    "featured_id": "william-thomas"
+    "featured_id": "william-thomas",
+    "milestone": "born"
   },
   {
     "name": "John George Howard",
@@ -34,7 +35,8 @@
     },
     "notable": true,
     "achievement": "Born John Corby in Hertfordshire, England, Howard emigrated to York (Toronto) in 1832 and changed his name soon after. He became the first professional architect in Upper Canada, the city's official s...",
-    "featured_id": "howard-john-george"
+    "featured_id": "howard-john-george",
+    "milestone": "born"
   },
   {
     "name": "Frederic W. Cumberland",
@@ -53,7 +55,65 @@
     },
     "notable": true,
     "achievement": "Born in London, England, Cumberland trained as an architect through the British Admiralty's Civil Architects Department before emigrating to Toronto in 1847. In partnership first with Thomas Ridout an...",
-    "featured_id": "frederic-cumberland"
+    "featured_id": "frederic-cumberland",
+    "milestone": "born"
+  },
+  {
+    "name": "Timothy Eaton",
+    "year": 1834,
+    "deathYear": 1907,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83d\udecd\ufe0f",
+    "title": "Founder of Eaton's Department Store",
+    "lat": 43.6524128,
+    "lng": -79.3792588,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0001_id0013.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0001_id0013.jpg"
+    },
+    "notable": true,
+    "achievement": "Born in Ballymena, Ireland, Eaton immigrated to Ontario as a young man and, after a failed bakery venture, opened a dry-goods store at 178 Yonge Street in Toronto in 1869. He built it into Canada's la...",
+    "featured_id": "timothy-eaton",
+    "milestone": "born"
+  },
+  {
+    "name": "Sir Adam Beck",
+    "year": 1857,
+    "deathYear": 1925,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\u26a1",
+    "title": "Founder & Chairman of Ontario Hydro",
+    "lat": 43.6535702,
+    "lng": -79.3839426,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0323l.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0323l.jpg"
+    },
+    "notable": true,
+    "achievement": "Born in Baden, Canada West, to a German immigrant foundryman, Beck made his early fortune manufacturing cigar boxes before entering politics as mayor of London, Ontario, and an MPP. Campaigning on the...",
+    "featured_id": "adam-beck",
+    "milestone": "born"
+  },
+  {
+    "name": "Sir Henry Pellatt",
+    "year": 1859,
+    "deathYear": 1939,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83c\udff0",
+    "title": "Financier, Soldier & Builder of Casa Loma",
+    "lat": 43.6781104,
+    "lng": -79.4093794,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4094.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4094.jpg"
+    },
+    "notable": true,
+    "achievement": "Born in Kingston and raised in Toronto, Pellatt joined his father's stockbroking firm as a young man and built one of early 20th-century Canada's great fortunes \u2014 by 1901 he chaired 21 companies spann...",
+    "featured_id": "henry-pellatt",
+    "milestone": "born"
   },
   {
     "name": "Steele Bros",
@@ -81,6 +141,63 @@
       "original_title": "Drawing of Steele Bros. Building, Jarvis and Front streets"
     },
     "date": "1867"
+  },
+  {
+    "name": "John George Howard",
+    "year": 1890,
+    "birthYear": 1803,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83c\udfd8\ufe0f",
+    "title": "Colborne Lodge \u2014 His home, where he died in 1890 \u2014 now a museum",
+    "lat": 43.6403622,
+    "lng": -79.459996,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1526_fl0018_it0001.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1526_fl0018_it0001.jpg"
+    },
+    "notable": true,
+    "achievement": "Howard built Colborne Lodge on land he bought in 1836 for a sheep farm. He and his wife Jemima lived here until his death in 1890; both are buried nearby beneath a cairn he designed himself, topped wi",
+    "featured_id": "howard-john-george",
+    "milestone": "died"
+  },
+  {
+    "name": "Sir Frederick Banting",
+    "year": 1891,
+    "deathYear": 1941,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83d\udc89",
+    "title": "Co-discoverer of Insulin, Nobel Laureate",
+    "lat": 43.6609326,
+    "lng": -79.3933739,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0203_it0032.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0203_it0032.jpg"
+    },
+    "notable": true,
+    "achievement": "Born on a farm near Alliston, Ontario, Banting trained in medicine at the University of Toronto and served as a battlefield surgeon in the First World War, earning the Military Cross. In May 1921, wor...",
+    "featured_id": "frederick-banting",
+    "milestone": "born"
+  },
+  {
+    "name": "Lester B. Pearson",
+    "year": 1897,
+    "deathYear": 1972,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83c\udf41",
+    "title": "14th Prime Minister of Canada, Nobel Peace Prize Laureate",
+    "lat": 43.633751,
+    "lng": -79.4192546,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3965.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3965.jpg"
+    },
+    "notable": true,
+    "achievement": "Born in Newtonbrook (now part of Toronto) and raised partly in East York, Pearson served in the First World War before becoming a historian, diplomat, and politician. As Canada's Secretary of State fo...",
+    "featured_id": "lester-pearson",
+    "milestone": "born"
   },
   {
     "name": "Turbine Steam",
@@ -164,6 +281,55 @@
     "date": "1900"
   },
   {
+    "name": "Sir Oliver Mowat",
+    "year": 1903,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Mowat, Sir Oliver; Funeral Procession, on Yonge St., looking s. from Shuter St. ",
+    "lat": 43.6540742,
+    "lng": -79.3799578,
+    "image": {
+      "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142894/full",
+      "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142894/preview",
+      "pageUrl": "https://digitalarchive.tpl.ca/objects/7704482"
+    },
+    "archives_fields": {
+      "citation": "",
+      "condition": "",
+      "date": "1903",
+      "physical_desc": ""
+    },
+    "geocode": {
+      "lat": 43.6540742,
+      "lng": -79.3799578,
+      "address": "Shuter St & Yonge St, Toronto, ON M5B, Canada",
+      "original_title": "Mowat, Sir Oliver; Funeral Procession, on Yonge St., looking s. from Shuter St."
+    },
+    "date": "1903",
+    "notable": true,
+    "achievement": "Ontario's longest-serving Premier (1872\u20131896, 24 years) and a Father of Confederation, having helped negotiate Canada's constitutional structure at the 1864 Quebec Conference. He later served as Lieutenant Governor of Ontario (1897\u20131903). His 1903 funeral procession passed down Yonge Street."
+  },
+  {
+    "name": "Timothy Eaton",
+    "year": 1907,
+    "birthYear": 1834,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83d\udecd\ufe0f",
+    "title": "Timothy Eaton Memorial Church \u2014 Built by his family in his memory; later the site of his son's funeral",
+    "lat": 43.6863428,
+    "lng": -79.4056085,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1020.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1020.jpg"
+    },
+    "notable": true,
+    "achievement": "After Timothy Eaton's death in 1907, his widow Margaret and son Sir John Craig Eaton donated the land and funded this Gothic Revival church in his memory, completed in 1915. In 1922, it was also the s",
+    "featured_id": "timothy-eaton",
+    "milestone": "died"
+  },
+  {
     "name": "Edward Hanlan",
     "year": 1908,
     "category": "businesses",
@@ -188,7 +354,9 @@
       "address": "",
       "original_title": "Hanlan Hotel, a four storey frame building bought from Edward Hanlan by the Toronto Ferry Company, destroyed in the fire which swept Hanlan's Point on August 10, 1909"
     },
-    "date": "1908"
+    "date": "1908",
+    "notable": true,
+    "achievement": "Canada's first individual world sporting champion: a professional sculler (rower) who held the world singles rowing title from 1880 to 1884, won over 300 races, and grew up on the Toronto Island peninsula now known as Hanlan's Point. A Heritage Toronto plaque commemorates him there."
   },
   {
     "name": "Sheffield Choir",
@@ -1136,6 +1304,35 @@
     "date": "1921"
   },
   {
+    "name": "Sir John Craig Eaton",
+    "year": 1922,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church",
+    "lat": 43.6863428,
+    "lng": -79.4056085,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1020.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1020.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1244, Item 1020",
+      "condition": "OPEN - No restrictions on these non-government records.",
+      "date": "1922",
+      "physical_desc": "2 photoprints : b&w; ; 24 x 20 cm. \u2014 1 photonegative : b&w; ; 12 x 10 cm"
+    },
+    "geocode": {
+      "lat": 43.6863428,
+      "lng": -79.4056085,
+      "address": "",
+      "original_title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church"
+    },
+    "date": "1922",
+    "notable": true,
+    "achievement": "President of the T. Eaton Company (1907\u20131922), youngest son of founder Timothy Eaton. He expanded the department store chain nationally and was knighted in 1915 for his wartime contributions. His funeral, like the church itself, honoured his father's legacy \u2014 see Timothy Eaton under Featured People."
+  },
+  {
     "name": "Parkdale Collegiate",
     "year": 1923,
     "category": "businesses",
@@ -1298,6 +1495,35 @@
     "date": "1924"
   },
   {
+    "name": "Sir Edmund Walker",
+    "year": 1924,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Funeral, Edmund Walker, scene in Convocation Hall",
+    "lat": 43.6607762,
+    "lng": -79.3954452,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it2277.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it2277.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 2277",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "March 29, 1924",
+      "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+    },
+    "geocode": {
+      "lat": 43.6607762,
+      "lng": -79.3954452,
+      "address": "",
+      "original_title": "Funeral, Edmund Walker, scene in Convocation Hall"
+    },
+    "date": "1924",
+    "notable": true,
+    "achievement": "President of the Canadian Bank of Commerce (1907\u20131924) and one of Toronto's great philanthropists \u2014 founding chairman of the Royal Ontario Museum and a major benefactor of the Art Gallery of Ontario, the National Gallery of Canada, and the University of Toronto."
+  },
+  {
     "name": "Baby Point",
     "year": 1925,
     "category": "adoption-listings",
@@ -1323,6 +1549,25 @@
       "original_title": "Baby Point Rd. looking east to Jane St"
     },
     "date": "1925"
+  },
+  {
+    "name": "Sir Adam Beck",
+    "year": 1925,
+    "birthYear": 1857,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\u26a1",
+    "title": "Memorial Portrait \u2014 A portrait painted the year after his death",
+    "lat": 43.6800939,
+    "lng": -79.2969364,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it8379.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it8379.jpg"
+    },
+    "notable": true,
+    "achievement": "This portrait of Beck by artist Francis J. Hassby was made in 1926, the year after his death \u2014 part of the wave of public commemoration for a man one magazine later called 'idolized, feared and hated'",
+    "featured_id": "adam-beck",
+    "milestone": "died"
   },
   {
     "name": "Crime Commission",
@@ -1813,6 +2058,33 @@
       "lng": -79.4192546,
       "address": "",
       "original_title": "C.N.E., Men's Swim, Georges Michel being encouraged by [Lattie Schoenwall]"
+    },
+    "date": "1928"
+  },
+  {
+    "name": "Ukrainian Choir (CNE, 1928)",
+    "year": 1928,
+    "category": "performers",
+    "category_label": "CNE Music Day Performers",
+    "category_icon": "\ud83c\udfad",
+    "title": "C.N.E., Ukrainian choir going thru grounds",
+    "lat": 43.633751,
+    "lng": -79.4192546,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it14606.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it14606.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 14606",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "August 30, 1928",
+      "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+    },
+    "geocode": {
+      "lat": 43.633751,
+      "lng": -79.4192546,
+      "address": "",
+      "original_title": "C.N.E., Ukrainian choir going thru grounds"
     },
     "date": "1928"
   },
@@ -2768,6 +3040,60 @@
       "lng": -79.4192546,
       "address": "",
       "original_title": "CNE, Music Day, Airon Male Choir"
+    },
+    "date": "1929"
+  },
+  {
+    "name": "Ukrainian Choir (CNE Music Day, 1929)",
+    "year": 1929,
+    "category": "performers",
+    "category_label": "CNE Music Day Performers",
+    "category_icon": "\ud83c\udfad",
+    "title": "CNE, Music Day, Ukrainian choir",
+    "lat": 43.633751,
+    "lng": -79.4192546,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17726.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17726.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 17726",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "August 29, 1929",
+      "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+    },
+    "geocode": {
+      "lat": 43.633751,
+      "lng": -79.4192546,
+      "address": "",
+      "original_title": "CNE, Music Day, Ukrainian choir"
+    },
+    "date": "1929"
+  },
+  {
+    "name": "Frank E. Dunbar",
+    "year": 1929,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Frank E. Dunbar funeral, crowd at house, 293 Willard Ave",
+    "lat": 43.651405,
+    "lng": -79.4820888,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it16205.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it16205.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 16205",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "April 16, 1929",
+      "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+    },
+    "geocode": {
+      "lat": 43.651405,
+      "lng": -79.4820888,
+      "address": "293 Willard Ave, Toronto, ON M6S 3R1, Canada",
+      "original_title": "Frank E. Dunbar funeral, crowd at house, 293 Willard Ave"
     },
     "date": "1929"
   },
@@ -3860,6 +4186,33 @@
     "date": "1930"
   },
   {
+    "name": "Ukrainian Choir (CNE Music Day, 1930)",
+    "year": 1930,
+    "category": "performers",
+    "category_label": "CNE Music Day Performers",
+    "category_icon": "\ud83c\udfad",
+    "title": "CNE, Music Day, Ukrainian choir group",
+    "lat": 43.633751,
+    "lng": -79.4192546,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21754.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21754.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 21754",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "August 28, 1930",
+      "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+    },
+    "geocode": {
+      "lat": 43.633751,
+      "lng": -79.4192546,
+      "address": "",
+      "original_title": "CNE, Music Day, Ukrainian choir group"
+    },
+    "date": "1930"
+  },
+  {
     "name": "Sonja Henie",
     "year": 1930,
     "category": "hockey",
@@ -3887,6 +4240,60 @@
     "date": "1930",
     "notable": true,
     "achievement": "Three-time Olympic gold medalist figure skater (1928, 1932, 1936) and one of the highest-paid Hollywood stars of the late 1930s, who helped popularize figure skating as entertainment."
+  },
+  {
+    "name": "John Dunn",
+    "year": 1930,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Ex-Alderman John Dunn funeral, 110 Givins Street",
+    "lat": 43.6480278,
+    "lng": -79.4191709,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it22617.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it22617.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 22617",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "November 25, 1930",
+      "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+    },
+    "geocode": {
+      "lat": 43.6480278,
+      "lng": -79.4191709,
+      "address": "110 Givins St, Toronto, ON M6J 2X9, Canada",
+      "original_title": "Ex-Alderman John Dunn funeral, 110 Givins Street"
+    },
+    "date": "1930"
+  },
+  {
+    "name": "Constable Roy McQuillin",
+    "year": 1930,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "[Constable Roy] McQuillin funeral, line waiting to enter house, 27 McGregor Avenue",
+    "lat": 43.7446681,
+    "lng": -79.281115,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it22738.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it22738.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 22738",
+      "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+      "date": "December 15, 1930",
+      "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+    },
+    "geocode": {
+      "lat": 43.7446681,
+      "lng": -79.281115,
+      "address": "27 McGregor Rd, Scarborough, ON M1P 1C9, Canada",
+      "original_title": "[Constable Roy] McQuillin funeral, line waiting to enter house, 27 McGregor Avenue"
+    },
+    "date": "1930"
   },
   {
     "name": "Orange Celebrations",
@@ -4157,6 +4564,54 @@
       "original_title": "Billie Hallam, Miss Toronto 1937, signing document (at Police Headquarters)"
     },
     "date": "1937"
+  },
+  {
+    "name": "Sir Henry Pellatt",
+    "year": 1939,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Sir Henry Pellatt's funeral, University Avenue Armouries",
+    "lat": 43.6523632,
+    "lng": -79.3867798,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4001.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4001.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1244, Item 4001",
+      "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+      "date": "1939",
+      "physical_desc": "1 photoprint : b&w;"
+    },
+    "geocode": {
+      "lat": 43.6523632,
+      "lng": -79.3867798,
+      "address": "",
+      "original_title": "Sir Henry Pellatt's funeral, University Avenue Armouries"
+    },
+    "date": "1939",
+    "notable": true,
+    "achievement": "Financier and longtime commander of the Queen's Own Rifles, who built Casa Loma \u2014 see his full itinerary under Featured People."
+  },
+  {
+    "name": "Sir Henry Pellatt",
+    "year": 1939,
+    "birthYear": 1859,
+    "category": "featured",
+    "category_label": "Featured People",
+    "category_icon": "\ud83c\udff0",
+    "title": "University Avenue Armouries (Funeral) \u2014 Site of his full military funeral, March 1939",
+    "lat": 43.6523632,
+    "lng": -79.3867798,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4001.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4001.jpg"
+    },
+    "notable": true,
+    "achievement": "Pellatt enlisted in the Queen's Own Rifles as a private at 17 in 1876, commanded the regiment from 1901 to 1912, and was promoted to Major-General on his retirement. When he died in 1939, the regiment",
+    "featured_id": "henry-pellatt",
+    "milestone": "died"
   },
   {
     "name": "Trees Society",
@@ -4767,6 +5222,33 @@
       "lng": -79.3792588,
       "address": "Queen St W & Yonge St, Toronto, ON M5C, Canada",
       "original_title": "Robert Simpson store, south-west corner of Queen and Yonge streets, decorated for coronation of Queen Elizabeth II"
+    },
+    "date": "1953"
+  },
+  {
+    "name": "Joseph Stalin (memorial service)",
+    "year": 1953,
+    "category": "weddings-funerals",
+    "category_label": "Weddings & Funerals",
+    "category_icon": "\ud83d\udd4a\ufe0f",
+    "title": "Joseph Stalin memorial service at Massey Hall, Toronto general view",
+    "lat": 43.6539659,
+    "lng": -79.3789814,
+    "image": {
+      "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it150297.jpg",
+      "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it150297.jpg"
+    },
+    "archives_fields": {
+      "citation": "Fonds 1266, Item 150297",
+      "condition": "OPEN - No restrictions on these non-government records.",
+      "date": "March 9, 1953",
+      "physical_desc": "1 photonegatve : nitrate ; 13 x 18 cm"
+    },
+    "geocode": {
+      "lat": 43.6539659,
+      "lng": -79.3789814,
+      "address": "",
+      "original_title": "Joseph Stalin memorial service at Massey Hall, Toronto general view"
     },
     "date": "1953"
   },
@@ -6537,7 +7019,9 @@
       "address": "10 King's College Rd, Toronto, ON M5S 3G8, Canada",
       "original_title": "Sandford Fleming Building, 10 King's College Road"
     },
-    "date": "1980"
+    "date": "1980",
+    "notable": true,
+    "achievement": "Scottish-Canadian engineer and inventor best known for proposing worldwide standard time zones, designed Canada's first postage stamp (the Threepenny Beaver), and served as chief engineer of the Intercolonial and Canadian Pacific Railways. A Heritage Toronto plaque at University College commemorates him."
   },
   {
     "name": "Student Residence",
