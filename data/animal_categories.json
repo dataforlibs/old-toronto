@@ -1,0 +1,3883 @@
+{
+  "metro-zoo": {
+    "label": "Metro Zoo Menagerie",
+    "icon": "\ud83e\udd81",
+    "note": "Animals photographed at the Metro Toronto Zoo (opened 1974 in Scarborough) between 1975 and 1989, in the early years of its pioneering open-concept, geographically-grouped exhibits.",
+    "animals": [
+      {
+        "id": "",
+        "title": "Alligator, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Alligator, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0002.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0002.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 2",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Alligator",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Antelope, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Antelope, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0030.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0030.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 30",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Antelope",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Asian tapir, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Asian tapir, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0055.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0055.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 55",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Asian tapir",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Baboon, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Baboon, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0041.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0041.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 41",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Baboon",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Beaver, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Beaver, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0015.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0015.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 15",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Beaver",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Buffalo, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Buffalo, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0083.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0083.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 83",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Buffalo",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Camel ride, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Camel ride, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0069.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0069.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 69",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Camel ride",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Camel, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Camel, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0027.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0027.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 27",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Camel",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Camel, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Camel, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0028.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0028.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 28",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Camel",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Chinese leopard, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Chinese leopard, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0025.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0025.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 25",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Chinese leopard",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Chinese leopard, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Chinese leopard, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0026.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0026.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 26",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Chinese leopard",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Chinese leopard, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Chinese leopard, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0024.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0024.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 24",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Chinese leopard",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Crocodile, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Crocodile, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0067.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0067.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 67",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Crocodile",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Ducks, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Ducks, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0065.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0065.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 65",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Ducks",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephant jockey, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephant jockey, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0011.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0011.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 11",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephant jockey",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Elephant rides were a popular Zoo attraction in its early decades, before changing attitudes about animal welfare led most zoos to discontinue the practice."
+      },
+      {
+        "id": "",
+        "title": "Elephant jockey, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephant jockey, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0012.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0012.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 12",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephant jockey",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Elephant rides were a popular Zoo attraction in its early decades, before changing attitudes about animal welfare led most zoos to discontinue the practice."
+      },
+      {
+        "id": "",
+        "title": "Elephant, Metro Toronto Zoo",
+        "date": "1982",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephant, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0052.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0052.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 52",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July, 1982",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Elephant",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0045.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0045.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 45",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0034.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0034.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 34",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0043.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0043.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 43",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0009.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0009.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 9",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0008.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0008.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 8",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1989",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0092.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0092.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 92",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "August 23, 1989",
+          "physical_desc": "1 transparency : col. slide ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0042.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0042.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 42",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0010.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0010.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 10",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1989",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0093.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0093.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 93",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "August 23, 1989",
+          "physical_desc": "1 transparency : col. slide ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0044.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0044.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 44",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Elephants, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0033.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0033.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 33",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Female orangutan, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Female orangutan, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0066.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0066.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 66",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Female orangutan",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Flamingo, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Flamingo, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0019.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0019.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 19",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Flamingo",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Flamingo, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Flamingo, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0018.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0018.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 18",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Flamingo",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Gibbon, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Gibbon, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0004.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0004.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 4",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Gibbon",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Gibbons, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Gibbons, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0003.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0003.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 3",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Gibbons",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Hippopotami, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Hippopotami, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0007.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0007.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 7",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Hippopotami",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Hippopotamus, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Hippopotamus, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0082.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0082.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 82",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Hippopotamus",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Hippopotamus, Metro Toronto Zoo",
+        "date": "1982",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Hippopotamus, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0051.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0051.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 51",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July, 1982",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Hippopotamus",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Ibex, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Ibex, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0079.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0079.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 79",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Ibex",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Ibex, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Ibex, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0080.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0080.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 80",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Ibex",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Iguana, Metro Toronto Zoo",
+        "date": "1982",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Iguana, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0049.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0049.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 49",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July, 1982",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Iguana",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Indian elephants, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Indian elephants, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0059.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0059.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 59",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Indian elephants",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Indian rhino, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Indian rhino, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0056.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0056.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 56",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Indian rhino",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Indian rhono, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Indian rhono, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0054.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0054.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 54",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Indian rhino",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Japanese macaques, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Japanese macaques, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0031.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0031.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 31",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Japanese macaques",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Lemurs, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Lemurs, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0036.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0036.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 36",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Lemurs",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Lemurs, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Lemurs, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0035.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0035.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 35",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Lemurs",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Lioness, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Lioness, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0063.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0063.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 63",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Lioness",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Lions, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Lions, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0062.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0062.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 62",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Lions",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Llama, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Llama, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0021.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0021.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 21",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Llama",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Mandrill, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Mandrill, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0040.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0040.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 40",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Mandrill",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Mandrill, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Mandrill, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0039.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0039.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 39",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Mandrill",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Mandrills, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Mandrills, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0038.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0038.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 38",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Mandrills",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Marmats, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Marmats, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0061.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0061.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 61",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Marmots",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Monkeys, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Monkeys, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0046.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0046.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 46",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Monkeys",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Monkeys, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Monkeys, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0037.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0037.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 37",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Monkeys",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Mountain goats, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Mountain goats, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0032.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0032.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 32",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Mountain goats",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Nesting swan, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Nesting swan, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0029.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0029.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 29",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Nesting swan",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Oryx, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Oryx, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0005.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0005.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 5",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Oryx",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Pandas, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pandas, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0072.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0072.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 72",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pandas",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Giant pandas have visited the Toronto Zoo on loan from China on several occasions, always among its most popular attractions."
+      },
+      {
+        "id": "",
+        "title": "Pandas, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pandas, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0073.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0073.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 73",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pandas",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Giant pandas have visited the Toronto Zoo on loan from China on several occasions, always among its most popular attractions."
+      },
+      {
+        "id": "",
+        "title": "Pandas, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pandas, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0074.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0074.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 74",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pandas",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Giant pandas have visited the Toronto Zoo on loan from China on several occasions, always among its most popular attractions."
+      },
+      {
+        "id": "",
+        "title": "Pandas, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pandas, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0076.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0076.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 76",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pandas",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Giant pandas have visited the Toronto Zoo on loan from China on several occasions, always among its most popular attractions."
+      },
+      {
+        "id": "",
+        "title": "Pandas, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pandas, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0075.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0075.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 75",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pandas",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Giant pandas have visited the Toronto Zoo on loan from China on several occasions, always among its most popular attractions."
+      },
+      {
+        "id": "",
+        "title": "Pandas, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pandas, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0071.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0071.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 71",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pandas",
+        "lat": 43.8198517,
+        "lng": -79.1853386,
+        "notable": true,
+        "achievement": "Giant pandas have visited the Toronto Zoo on loan from China on several occasions, always among its most popular attractions."
+      },
+      {
+        "id": "",
+        "title": "Parrot, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Parrot, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0077.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0077.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 77",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Parrot",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Pelican, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Pelican, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0078.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0078.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 78",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Pelican",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Penguins, Metro Toronto Zoo",
+        "date": "1981",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Penguins, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0047.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0047.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 47",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July 5, 1981",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Penguins",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Penguins, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Penguins, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0057.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0057.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 57",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Penguins",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Penguins, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Penguins, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0058.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0058.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 58",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Penguins",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Polar bear, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Polar bear, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0020.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0020.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 20",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Polar bear",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Prairie dog, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Prairie dog, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0064.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0064.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 64",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Prairie dog",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Rhinoceros, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Rhinoceros, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0084.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0084.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 84",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Rhinoceros",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Seal, Metro Toronto Zoo",
+        "date": "1982",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Seal, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0050.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0050.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 50",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "July, 1982",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Seal",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Skunks, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Skunks, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0081.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0081.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 81",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "October 28, 1985",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Skunks",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Swans, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Swans, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0017.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0017.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 17",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Swans",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Tiger, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Tiger, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0022.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0022.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 22",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Tiger",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Tiger, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Tiger, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0023.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0023.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 23",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Tiger",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Water buffalo, Metro Toronto Zoo",
+        "date": "1975",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Water buffalo, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0013.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0013.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 13",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May, 1975",
+          "physical_desc": "1 transparency : col. slide, diapositive (Kodachrome) ; 35 mm"
+        },
+        "name": "Water buffalo",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      },
+      {
+        "id": "",
+        "title": "Zebras, Metro Toronto Zoo",
+        "date": "1985",
+        "location": "43.819852,-79.185339",
+        "geocode": {
+          "lat": 43.8198517,
+          "lng": -79.1853386,
+          "address": "",
+          "original_title": "Zebras, Metro Toronto Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0124_fl0004_id0060.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0124_fl0004_id0060.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 124, File 4, Item 60",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "March 11, 1985",
+          "physical_desc": "1 transparency : col., slide ; 35 mm"
+        },
+        "name": "Zebras",
+        "lat": 43.8198517,
+        "lng": -79.1853386
+      }
+    ]
+  },
+  "riverdale-zoo": {
+    "label": "Riverdale Park Zoo",
+    "icon": "\ud83d\udc3b",
+    "note": "Riverdale Park Zoo (1888\u20131974) was Toronto's first municipal zoo, predating the Metro Toronto Zoo by nearly a century. Its animals were relocated when the Metro Zoo opened in 1974.",
+    "animals": [
+      {
+        "id": "",
+        "title": "Riverdale Park Zoo \u2014 young herring gulls",
+        "date": "1926",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park Zoo \u2014 young herring gulls"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0052_it1274.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0052_it1274.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 52, Item 1274",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 28, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Young herring gulls",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "",
+        "title": "Riverdale Park \u2014 polar bear cage",
+        "date": "1941",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park \u2014 polar bear cage"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0052_it2077.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0052_it2077.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 52, Item 2077",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "January 3, 1941",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Polar bear",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "",
+        "title": "Riverdale Park \u2014 Pelican",
+        "date": "1915",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park \u2014 Pelican"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0052_it0509.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0052_it0509.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 52, Item 509",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "May 22, 1915",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Pelican",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "",
+        "title": "Riverdale Park Zoo \u2014 elephant",
+        "date": "1926",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park Zoo \u2014 elephant"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0052_it1273.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0052_it1273.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 52, Item 1273",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 28, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Elephant",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "",
+        "title": "Riverdale Park Zoo \u2014 Black backed gulls",
+        "date": "1926",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park Zoo \u2014 Black backed gulls"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0052_it1276.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0052_it1276.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 52, Item 1276",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 28, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Black-backed gulls",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "",
+        "title": "Riverdale Park Zoo \u2014 Canada Geese & young",
+        "date": "1926",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park Zoo \u2014 Canada Geese & young"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0372_ss0052_it1275.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0372_ss0052_it1275.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 372, Subseries 52, Item 1275",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 28, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Canada geese & young",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7701139",
+        "title": "Riverdale Park; Zoo, monkey pens. ",
+        "date": "1952",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, monkey pens."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136858/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136858/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7701139"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1952",
+          "physical_desc": ""
+        },
+        "name": "Monkey pens",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7701129",
+        "title": "Riverdale Park; Zoo, pelican (horned). ",
+        "date": "1952",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, pelican (horned)."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136838/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136838/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7701129"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1952",
+          "physical_desc": ""
+        },
+        "name": "Pelican (horned)",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7701130",
+        "title": "Riverdale Park; Zoo, wolf. ",
+        "date": "1952",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, wolf."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136840/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136840/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7701130"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1952",
+          "physical_desc": ""
+        },
+        "name": "Wolf",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7702245",
+        "title": "Riverdale Park; Zoo, puma. ",
+        "date": "1955",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, puma."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139156/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139156/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7702245"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        },
+        "name": "Puma",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7704458",
+        "title": "Riverdale Park; Zoo, foxes. ",
+        "date": "1900",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, foxes."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142842/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142842/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7704458"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1900",
+          "physical_desc": ""
+        },
+        "name": "Foxes",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7701131",
+        "title": "Riverdale Park; Zoo, lion. ",
+        "date": "1952",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, lion."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136842/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2136842/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7701131"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1952",
+          "physical_desc": ""
+        },
+        "name": "Lion",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7702240",
+        "title": "Riverdale Park; Zoo, bear (kodiak). ",
+        "date": "1955",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, bear (kodiak)."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139146/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139146/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7702240"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        },
+        "name": "Bear (kodiak)",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7702243",
+        "title": "Riverdale Park; Zoo, swans. ",
+        "date": "1955",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, swans."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139152/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139152/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7702243"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        },
+        "name": "Swans",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7702241",
+        "title": "Riverdale Park; Zoo, bear (brown). ",
+        "date": "1955",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, bear (brown)."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139148/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139148/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7702241"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        },
+        "name": "Bear (brown)",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      },
+      {
+        "id": "7702238",
+        "title": "Riverdale Park; Zoo, llama. ",
+        "date": "1955",
+        "location": "43.669955,-79.356347",
+        "geocode": {
+          "lat": 43.6699553,
+          "lng": -79.3563469,
+          "address": "",
+          "original_title": "Riverdale Park; Zoo, llama."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139142/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2139142/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7702238"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1955",
+          "physical_desc": ""
+        },
+        "name": "Llama",
+        "lat": 43.6699553,
+        "lng": -79.3563469
+      }
+    ]
+  },
+  "high-park-zoo": {
+    "label": "High Park Zoo",
+    "icon": "\ud83e\udd8c",
+    "note": "High Park has hosted a small free zoo since the early 1900s, historically home to bison, deer, and other hoofed animals \u2014 still operating today as a tiny, beloved city-park zoo.",
+    "animals": [
+      {
+        "id": "",
+        "title": "Bactrian camel, High Park Zoo",
+        "date": "1950",
+        "location": "43.643565,-79.462698",
+        "geocode": {
+          "lat": 43.6435651,
+          "lng": -79.4626984,
+          "address": "",
+          "original_title": "Bactrian camel, High Park Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0492_it0184.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0492_it0184.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 492, Item 184",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 1950 and 1969]",
+          "physical_desc": "1 photograph : col. transparency ; 35 mm"
+        },
+        "name": "Bactrian camel",
+        "lat": 43.6435651,
+        "lng": -79.4626984
+      },
+      {
+        "id": "",
+        "title": "Buffalo, High Park Zoo",
+        "date": "1926",
+        "location": "43.643565,-79.462698",
+        "geocode": {
+          "lat": 43.6435651,
+          "lng": -79.4626984,
+          "address": "",
+          "original_title": "Buffalo, High Park Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0530.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0530.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 530",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May 26, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Buffalo",
+        "lat": 43.6435651,
+        "lng": -79.4626984
+      },
+      {
+        "id": "",
+        "title": "High Park Zoo, black stork",
+        "date": "1929",
+        "location": "43.643565,-79.462698",
+        "geocode": {
+          "lat": 43.6435651,
+          "lng": -79.4626984,
+          "address": "",
+          "original_title": "High Park Zoo, black stork"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0470.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0470.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 470",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "September 24, 1929",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "High Park Zoo",
+        "lat": 43.6435651,
+        "lng": -79.4626984
+      },
+      {
+        "id": "",
+        "title": "High Park zoo",
+        "date": "1908",
+        "location": "43.643565,-79.462698",
+        "geocode": {
+          "lat": 43.6435651,
+          "lng": -79.4626984,
+          "address": "",
+          "original_title": "High Park zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1557.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1557.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 1557",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original prints, researchers should consult the reference photocopies available in the Research Hall.",
+          "date": "[1908?]",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 16 cm. \u2014 1 photonegative : b&w; ; 10 x 12 cm"
+        },
+        "name": "High Park Zoo",
+        "lat": 43.6435651,
+        "lng": -79.4626984
+      },
+      {
+        "id": "",
+        "title": "Hog Deer Fawn (24 hours old) High Park Zoo",
+        "date": "1926",
+        "location": "43.643565,-79.462698",
+        "geocode": {
+          "lat": 43.6435651,
+          "lng": -79.4626984,
+          "address": "",
+          "original_title": "Hog Deer Fawn (24 hours old) High Park Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0531.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0531.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 531",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "May 26, 1926",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Hog Deer Fawn (24 hours old)",
+        "lat": 43.6435651,
+        "lng": -79.4626984
+      },
+      {
+        "id": "",
+        "title": "Peacock, High Park Zoo",
+        "date": "1926",
+        "location": "43.643565,-79.462698",
+        "geocode": {
+          "lat": 43.6435651,
+          "lng": -79.4626984,
+          "address": "",
+          "original_title": "Peacock, High Park Zoo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it0561.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it0561.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1231, Item 561",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "June 11, 1926",
+          "physical_desc": "1 photonegative : b&w; ; 13 x 18 cm"
+        },
+        "name": "Peacock",
+        "lat": 43.6435651,
+        "lng": -79.4626984
+      }
+    ]
+  },
+  "cne-champions": {
+    "label": "CNE Champions",
+    "icon": "\ud83c\udfc6",
+    "note": "Prize-winning cats, dogs, ponies, and livestock from the CNE's annual shows (late 1920s\u20131930s) \u2014 each with its show name and, often, its owner's name proudly recorded.",
+    "animals": [
+      {
+        "id": "",
+        "title": "CNE, Holland Magnit, J. Franceschini, Toronto, Grand Champion, Hackney pony",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, Holland Magnit, J. Franceschini, Toronto, Grand Champion, Hackney pony"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21893.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21893.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21893",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 5, 1930",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Holland Magnit",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, Mrs. James Franceschini and pony Highland Cora",
+        "date": "1939",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, Mrs. James Franceschini and pony Highland Cora"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it60610.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it60610.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 60610",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 8, 1939",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10.5 x 8 cm"
+        },
+        "name": "Highland Cora",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, Pal O'Mine, J. Franceschini, Toronto, Grand Champion, Hackney harness pony",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, Pal O'Mine, J. Franceschini, Toronto, Grand Champion, Hackney harness pony"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21894.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21894.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21894",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 5, 1930",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Pal O'Mine",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, Whitegate Smile, G.A.N., Dovedrow, Unionville, Reserve Grand Champion, Hackney pony",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, Whitegate Smile, G.A.N., Dovedrow, Unionville, Reserve Grand Champion, Hackney pony"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21892.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21892.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21892",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 5, 1930",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Whitegate Smile",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Bunny Findlay, Mrs. Bessie Fischer, Detroit",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Bunny Findlay, Mrs. Bessie Fischer, Detroit"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17677.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17677.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17677",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 27, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Bunny Findlay",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Canadian Beauty, Mrs. A. Bruckner",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Canadian Beauty, Mrs. A. Bruckner"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21701.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21701.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21701",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 26, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Canadian Beauty",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Champion Lady Wonder Gal, Mrs. E.G. Fessenden, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Champion Lady Wonder Gal, Mrs. E.G. Fessenden, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21700.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21700.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21700",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 26, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Champion Lady Wonder Gal",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Duke, Mrs. Roberta Ford, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Duke, Mrs. Roberta Ford, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21702.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21702.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21702",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 26, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Duke",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Paddy, Mrs. Robert Huckle, Toronto",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Paddy, Mrs. Robert Huckle, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17674.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17674.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17674",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 27, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Paddy",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Prince Snowball, Mrs. Amy Hall, Toronto",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Prince Snowball, Mrs. Amy Hall, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17681.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17681.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17681",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 27, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Prince Snowball",
+        "lat": 43.633751,
+        "lng": -79.4192546,
+        "notable": true,
+        "achievement": "A prize-winning cat shown by Mrs. Amy Hall of Toronto at the CNE cat show \u2014 one of many pampered pedigree pets that competed for ribbons at the Exhibition each year."
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Snow-Boy of Crystal, Mrs. J. Spielman, buffalo",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Snow-Boy of Crystal, Mrs. J. Spielman, buffalo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21703.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21703.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21703",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 26, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Snow-Boy of Crystal",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Ulrice of Collodine, Mrs. E.G. F[illegible], Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Ulrice of Collodine, Mrs. E.G. F[illegible], Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21699.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21699.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21699",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 26, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Ulrice of Collodine",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, Wasco, Mrs. P.C. Cripps, Buffalo",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, Wasco, Mrs. P.C. Cripps, Buffalo"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17676.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17676.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17676",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 27, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Wasco",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, [Kiniemuir] Robin, Miss H.M. Elliot, Toronto",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, [Kiniemuir] Robin, Miss H.M. Elliot, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17679.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17679.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17679",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 27, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "[Kiniemuir] Robin",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, cat show, [Nmask], John Gibson, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, cat show, [Nmask], John Gibson, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21704.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21704.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21704",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "August 26, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "[Nmask]",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Champion Naumi-K, Great Dane, T.C. Hopkins, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Champion Naumi-K, Great Dane, T.C. Hopkins, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21823.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21823.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21823",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Champion Naumi-K",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Champion Vermont Park Leader, beagle, Emerson Robertson, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Champion Vermont Park Leader, beagle, Emerson Robertson, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21827.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21827.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21827",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Champion Vermont Park Leader",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Headingsley Sweetheart, rough collie, Alex. Donaldson, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Headingsley Sweetheart, rough collie, Alex. Donaldson, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21826.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21826.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21826",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Headingsley Sweetheart",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Hormig's Hoary Boy, Boston Bull, Mrs. Edna Hormig, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Hormig's Hoary Boy, Boston Bull, Mrs. Edna Hormig, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21819.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21819.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21819",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Hormig's Hoary Boy",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Hormig's Hoary Boy, Mrs. Edna Hormig, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Hormig's Hoary Boy, Mrs. Edna Hormig, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21818.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21818.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21818",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Hormig's Hoary Boy",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Nickoli of Hortoff, Russian wolfhound, Mrs. John Nicol, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Nickoli of Hortoff, Russian wolfhound, Mrs. John Nicol, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21821.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21821.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21821",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Nickoli of Hortoff",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Rex, Shetland sheepdog, Dr. H.A. Hession, Toronto",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Rex, Shetland sheepdog, Dr. H.A. Hession, Toronto"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21824.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21824.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21824",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Rex",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, dog show, Snowball, English sheepdog, F.T. James, Lambton Mills",
+        "date": "1930",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, dog show, Snowball, English sheepdog, F.T. James, Lambton Mills"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it21820.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it21820.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 21820",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 1, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Snowball",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, livestock, Alfalfa Bank Kate IV, Collwer Brothers, Wellandport",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, livestock, Alfalfa Bank Kate IV, Collwer Brothers, Wellandport"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17824.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17824.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17824",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 3, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Alfalfa Bank Kate IV",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, livestock, Bonnie Gay Led, O'Neil Brothers, Denfield",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, livestock, Bonnie Gay Led, O'Neil Brothers, Denfield"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17829.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17829.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17829",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 3, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Bonnie Gay Led",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, livestock, Debora Pluto, J. Walter Jones, Charlottetown, Prince Edward Island",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, livestock, Debora Pluto, J. Walter Jones, Charlottetown, Prince Edward Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17831.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17831.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17831",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 3, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Debora Pluto",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, livestock, Edellyn Farroute, Colonel F.H. Dascon, Unionville",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, livestock, Edellyn Farroute, Colonel F.H. Dascon, Unionville"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17827.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17827.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17827",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 3, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Edellyn Farroute",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      },
+      {
+        "id": "",
+        "title": "CNE, livestock, Kask Rochard, J. Walter Jones, Charlottetown, Prince Edward Island",
+        "date": "1929",
+        "location": "43.633751,-79.419255",
+        "geocode": {
+          "lat": 43.633751,
+          "lng": -79.4192546,
+          "address": "",
+          "original_title": "CNE, livestock, Kask Rochard, J. Walter Jones, Charlottetown, Prince Edward Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17832.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17832.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17832",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "September 3, 1929",
+          "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+        },
+        "name": "Kask Rochard",
+        "lat": 43.633751,
+        "lng": -79.4192546
+      }
+    ]
+  },
+  "ducks-birds": {
+    "label": "Grenadier Pond & Birdlife",
+    "icon": "\ud83e\udd86",
+    "note": "Ducks, geese, gulls, and other birdlife around Grenadier Pond (High Park), Centre Island, and the Toronto Islands \u2014 plus a 1950 bird-banding research session on the Islands.",
+    "animals": [
+      {
+        "id": "",
+        "title": "Bird banding, Toronto Island",
+        "date": "1950",
+        "location": "43.626657,-79.394677",
+        "geocode": {
+          "lat": 43.6266572,
+          "lng": -79.3946772,
+          "address": "",
+          "original_title": "Bird banding, Toronto Island"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f0492_it0050.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f0492_it0050.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 492, Item 50",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 1950 and 1969]",
+          "physical_desc": "1 photograph : col. transparency ; 35 mm"
+        },
+        "name": "Bird banding, Toronto Island",
+        "lat": 43.6266572,
+        "lng": -79.3946772
+      },
+      {
+        "id": "",
+        "title": "Canada geese on Grenadier Pond",
+        "date": "1987",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Canada geese on Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s1465_fl0572_it0012.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s1465_fl0572_it0012.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 200, Series 1465, File 572, Item 12",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "[between 1987 and 1995]",
+          "physical_desc": null
+        },
+        "name": "Canada geese",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Canada goose in reeds on Grenadier Pond",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Canada goose in reeds on Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0069.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0069.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 69",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 366 KB, 72 dpi"
+        },
+        "name": "Canada goose in reeds",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Duck near reeds on Grenadier Pond",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Duck near reeds on Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0002.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0002.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 2",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 353 KB, 72 dpi"
+        },
+        "name": "Duck near reeds",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Duck on fallen tree in Grenadier Pond",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Duck on fallen tree in Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0051.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0051.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 51",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 395 KB, 72 dpi"
+        },
+        "name": "Duck on fallen tree",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Ducks and swans on Grenadier Pond",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Ducks and swans on Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0182.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0182.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 182",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 464 KB, 72 dpi"
+        },
+        "name": "Ducks and swans",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Ducks diving in Grenadier Pond",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Ducks diving in Grenadier Pond"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0180.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0180.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 180",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 387 KB, 72 dpi"
+        },
+        "name": "Ducks diving",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Ducks on High Park stream in winter",
+        "date": "2008",
+        "location": "43.646234,-79.462714",
+        "geocode": {
+          "lat": 43.6462345,
+          "lng": -79.46271369999994,
+          "address": "",
+          "original_title": "Ducks on High Park stream in winter"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0136.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0136.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 136",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 450 KB, 72 dpi"
+        },
+        "name": "Ducks on High Park stream in winter",
+        "lat": 43.6462345,
+        "lng": -79.46271369999994
+      },
+      {
+        "id": "",
+        "title": "Bird on fallen tree on Grenadier Pond shoreline",
+        "date": "2008",
+        "location": "43.643415,-79.466631",
+        "geocode": {
+          "lat": 43.6434152,
+          "lng": -79.466631,
+          "address": "",
+          "original_title": "Bird on fallen tree on Grenadier Pond shoreline"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s2198_it0047.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s2198_it0047.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 287, Series 2198, Item 47",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "[between 2008 and 2013]",
+          "physical_desc": "1 photograph (jpg) : col. ; 587 KB, 72 dpi"
+        },
+        "name": "Bird on fallen tree",
+        "lat": 43.6434152,
+        "lng": -79.466631
+      },
+      {
+        "id": "",
+        "title": "Duck pond, Centre Island, (Commercial Department)",
+        "date": "1927",
+        "location": "43.620823,-79.378091",
+        "geocode": {
+          "lat": 43.620823,
+          "lng": -79.3780909,
+          "address": "",
+          "original_title": "Duck pond, Centre Island, (Commercial Department)"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0071_it4943.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0071_it4943.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 16, Series 71, Item 4943",
+          "condition": "OPEN - No restrictions on these government records.",
+          "date": "June 1, 1927",
+          "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm\n1 photonegative : glass, b&w; ; 13 x 18 cm"
+        },
+        "name": "Duck pond, Centre Island",
+        "lat": 43.620823,
+        "lng": -79.3780909
+      }
+    ]
+  },
+  "horses-city": {
+    "label": "Horses of the City",
+    "icon": "\ud83d\udc0e",
+    "note": "Before cars, horses powered Toronto's daily life \u2014 fire reels, ice-delivery wagons, ceremonial parades, and even a heroic rescue. \u2b50 marks Jennie Wilson, who saved eight horses from a burning stable.",
+    "animals": [
+      {
+        "id": "",
+        "title": "Horse-drawn fire reel, Bloor Street at Queen's Park Crescent",
+        "date": "1912",
+        "location": "43.6687,-79.394126",
+        "geocode": {
+          "lat": 43.6687003,
+          "lng": -79.39412639999999,
+          "address": "Queens Park & Bloor St W, Toronto, ON M5S, Canada",
+          "original_title": "Horse-drawn fire reel, Bloor Street at Queen's Park Crescent"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1382.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1382.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 1382",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original prints, researchers should consult the reference photocopies available in the Research Hall.",
+          "date": "[1912?]",
+          "physical_desc": "1 photoprint : b&w; ; 12 x 16 cm. \u2014 1 photonegative : b&w; ; 10 x 12 cm"
+        },
+        "name": "Horse-drawn fire reel",
+        "lat": 43.6687003,
+        "lng": -79.39412639999999
+      },
+      {
+        "id": "",
+        "title": "Jennie Wilson, 17 Cumberland St, saved 8 horses from fire",
+        "date": "1926",
+        "location": "43.6709,-79.387525",
+        "geocode": {
+          "lat": 43.6709001,
+          "lng": -79.38752490000002,
+          "address": "17 Cumberland St, Toronto, ON M4W, Canada",
+          "original_title": "Jennie Wilson, 17 Cumberland St, saved 8 horses from fire"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it7952.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it7952.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 7952",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "June 4, 1926",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Jennie Wilson",
+        "lat": 43.6709001,
+        "lng": -79.38752490000002,
+        "notable": true,
+        "achievement": "A Toronto woman who, according to this photo's caption, saved eight horses from a fire at her Cumberland Street stable \u2014 a small but vivid story of everyday heroism from the horse-powered city."
+      },
+      {
+        "id": "",
+        "title": "Mississauga Horse Church Parade, at Rosedale United Church",
+        "date": "1930",
+        "location": "43.684135,-79.372272",
+        "geocode": {
+          "lat": 43.6841349,
+          "lng": -79.3722719,
+          "address": "",
+          "original_title": "Mississauga Horse Church Parade, at Rosedale United Church"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it20186.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it20186.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 20186",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "May 11, 1930",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Mississauga Horse Church Parade",
+        "lat": 43.6841349,
+        "lng": -79.3722719
+      },
+      {
+        "id": "",
+        "title": "Master Horseshoers' Association of Ontario, eighth annual picnic, Centre Island, Toronto ",
+        "date": "1918",
+        "location": "43.620823,-79.378091",
+        "geocode": {
+          "lat": 43.620823,
+          "lng": -79.3780909,
+          "address": "",
+          "original_title": "Master Horseshoers' Association of Ontario, eighth annual picnic, Centre Island, Toronto"
+        },
+        "image": {
+          "url": "https://static.torontopubliclibrary.ca/da/images/LC/1918-horshoers-vs.jpg",
+          "thumb_url": "https://static.torontopubliclibrary.ca/da/images/LC/1918-horshoers-vs.jpg"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1918",
+          "physical_desc": ""
+        },
+        "name": "Master Horseshoers' Association of Ontario",
+        "lat": 43.620823,
+        "lng": -79.3780909
+      },
+      {
+        "id": "",
+        "title": "Horseback riders, Casa Loma",
+        "date": "1936",
+        "location": "43.67811,-79.409379",
+        "geocode": {
+          "lat": 43.6781104,
+          "lng": -79.4093794,
+          "address": "",
+          "original_title": "Horseback riders, Casa Loma"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it4150.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it4150.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 4150",
+          "condition": "OPEN - No restrictions on these non-government records.Reseachers may not have access to original prints or negatives, but may use the reference prints available in the Research Hall.",
+          "date": "[ca. 1936]",
+          "physical_desc": "1 photoprint : b&w;"
+        },
+        "name": "Horseback riders",
+        "lat": 43.6781104,
+        "lng": -79.4093794
+      },
+      {
+        "id": "",
+        "title": "Horse parade, express wagons, Royal York background",
+        "date": "1929",
+        "location": "43.645907,-79.381512",
+        "geocode": {
+          "lat": 43.645907,
+          "lng": -79.3815116,
+          "address": "",
+          "original_title": "Horse parade, express wagons, Royal York background"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it17132.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it17132.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1266, Item 17132",
+          "condition": "OPEN - No restrictions on these non-government records.To preserve the original negatives, researchers should consult the microfiche reference copies, available in the Research Hall.",
+          "date": "July 1, 1929",
+          "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+        },
+        "name": "Horse parade",
+        "lat": 43.645907,
+        "lng": -79.3815116
+      },
+      {
+        "id": "7706272",
+        "title": "Grenadier Ice & Coal Co., Lakeshore Rd., n. side, e. of Ellis Ave.; showing horses used in ice cutting. ",
+        "date": "1910",
+        "location": "43.636124,-79.465158",
+        "geocode": {
+          "lat": 43.6361237,
+          "lng": -79.46515819999999,
+          "address": "Lake Shore Blvd W & Ellis Ave, Toronto, ON M6S, Canada",
+          "original_title": "Grenadier Ice & Coal Co., Lakeshore Rd., n. side, e. of Ellis Ave.; showing horses used in ice cutting."
+        },
+        "image": {
+          "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2147150/full",
+          "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2147150/preview",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7706272"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1910",
+          "physical_desc": ""
+        },
+        "name": "Grenadier Ice & Coal Co.",
+        "lat": 43.6361237,
+        "lng": -79.46515819999999
+      },
+      {
+        "id": "",
+        "title": "Horse-drawn wagon on Lansdowne Avenue near Davenport Road",
+        "date": "1911",
+        "location": "43.671556,-79.448271",
+        "geocode": {
+          "lat": 43.6715556,
+          "lng": -79.44827099999999,
+          "address": "Lansdowne Ave & Davenport Rd, Toronto, ON M6H, Canada",
+          "original_title": "Horse-drawn wagon on Lansdowne Avenue near Davenport Road"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0037.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0037.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1244, Item 37",
+          "condition": "OPEN - No restrictions on these non-government records.",
+          "date": "1911",
+          "physical_desc": "3 photoprints : b&w; ; 12 x 16 cm and 12 x 16 and 20 x 25 cm. \u2014 1 photonegative : b&w; ; 10 x 12 cm"
+        },
+        "name": "Horse-drawn wagon on Lansdowne Avenue near Davenport Road",
+        "lat": 43.6715556,
+        "lng": -79.44827099999999
+      }
+    ]
+  },
+  "circus": {
+    "label": "Circus & Big Top",
+    "icon": "\ud83c\udfaa",
+    "note": "Travelling circus acts \u2014 elephants, tigers, trapeze artists, and high-divers \u2014 that performed at Maple Leaf Gardens in the 1940s, plus a parade of circus elephants making their way to Dufferin Park Race Track.",
+    "animals": [
+      {
+        "id": "",
+        "title": "Elephants in circus, Maple Leaf Gardens",
+        "date": "1940",
+        "location": "43.662192,-79.38029",
+        "geocode": {
+          "lat": 43.6621919,
+          "lng": -79.3802902,
+          "address": "",
+          "original_title": "Elephants in circus, Maple Leaf Gardens"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it7356.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it7356.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 7356",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "[194-?]",
+          "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+        },
+        "name": "Elephants",
+        "lat": 43.6621919,
+        "lng": -79.3802902
+      },
+      {
+        "id": "",
+        "title": "Tiger act in circus, Maple Leaf Gardens",
+        "date": "1940",
+        "location": "43.662192,-79.38029",
+        "geocode": {
+          "lat": 43.6621919,
+          "lng": -79.3802902,
+          "address": "",
+          "original_title": "Tiger act in circus, Maple Leaf Gardens"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it7358.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it7358.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 7358",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "[194-]",
+          "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+        },
+        "name": "Tiger act",
+        "lat": 43.6621919,
+        "lng": -79.3802902
+      },
+      {
+        "id": "",
+        "title": "Trapeze artists in circus, Maple Leaf Gardens",
+        "date": "1940",
+        "location": "43.662192,-79.38029",
+        "geocode": {
+          "lat": 43.6621919,
+          "lng": -79.3802902,
+          "address": "",
+          "original_title": "Trapeze artists in circus, Maple Leaf Gardens"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it7354.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it7354.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 7354",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "[194-?]",
+          "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+        },
+        "name": "Trapeze artists",
+        "lat": 43.6621919,
+        "lng": -79.3802902
+      },
+      {
+        "id": "",
+        "title": "High diving act in circus, Maple Leaf Gardens",
+        "date": "1940",
+        "location": "43.662192,-79.38029",
+        "geocode": {
+          "lat": 43.6621919,
+          "lng": -79.3802902,
+          "address": "",
+          "original_title": "High diving act in circus, Maple Leaf Gardens"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it7352.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it7352.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 7352",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "[194-?]",
+          "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+        },
+        "name": "High diving act",
+        "lat": 43.6621919,
+        "lng": -79.3802902
+      },
+      {
+        "id": "",
+        "title": "Acrobat on horse in circus, Maple Leaf Gardens",
+        "date": "1940",
+        "location": "43.662192,-79.38029",
+        "geocode": {
+          "lat": 43.6621919,
+          "lng": -79.3802902,
+          "address": "",
+          "original_title": "Acrobat on horse in circus, Maple Leaf Gardens"
+        },
+        "image": {
+          "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it7357.jpg",
+          "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it7357.jpg"
+        },
+        "archives_fields": {
+          "citation": "Fonds 1257, Series 1057, Item 7357",
+          "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons, and therefore may not be requested for viewing in the Research Hall. ",
+          "date": "[194-?]",
+          "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+        },
+        "name": "Acrobat on horse",
+        "lat": 43.6621919,
+        "lng": -79.3802902
+      },
+      {
+        "id": "7690665",
+        "title": "Circus; elephants, on way to Dufferin Park Race Track, perhaps on Brock Ave. ",
+        "date": "1920",
+        "location": "43.657563,-79.433979",
+        "geocode": {
+          "lat": 43.6575626,
+          "lng": -79.4339786,
+          "address": "",
+          "original_title": "Circus; elephants, on way to Dufferin Park Race Track, perhaps on Brock Ave."
+        },
+        "image": {
+          "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2120537.jpg",
+          "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2120537.jpg",
+          "pageUrl": "https://digitalarchive.tpl.ca/objects/7690665"
+        },
+        "archives_fields": {
+          "citation": "",
+          "condition": "",
+          "date": "1920",
+          "physical_desc": ""
+        },
+        "name": "Circus; elephants",
+        "lat": 43.6575626,
+        "lng": -79.4339786
+      }
+    ]
+  }
+}
