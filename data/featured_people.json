@@ -2,17 +2,17 @@
   "howard-john-george": {
     "id": "howard-john-george",
     "name": "John George Howard",
-    "years": "1803\u20131890",
+    "years": "1803–1890",
     "title": "Architect, Surveyor & Founder of High Park",
-    "icon": "\ud83c\udfd8\ufe0f",
-    "bio": "Born John Corby in Hertfordshire, England, Howard emigrated to York (Toronto) in 1832 and changed his name soon after. He became the first professional architect in Upper Canada, the city's official surveyor (1843\u20131855), and a teacher at Upper Canada College. He laid out the Esplanade and subdivided Toronto Island, designed dozens of homes, churches and public buildings, and in 1873 donated the land that became High Park \u2014 where he and his wife Jemima are buried near the home he built, Colborne Lodge.",
+    "icon": "🏘️",
+    "bio": "Born John Corby in Hertfordshire, England, Howard emigrated to York (Toronto) in 1832 and changed his name soon after. He became the first professional architect in Upper Canada, the city's official surveyor (1843–1855), and a teacher at Upper Canada College. He laid out the Esplanade and subdivided Toronto Island, designed dozens of homes, churches and public buildings, and in 1873 donated the land that became High Park — where he and his wife Jemima are buried near the home he built, Colborne Lodge.",
     "source": "Dictionary of Canadian Biography / Biographical Dictionary of Architects in Canada",
     "stops": [
       {
         "id": "colborne-lodge",
         "name": "Colborne Lodge",
-        "years": "Built 1836\u201337",
-        "role": "His home, where he died in 1890 \u2014 now a museum",
+        "years": "Built 1836–37",
+        "role": "His home, where he died in 1890 — now a museum",
         "lat": 43.6403622,
         "lng": -79.459996,
         "address": "Colborne Lodge Drive, High Park, Toronto",
@@ -37,7 +37,7 @@
               "citation": "Fonds 1231, Item 87",
               "condition": "OPEN - No restrictions on these non-government records.",
               "date": "1912",
-              "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. \u2014 1 photonegative : b&w; ; 13 x 18 cm"
+              "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm. — 1 photonegative : b&w; ; 13 x 18 cm"
             }
           },
           {
@@ -67,8 +67,8 @@
       {
         "id": "provincial-lunatic-asylum",
         "name": "Provincial Lunatic Asylum",
-        "years": "Designed & built 1845\u201349",
-        "role": "His major architectural work \u2014 demolished 1976",
+        "years": "Designed & built 1845–49",
+        "role": "His major architectural work — demolished 1976",
         "lat": 43.644171,
         "lng": -79.4188508,
         "address": "Queen St W, opposite Ossington Ave, Toronto",
@@ -102,11 +102,11 @@
         "id": "bank-of-british-north-america",
         "name": "Bank of British North America",
         "years": "Built 1845",
-        "role": "Commercial commission \u2014 demolished 1871",
+        "role": "Commercial commission — demolished 1871",
         "lat": 43.6478466,
         "lng": -79.3773466,
         "address": "Northeast corner of Yonge & Wellington Streets, Toronto",
-        "description": "One of Howard's commercial commissions from the busiest period of his practice in the 1830s\u201340s, when he designed buildings ranging from labourers' cottages to banks and government offices.",
+        "description": "One of Howard's commercial commissions from the busiest period of his practice in the 1830s–40s, when he designed buildings ranging from labourers' cottages to banks and government offices.",
         "images": [
           {
             "id": "",
@@ -136,18 +136,18 @@
         "id": "chewetts-block",
         "name": "Chewett's Block",
         "years": "Built 1833",
-        "role": "One of his earliest Toronto commissions \u2014 demolished 1946",
+        "role": "One of his earliest Toronto commissions — demolished 1946",
         "lat": 43.6488,
         "lng": -79.3781,
         "address": "Southeast corner of York & King Streets, Toronto (later site of the Standard Life Centre)",
-        "description": "Among the first buildings Howard designed after arriving in York in 1832\u201333, in the wide range of late-Georgian styles typical of his early Toronto practice.",
+        "description": "Among the first buildings Howard designed after arriving in York in 1832–33, in the wide range of late-Georgian styles typical of his early Toronto practice.",
         "images": []
       },
       {
         "id": "home-district-gaol",
         "name": "Home District Gaol",
-        "years": "Built 1837\u201341",
-        "role": "Toronto's third jail \u2014 demolished 1887",
+        "years": "Built 1837–41",
+        "role": "Toronto's third jail — demolished 1887",
         "lat": 43.6502,
         "lng": -79.3645,
         "address": "Southeast corner of Front & Berkeley Streets, Toronto",
@@ -162,7 +162,7 @@
         "lat": 43.670526,
         "lng": -79.368163,
         "address": "635 Parliament Street, north of Wellesley Street East, Toronto",
-        "description": "Howard surveyed and laid out St James' Cemetery in 1844 \u2014 an early Toronto example of the 'picturesque' landscape planning style, in contrast to the gridiron subdivisions he carried out elsewhere in the city.",
+        "description": "Howard surveyed and laid out St James' Cemetery in 1844 — an early Toronto example of the 'picturesque' landscape planning style, in contrast to the gridiron subdivisions he carried out elsewhere in the city.",
         "images": []
       }
     ]
@@ -170,17 +170,17 @@
   "william-thomas": {
     "id": "william-thomas",
     "name": "William Thomas",
-    "years": "c.1799\u20131860",
+    "years": "c.1799–1860",
     "title": "Architect, Engineer & Founding President of the Toronto Society of Arts",
-    "icon": "\u26ea",
-    "bio": "Born in Suffolk, England, Thomas trained as a carpenter-joiner and builder before becoming an architect, working two decades in Leamington Spa before a building-trade depression sent him to Toronto in 1843. In under two decades he designed and supervised over 100 buildings across Ontario \u2014 including some of Toronto's most important 19th-century landmarks \u2014 and trained the next generation of architects, including William George Storm. He was a founding president of the Toronto Society of Arts (1847) and, when Howard travelled to England in 1853, served as city engineer in his place, overseeing work on the Esplanade.",
+    "icon": "⛪",
+    "bio": "Born in Suffolk, England, Thomas trained as a carpenter-joiner and builder before becoming an architect, working two decades in Leamington Spa before a building-trade depression sent him to Toronto in 1843. In under two decades he designed and supervised over 100 buildings across Ontario — including some of Toronto's most important 19th-century landmarks — and trained the next generation of architects, including William George Storm. He was a founding president of the Toronto Society of Arts (1847) and, when Howard travelled to England in 1853, served as city engineer in his place, overseeing work on the Esplanade.",
     "source": "Dictionary of Canadian Biography / Canadian Encyclopedia",
     "stops": [
       {
         "id": "oakham-house",
         "name": "Oakham House",
         "years": "Built 1848",
-        "role": "His own house and office \u2014 now part of Toronto Metropolitan University",
+        "role": "His own house and office — now part of Toronto Metropolitan University",
         "lat": 43.6581909,
         "lng": -79.3778192,
         "address": "Church St & Gould St, Toronto",
@@ -215,7 +215,7 @@
         "id": "st-lawrence-hall",
         "name": "St. Lawrence Hall",
         "years": "Built 1850",
-        "role": "Civic meeting hall, market annex, and concert venue \u2014 still in use",
+        "role": "Civic meeting hall, market annex, and concert venue — still in use",
         "lat": 43.6501667,
         "lng": -79.3721787,
         "address": "King St E & Jarvis St, Toronto",
@@ -248,12 +248,12 @@
       {
         "id": "st-michaels-cathedral",
         "name": "St. Michael's Cathedral",
-        "years": "Built 1845\u201348",
+        "years": "Built 1845–48",
         "role": "Gothic Revival cathedral, seat of the Archdiocese of Toronto",
         "lat": 43.6545729,
         "lng": -79.377599,
         "address": "Bond St & Shuter St, Toronto",
-        "description": "A leading example of Thomas's Gothic Revival church work \u2014 the kind of ecclesiastical commission that made him, in his own generation, the chief proponent of the style in Canada.",
+        "description": "A leading example of Thomas's Gothic Revival church work — the kind of ecclesiastical commission that made him, in his own generation, the chief proponent of the style in Canada.",
         "images": [
           {
             "id": "",
@@ -274,7 +274,7 @@
               "citation": "Fonds 1231, Item 88",
               "condition": "OPEN - No restrictions on these non-government records.",
               "date": "June 1, 1925",
-              "physical_desc": "1 photoprint : b&w; ; 18 x 13 cm. \u2014 1 photonegative : b&w; ; 18 x 13 cm"
+              "physical_desc": "1 photoprint : b&w; ; 18 x 13 cm. — 1 photonegative : b&w; ; 18 x 13 cm"
             }
           }
         ]
@@ -283,11 +283,11 @@
         "id": "don-jail",
         "name": "The Don Jail",
         "years": "Designed 1858, completed 1864 (after his death)",
-        "role": "Toronto's most architecturally ambitious 19th-century jail \u2014 now an office building",
+        "role": "Toronto's most architecturally ambitious 19th-century jail — now an office building",
         "lat": 43.6661646,
         "lng": -79.3529099,
         "address": "550 Gerrard St E, Toronto",
-        "description": "Thomas's design for a new Toronto jail was completed four years after his death in 1860, with William George Storm \u2014 his former apprentice and Cumberland's partner \u2014 overseeing construction. The building operated as a jail until 1977 and has since been restored as part of the Bridgepoint Health campus.",
+        "description": "Thomas's design for a new Toronto jail was completed four years after his death in 1860, with William George Storm — his former apprentice and Cumberland's partner — overseeing construction. The building operated as a jail until 1977 and has since been restored as part of the Bridgepoint Health campus.",
         "images": [],
         "external_link": "https://en.wikipedia.org/wiki/Don_Jail"
       }
@@ -296,21 +296,21 @@
   "frederic-cumberland": {
     "id": "frederic-cumberland",
     "name": "Frederic W. Cumberland",
-    "years": "1820\u20131881",
+    "years": "1820–1881",
     "title": "Architect, Engineer & Railway Manager",
-    "icon": "\ud83c\udf93",
-    "bio": "Born in London, England, Cumberland trained as an architect through the British Admiralty's Civil Architects Department before emigrating to Toronto in 1847. In partnership first with Thomas Ridout and then with William George Storm \u2014 himself trained under William Thomas \u2014 Cumberland designed many of Toronto's most significant Victorian-era buildings. He won the competition for St James' Cathedral in open contest against ten other entrants in 1849, and later balanced his architectural career with work as chief engineer and managing director of the Northern Railway, eventually leaving architecture for railways and politics, serving in both the Ontario legislature and the House of Commons.",
+    "icon": "🎓",
+    "bio": "Born in London, England, Cumberland trained as an architect through the British Admiralty's Civil Architects Department before emigrating to Toronto in 1847. In partnership first with Thomas Ridout and then with William George Storm — himself trained under William Thomas — Cumberland designed many of Toronto's most significant Victorian-era buildings. He won the competition for St James' Cathedral in open contest against ten other entrants in 1849, and later balanced his architectural career with work as chief engineer and managing director of the Northern Railway, eventually leaving architecture for railways and politics, serving in both the Ontario legislature and the House of Commons.",
     "source": "Dictionary of Canadian Biography / Canadian Encyclopedia",
     "stops": [
       {
         "id": "cumberland-house",
         "name": "Cumberland House (\"Pendarves\")",
         "years": "Built 1860",
-        "role": "His home for 21 years \u2014 later a vice-regal residence, now U of T's International Student Centre",
+        "role": "His home for 21 years — later a vice-regal residence, now U of T's International Student Centre",
         "lat": 43.6586878,
         "lng": -79.3960227,
         "address": "College St & St George St, Toronto",
-        "description": "Cumberland built this Italianate villa while working on the nearby University College, and lived here for the last third of his life \u2014 during which he was elected to the first Ontario legislature (1867) and then to the House of Commons (1871). After 1912 it served as a temporary vice-regal residence; it is now the University of Toronto's International Student Centre.",
+        "description": "Cumberland built this Italianate villa while working on the nearby University College, and lived here for the last third of his life — during which he was elected to the first Ontario legislature (1867) and then to the House of Commons (1871). After 1912 it served as a temporary vice-regal residence; it is now the University of Toronto's International Student Centre.",
         "images": [
           {
             "id": "7700143",
@@ -340,12 +340,12 @@
       {
         "id": "university-college",
         "name": "University College",
-        "years": "Built 1856\u201359",
-        "role": "His masterwork \u2014 the founding college of the University of Toronto",
+        "years": "Built 1856–59",
+        "role": "His masterwork — the founding college of the University of Toronto",
         "lat": 43.6628381,
         "lng": -79.3958562,
         "address": "15 King's College Circle, Toronto",
-        "description": "Designed with William George Storm in a Norman Romanesque style with irregular massing and skillful stone-carving, University College is considered Cumberland's single best-known and most accomplished work \u2014 by one account, his last personal design before turning to railway management.",
+        "description": "Designed with William George Storm in a Norman Romanesque style with irregular massing and skillful stone-carving, University College is considered Cumberland's single best-known and most accomplished work — by one account, his last personal design before turning to railway management.",
         "images": [
           {
             "id": "",
@@ -379,7 +379,7 @@
         "lat": 43.6492127,
         "lng": -79.3737139,
         "address": "King St E & Church St, Toronto",
-        "description": "Cumberland won the commission for St James' Cathedral in open competition against ten other entrants in 1849 \u2014 his first major Toronto building, and the start of his architectural career in the city. Cumberland & Storm later completed the cathedral's tower and spire.",
+        "description": "Cumberland won the commission for St James' Cathedral in open competition against ten other entrants in 1849 — his first major Toronto building, and the start of his architectural career in the city. Cumberland & Storm later completed the cathedral's tower and spire.",
         "images": [
           {
             "id": "",
@@ -408,7 +408,7 @@
       {
         "id": "osgoode-hall",
         "name": "Osgoode Hall",
-        "years": "Centre Block reconstruction, 1857\u201360",
+        "years": "Centre Block reconstruction, 1857–60",
         "role": "Home of the Law Society of Ontario and the Ontario courts",
         "lat": 43.6521026,
         "lng": -79.3855358,
@@ -442,8 +442,8 @@
       {
         "id": "stewart-observatory",
         "name": "Stewart Observatory",
-        "years": "Built 1853\u201357",
-        "role": "Originally the Toronto Magnetic & Meteorological Observatory \u2014 one of Canada's first purpose-built scientific observatories",
+        "years": "Built 1853–57",
+        "role": "Originally the Toronto Magnetic & Meteorological Observatory — one of Canada's first purpose-built scientific observatories",
         "lat": 43.6639256,
         "lng": -79.3944745,
         "address": "12 Hart House Circle, Toronto",
@@ -478,17 +478,17 @@
   "henry-pellatt": {
     "id": "henry-pellatt",
     "name": "Sir Henry Pellatt",
-    "years": "1859\u20131939",
+    "years": "1859–1939",
     "title": "Financier, Soldier & Builder of Casa Loma",
-    "icon": "\ud83c\udff0",
-    "bio": "Born in Kingston and raised in Toronto, Pellatt joined his father's stockbroking firm as a young man and built one of early 20th-century Canada's great fortunes \u2014 by 1901 he chaired 21 companies spanning mining, insurance, real estate, and electricity, and in 1902 his consortium built the first hydroelectric generating station at Niagara Falls, earning him a reputation as 'the man who lit up Toronto.' In parallel, he rose through the ranks of the Queen's Own Rifles of Canada, which he had joined as a private at 17 and commanded from 1901; his decades of personal financial support for the regiment \u2014 including funding a 600-man trip to England for its 50th anniversary in 1910 \u2014 earned him a knighthood in 1905. Starting in 1911, with a fortune estimated at $17 million, he spent lavishly to build Casa Loma, a 98-room castle designed by architect E.J. Lennox. The First World War and the provincial expropriation of his electric power business left him deeply in debt; he and Lady Pellatt left Casa Loma in 1923, and in 1933 its remaining contents were auctioned off for a fraction of their value. He died in 1939 in a modest Mimico apartment he shared with his former chauffeur, and was given a full military funeral by the regiment he had devoted his life to.",
+    "icon": "🏰",
+    "bio": "Born in Kingston and raised in Toronto, Pellatt joined his father's stockbroking firm as a young man and built one of early 20th-century Canada's great fortunes — by 1901 he chaired 21 companies spanning mining, insurance, real estate, and electricity, and in 1902 his consortium built the first hydroelectric generating station at Niagara Falls, earning him a reputation as 'the man who lit up Toronto.' In parallel, he rose through the ranks of the Queen's Own Rifles of Canada, which he had joined as a private at 17 and commanded from 1901; his decades of personal financial support for the regiment — including funding a 600-man trip to England for its 50th anniversary in 1910 — earned him a knighthood in 1905. Starting in 1911, with a fortune estimated at $17 million, he spent lavishly to build Casa Loma, a 98-room castle designed by architect E.J. Lennox. The First World War and the provincial expropriation of his electric power business left him deeply in debt; he and Lady Pellatt left Casa Loma in 1923, and in 1933 its remaining contents were auctioned off for a fraction of their value. He died in 1939 in a modest Mimico apartment he shared with his former chauffeur, and was given a full military funeral by the regiment he had devoted his life to.",
     "source": "Dictionary of Canadian Biography / Wikipedia / Queen's Own Rifles of Canada Regimental Museum",
     "stops": [
       {
         "id": "casa-loma",
         "name": "Casa Loma",
-        "years": "Built 1911\u20131914",
-        "role": "His castle, designed by architect E.J. Lennox \u2014 now a museum and one of Toronto's top tourist attractions",
+        "years": "Built 1911–1914",
+        "role": "His castle, designed by architect E.J. Lennox — now a museum and one of Toronto's top tourist attractions",
         "lat": 43.6781104,
         "lng": -79.4093794,
         "address": "1 Austin Terrace, Toronto",
@@ -548,7 +548,7 @@
         "lat": 43.6523632,
         "lng": -79.3867798,
         "address": "University Ave, Toronto (since demolished)",
-        "description": "Pellatt enlisted in the Queen's Own Rifles as a private at 17 in 1876, commanded the regiment from 1901 to 1912, and was promoted to Major-General on his retirement. When he died in 1939, the regiment gave him a full military funeral at its University Avenue armoury \u2014 a fitting send-off for the man whose decades of personal spending had turned it into one of Canada's most ceremonially prominent militia regiments.",
+        "description": "Pellatt enlisted in the Queen's Own Rifles as a private at 17 in 1876, commanded the regiment from 1901 to 1912, and was promoted to Major-General on his retirement. When he died in 1939, the regiment gave him a full military funeral at its University Avenue armoury — a fitting send-off for the man whose decades of personal spending had turned it into one of Canada's most ceremonially prominent militia regiments.",
         "images": [
           {
             "id": "",
@@ -616,7 +616,7 @@
         "lat": 43.6464999,
         "lng": -79.4998378,
         "address": "Park Lawn Rd & The Queensway, Etobicoke",
-        "description": "After his military funeral, Pellatt was interred in the Forest Lawn Mausoleum at Park Lawn Cemetery, in a crypt below that of Lady Mary Pellatt, who had died in 1924 \u2014 their resting places mirroring, in death, the public partnership that had defined Casa Loma's heyday.",
+        "description": "After his military funeral, Pellatt was interred in the Forest Lawn Mausoleum at Park Lawn Cemetery, in a crypt below that of Lady Mary Pellatt, who had died in 1924 — their resting places mirroring, in death, the public partnership that had defined Casa Loma's heyday.",
         "images": [
           {
             "id": "",
@@ -647,10 +647,10 @@
   "adam-beck": {
     "id": "adam-beck",
     "name": "Sir Adam Beck",
-    "years": "1857\u20131925",
+    "years": "1857–1925",
     "title": "Founder & Chairman of Ontario Hydro",
-    "icon": "\u26a1",
-    "bio": "Born in Baden, Canada West, to a German immigrant foundryman, Beck made his early fortune manufacturing cigar boxes before entering politics as mayor of London, Ontario, and an MPP. Campaigning on the slogan 'Power at Cost' and the promise that 'the poorest working man will have electric light in his home,' he convinced Premier James Whitney to create the Hydro-Electric Power Commission of Ontario in 1906, with Beck as its first and only chairman until his death. His public utility competed directly with Toronto's private power companies \u2014 including Sir Henry Pellatt's Electrical Development Company \u2014 and in the winter of 1907\u20138 Toronto voters approved by-laws to buy power from Hydro instead. A 110,000-volt transmission line from Niagara Falls to Toronto opened in 1910, and in 1920 Ontario Hydro purchased the Toronto Power Plant and Toronto Electric Light Company outright, ending the 'Hydro Wars' and Pellatt's electricity business for good. Knighted in 1914, Beck died in 1925 having built what was then the largest publicly owned power utility in the world; the Sir Adam Beck generating stations at Niagara Falls carry his name today.",
+    "icon": "⚡",
+    "bio": "Born in Baden, Canada West, to a German immigrant foundryman, Beck made his early fortune manufacturing cigar boxes before entering politics as mayor of London, Ontario, and an MPP. Campaigning on the slogan 'Power at Cost' and the promise that 'the poorest working man will have electric light in his home,' he convinced Premier James Whitney to create the Hydro-Electric Power Commission of Ontario in 1906, with Beck as its first and only chairman until his death. His public utility competed directly with Toronto's private power companies — including Sir Henry Pellatt's Electrical Development Company — and in the winter of 1907–8 Toronto voters approved by-laws to buy power from Hydro instead. A 110,000-volt transmission line from Niagara Falls to Toronto opened in 1910, and in 1920 Ontario Hydro purchased the Toronto Power Plant and Toronto Electric Light Company outright, ending the 'Hydro Wars' and Pellatt's electricity business for good. Knighted in 1914, Beck died in 1925 having built what was then the largest publicly owned power utility in the world; the Sir Adam Beck generating stations at Niagara Falls carry his name today.",
     "source": "Dictionary of Canadian Biography / The Canadian Encyclopedia / Wikipedia",
     "stops": [
       {
@@ -661,7 +661,7 @@
         "lat": 43.6535702,
         "lng": -79.3839426,
         "address": "60 Queen St W, Toronto",
-        "description": "After Toronto voters approved buying power from Beck's Hydro-Electric Power Commission over the private Electrical Development Company, the new 110,000-volt line from Niagara Falls reached the city in 1911 \u2014 marked here by an inauguration ceremony at City Hall, the public triumph of Beck's 'Power at Cost' campaign.",
+        "description": "After Toronto voters approved buying power from Beck's Hydro-Electric Power Commission over the private Electrical Development Company, the new 110,000-volt line from Niagara Falls reached the city in 1911 — marked here by an inauguration ceremony at City Hall, the public triumph of Beck's 'Power at Cost' campaign.",
         "images": [
           {
             "id": "",
@@ -682,7 +682,7 @@
               "citation": "Fonds 1244, Item 323L",
               "condition": "OPEN - No restrictions on these non-government records.",
               "date": "May 2, 1911",
-              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. \u2014 1 photonegative : b&w; ; 10 x 12 cm"
+              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
             }
           }
         ]
@@ -695,7 +695,7 @@
         "lat": 43.659884,
         "lng": -79.390349,
         "address": "620 University Ave, Toronto",
-        "description": "The Hydro-Electric Power Commission of Ontario \u2014 later Ontario Hydro \u2014 grew under Beck's chairmanship (1906\u20131925) into the largest publicly owned power utility in the world, eventually headquartered in this building on University Avenue.",
+        "description": "The Hydro-Electric Power Commission of Ontario — later Ontario Hydro — grew under Beck's chairmanship (1906–1925) into the largest publicly owned power utility in the world, eventually headquartered in this building on University Avenue.",
         "images": [
           {
             "id": "",
@@ -729,7 +729,7 @@
         "lat": 43.6800939,
         "lng": -79.2969364,
         "address": "22 Walter Ave, Toronto",
-        "description": "This portrait of Beck by artist Francis J. Hassby was made in 1926, the year after his death \u2014 part of the wave of public commemoration for a man one magazine later called 'idolized, feared and hated' but undeniably one of the most consequential figures in Ontario's history.",
+        "description": "This portrait of Beck by artist Francis J. Hassby was made in 1926, the year after his death — part of the wave of public commemoration for a man one magazine later called 'idolized, feared and hated' but undeniably one of the most consequential figures in Ontario's history.",
         "images": [
           {
             "id": "",
@@ -760,10 +760,10 @@
   "frederick-banting": {
     "id": "frederick-banting",
     "name": "Sir Frederick Banting",
-    "years": "1891\u20131941",
+    "years": "1891–1941",
     "title": "Co-discoverer of Insulin, Nobel Laureate",
-    "icon": "\ud83d\udc89",
-    "bio": "Born on a farm near Alliston, Ontario, Banting trained in medicine at the University of Toronto and served as a battlefield surgeon in the First World War, earning the Military Cross. In May 1921, working in physiologist J.J.R. Macleod's lab with medical student Charles Best, he began the experiments that isolated insulin \u2014 first successfully used to treat a diabetic patient in 1922. In 1923 Banting and Macleod shared the Nobel Prize in Physiology or Medicine, the first ever awarded to Canadians and, at 32, the youngest recipient in the category's history. Furious that Macleod rather than Best had been honoured, Banting split his prize money with Best. He became director of the new Banting and Best Department of Medical Research that year, was knighted in 1934, and continued research on problems from cancer to aviation medicine. While serving as a wartime medical liaison officer in 1941, he was killed in a plane crash in Newfoundland at age 49.",
+    "icon": "💉",
+    "bio": "Born on a farm near Alliston, Ontario, Banting trained in medicine at the University of Toronto and served as a battlefield surgeon in the First World War, earning the Military Cross. In May 1921, working in physiologist J.J.R. Macleod's lab with medical student Charles Best, he began the experiments that isolated insulin — first successfully used to treat a diabetic patient in 1922. In 1923 Banting and Macleod shared the Nobel Prize in Physiology or Medicine, the first ever awarded to Canadians and, at 32, the youngest recipient in the category's history. Furious that Macleod rather than Best had been honoured, Banting split his prize money with Best. He became director of the new Banting and Best Department of Medical Research that year, was knighted in 1934, and continued research on problems from cancer to aviation medicine. While serving as a wartime medical liaison officer in 1941, he was killed in a plane crash in Newfoundland at age 49.",
     "source": "Nobel Prize biographical archive / Encyclopaedia Britannica / Canadian Medical Hall of Fame",
     "stops": [
       {
@@ -774,7 +774,7 @@
         "lat": 43.6609326,
         "lng": -79.3933739,
         "address": "1 King's College Circle, Toronto",
-        "description": "In the summer of 1921, Banting and 22-year-old medical student Charles Best worked through the hot months in a small lab in the University of Toronto's Medical Building on this site, extracting insulin from the pancreatic tissue of dogs \u2014 the experiments, carried out with J.J.R. Macleod and James Collip, that led to the 1923 Nobel Prize. Two Heritage Toronto plaques nearby (one at the Banting Institute on Grenville St, one here) commemorate the discovery.",
+        "description": "In the summer of 1921, Banting and 22-year-old medical student Charles Best worked through the hot months in a small lab in the University of Toronto's Medical Building on this site, extracting insulin from the pancreatic tissue of dogs — the experiments, carried out with J.J.R. Macleod and James Collip, that led to the 1923 Nobel Prize. Two Heritage Toronto plaques nearby (one at the Banting Institute on Grenville St, one here) commemorate the discovery.",
         "images": [
           {
             "id": "",
@@ -804,11 +804,11 @@
         "id": "hart-house",
         "name": "Hart House",
         "years": "1923",
-        "role": "Site of a dinner celebrating the Banting\u2013Macleod Nobel Prize",
+        "role": "Site of a dinner celebrating the Banting–Macleod Nobel Prize",
         "lat": 43.6639256,
         "lng": -79.3944745,
         "address": "7 Hart House Circle, Toronto",
-        "description": "Shortly after the Nobel announcement in October 1923 \u2014 news that reportedly sent an enraged Banting driving across Toronto, furious that Macleod had been honoured alongside him rather than Best \u2014 the University of Toronto marked the achievement with a dinner at Hart House.",
+        "description": "Shortly after the Nobel announcement in October 1923 — news that reportedly sent an enraged Banting driving across Toronto, furious that Macleod had been honoured alongside him rather than Best — the University of Toronto marked the achievement with a dinner at Hart House.",
         "images": [
           {
             "id": "",
@@ -907,10 +907,10 @@
   "lester-pearson": {
     "id": "lester-pearson",
     "name": "Lester B. Pearson",
-    "years": "1897\u20131972",
+    "years": "1897–1972",
     "title": "14th Prime Minister of Canada, Nobel Peace Prize Laureate",
-    "icon": "\ud83c\udf41",
-    "bio": "Born in Newtonbrook (now part of Toronto) and raised partly in East York, Pearson served in the First World War before becoming a historian, diplomat, and politician. As Canada's Secretary of State for External Affairs from 1948 to 1957, he was a key figure in founding NATO and, during the 1956 Suez Crisis, proposed creating the United Nations Emergency Force \u2014 the first large-scale UN peacekeeping mission, a model used ever since. For this he was awarded the 1957 Nobel Peace Prize. As Prime Minister from 1963 to 1968, his minority governments introduced universal medicare, the Canada Pension Plan, and in 1965 Canada's red maple leaf flag, which he had championed despite fierce opposition.",
+    "icon": "🍁",
+    "bio": "Born in Newtonbrook (now part of Toronto) and raised partly in East York, Pearson served in the First World War before becoming a historian, diplomat, and politician. As Canada's Secretary of State for External Affairs from 1948 to 1957, he was a key figure in founding NATO and, during the 1956 Suez Crisis, proposed creating the United Nations Emergency Force — the first large-scale UN peacekeeping mission, a model used ever since. For this he was awarded the 1957 Nobel Peace Prize. As Prime Minister from 1963 to 1968, his minority governments introduced universal medicare, the Canada Pension Plan, and in 1965 Canada's red maple leaf flag, which he had championed despite fierce opposition.",
     "source": "Heritage Toronto plaque (83 Bowden Street) / Nobel Prize archive / Library and Archives Canada",
     "stops": [
       {
@@ -921,7 +921,7 @@
         "lat": 43.633751,
         "lng": -79.4192546,
         "address": "Exhibition Place, Toronto",
-        "description": "Photographed touring the CNE with Mayor Nathan Phillips and CNE president Bill Harris in the summer of 1956 \u2014 the same year as the Suez Crisis, whose resolution through Pearson's UN Emergency Force proposal would earn him the Nobel Peace Prize the following year.",
+        "description": "Photographed touring the CNE with Mayor Nathan Phillips and CNE president Bill Harris in the summer of 1956 — the same year as the Suez Crisis, whose resolution through Pearson's UN Emergency Force proposal would earn him the Nobel Peace Prize the following year.",
         "images": [
           {
             "id": "",
@@ -996,9 +996,9 @@
   "timothy-eaton": {
     "id": "timothy-eaton",
     "name": "Timothy Eaton",
-    "years": "1834\u20131907",
+    "years": "1834–1907",
     "title": "Founder of Eaton's Department Store",
-    "icon": "\ud83d\udecd\ufe0f",
+    "icon": "🛍️",
     "bio": "Born in Ballymena, Ireland, Eaton immigrated to Ontario as a young man and, after a failed bakery venture, opened a dry-goods store at 178 Yonge Street in Toronto in 1869. He built it into Canada's largest department store chain by pioneering retail practices that were radical at the time: fixed prices with no haggling, cash only, and a money-back guarantee summed up in the store's famous slogan, 'Goods Satisfactory or Money Refunded.' From 1884, his mail-order catalogue brought big-city department-store goods to rural and Western Canadian households for the first time, reshaping how Canadians shopped for generations. He died in 1907; his widow Margaret and son Sir John Craig Eaton built the Timothy Eaton Memorial Church in his honour, and the company he founded remained a dominant force in Canadian retail until its bankruptcy in 1999.",
     "source": "Wikipedia / Dictionary of Canadian Biography / Heritage Toronto plaque (Eaton's College Street)",
     "stops": [
@@ -1044,7 +1044,7 @@
         "lat": 43.6613693,
         "lng": -79.3830879,
         "address": "Yonge St & College St, Toronto",
-        "description": "This Art Deco store \u2014 today College Park \u2014 opened in 1930 as the company's grand new flagship, a testament to how far the business had grown since Eaton's modest 1869 beginnings.",
+        "description": "This Art Deco store — today College Park — opened in 1930 as the company's grand new flagship, a testament to how far the business had grown since Eaton's modest 1869 beginnings.",
         "images": [
           {
             "id": "",
@@ -1073,12 +1073,12 @@
       {
         "id": "timothy-eaton-memorial-church",
         "name": "Timothy Eaton Memorial Church",
-        "years": "Opened 1909\u20131915",
+        "years": "Opened 1909–1915",
         "role": "Built by his family in his memory; later the site of his son's funeral",
         "lat": 43.6863428,
         "lng": -79.4056085,
         "address": "230 St Clair Ave W, Toronto",
-        "description": "After Timothy Eaton's death in 1907, his widow Margaret and son Sir John Craig Eaton donated the land and funded this Gothic Revival church in his memory, completed in 1915. In 1922, it was also the site of Sir John Craig Eaton's own funeral \u2014 he died at just 45, having expanded his father's company nationally.",
+        "description": "After Timothy Eaton's death in 1907, his widow Margaret and son Sir John Craig Eaton donated the land and funded this Gothic Revival church in his memory, completed in 1915. In 1922, it was also the site of Sir John Craig Eaton's own funeral — he died at just 45, having expanded his father's company nationally.",
         "images": [
           {
             "id": "",
@@ -1099,7 +1099,7 @@
               "citation": "Fonds 1244, Item 1679",
               "condition": "OPEN - No restrictions on these non-government records.To preserve the original prints, researchers should consult the reference photocopies available in the Research Hall.",
               "date": "1909",
-              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. \u2014 1 photonegative : glass, b&w; ; 8 x 11 cm"
+              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. — 1 photonegative : glass, b&w; ; 8 x 11 cm"
             }
           },
           {
@@ -1121,7 +1121,964 @@
               "citation": "Fonds 1244, Item 1020",
               "condition": "OPEN - No restrictions on these non-government records.",
               "date": "1922",
-              "physical_desc": "2 photoprints : b&w; ; 24 x 20 cm. \u2014 1 photonegative : b&w; ; 12 x 10 cm"
+              "physical_desc": "2 photoprints : b&w; ; 24 x 20 cm. — 1 photonegative : b&w; ; 12 x 10 cm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "glenn-gould": {
+    "id": "glenn-gould",
+    "name": "Glenn Gould",
+    "years": "1932–1982",
+    "title": "Pianist & Recording Artist",
+    "icon": "🎹",
+    "bio": "Born in Toronto on September 25, 1932, Glenn Gould became one of the most celebrated pianists of the 20th century. A child prodigy, he gave his first public concert at Eaton Auditorium in 1945 and debuted with the Toronto Symphony Orchestra at age 14. His 1955 recording of Bach's Goldberg Variations brought him worldwide recognition. He famously retired from concert performance in 1964 to focus on studio recording, pioneering a meticulous, deeply personal approach to the craft. Gould died in Toronto on October 4, 1982, just days after his 50th birthday.",
+    "source": "Toronto Archives / Toronto Plaques / Dictionary of Canadian Biography",
+    "stops": [
+      {
+        "id": "southwood-drive",
+        "name": "32 Southwood Drive",
+        "years": "1932–1952",
+        "role": "Childhood home — marked with a bronze plaque",
+        "lat": 43.6742,
+        "lng": -79.2987,
+        "address": "32 Southwood Drive, The Beach, Toronto",
+        "description": "Glenn Gould was born and grew up in this house in The Beach neighbourhood. A bronze plaque marks the site, noting that he gave his first public concert on the organ at Eaton Auditorium on December 12, 1945, and made his debut as a soloist with the Toronto Symphony Orchestra at age 14.",
+        "images": []
+      },
+      {
+        "id": "old-city-hall-ceremony",
+        "name": "Old City Hall — Council Chambers",
+        "years": "1956",
+        "role": "Civic recognition ceremony",
+        "lat": 43.6525218,
+        "lng": -79.381976,
+        "address": "60 Queen Street West, Toronto",
+        "description": "In 1956, Mayor Nathan Phillips presented Glenn Gould with a watch in the Council Chambers of Old City Hall — a civic honour following the international success of his Bach Goldberg Variations recording. Three photographs of this ceremony survive in the City of Toronto Archives (Fonds 1257, Series 1057).",
+        "images": [
+          {
+            "id": "",
+            "title": "Pianist Glenn Gould receives watch from Mayor Nathan Phillips in the Council Chambers, Old City Hall",
+            "date": "1956",
+            "location": "43.652522,-79.381976",
+            "geocode": {
+              "lat": 43.6525218,
+              "lng": -79.381976,
+              "address": "",
+              "original_title": "Pianist Glenn Gould receives watch from Mayor Nathan Phillips in the Council Chambers, Old City Hall"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3068.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3068.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1257, Series 1057, Item 3068",
+              "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons.",
+              "date": "1956",
+              "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Pianist Glenn Gould receives watch from Mayor Nathan Phillips in the Council Chambers, Old City Hall",
+            "date": "1956",
+            "location": "43.652522,-79.381976",
+            "geocode": {
+              "lat": 43.6525218,
+              "lng": -79.381976,
+              "address": "",
+              "original_title": "Pianist Glenn Gould receives watch from Mayor Nathan Phillips in the Council Chambers, Old City Hall"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3069.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3069.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1257, Series 1057, Item 3069",
+              "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons.",
+              "date": "1956",
+              "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Pianist Glenn Gould receives watch from Mayor Nathan Phillips in the Council Chambers, Old City Hall",
+            "date": "1956",
+            "location": "43.652522,-79.381976",
+            "geocode": {
+              "lat": 43.6525218,
+              "lng": -79.381976,
+              "address": "",
+              "original_title": "Pianist Glenn Gould receives watch from Mayor Nathan Phillips in the Council Chambers, Old City Hall"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1257_s1057_it3070.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1257_s1057_it3070.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1257, Series 1057, Item 3070",
+              "condition": "Vinegar syndrome has affected the original film media. It has been frozen for preservation reasons.",
+              "date": "1956",
+              "physical_desc": "1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "st-clair-plaque",
+        "name": "110 St. Clair Avenue West",
+        "years": "Adult residence",
+        "role": "Later home — marked with a bronze plaque",
+        "lat": 43.6882,
+        "lng": -79.3975,
+        "address": "110 St. Clair Avenue West, Toronto",
+        "description": "Gould lived at this address as an adult. A bronze plaque on the building commemorates his residence here.",
+        "images": []
+      },
+      {
+        "id": "glenn-gould-studio-cbc",
+        "name": "Glenn Gould Studio, CBC",
+        "years": "Named 1992",
+        "role": "Broadcasting centre studio named in his honour",
+        "lat": 43.6447,
+        "lng": -79.3892,
+        "address": "250 Front Street West, Toronto",
+        "description": "The CBC's premier recording and performance studio at 250 Front Street West was named the Glenn Gould Studio in his honour. It remains one of Canada's finest acoustic spaces and is used for radio broadcasts, recordings, and live performances.",
+        "images": []
+      }
+    ]
+  },
+  "laura-secord": {
+    "id": "laura-secord",
+    "name": "Laura Secord",
+    "years": "1775–1868",
+    "title": "War of 1812 Heroine",
+    "icon": "🦸",
+    "bio": "Born Laura Ingersoll in Great Barrington, Massachusetts in 1775, Laura Secord emigrated with her family to Upper Canada in 1795 and settled in the Niagara region. In June 1813, during the American occupation of Queenston following the Battle of Queenston Heights, she overheard American officers planning a surprise attack on a British outpost at Beaver Dams. On June 23, 1813, she set out alone on foot — travelling nearly 30 kilometres through difficult terrain — to warn British commander Lieutenant James FitzGibbon. The intelligence contributed to the British and Indigenous victory at the Battle of Beaver Dams. Though largely unrecognized in her lifetime, Secord became a celebrated Canadian hero in the late 19th century. She died in Chippawa (Niagara Falls) in 1868 at the age of 93. The Laura Secord candy company, founded in Toronto in 1913, was named in her honour.",
+    "source": "Dictionary of Canadian Biography / Toronto Public Library Archives",
+    "stops": [
+      {
+        "id": "laura-secord-portrait",
+        "name": "Portrait of Laura Secord",
+        "years": "c. 1910–1930",
+        "role": "Archival portrait",
+        "lat": 43.6532,
+        "lng": -79.3832,
+        "address": "Toronto Reference Library / City of Toronto Archives",
+        "description": "A photographic portrait of Laura Secord held in the City of Toronto Archives (Fonds 1231). The image dates from between 1910 and 1930, likely a reproduction of an earlier likeness made to commemorate her growing legendary status in Canadian history.",
+        "images": [
+          {
+            "id": "",
+            "title": "Portrait of Laura Secord",
+            "date": "1910",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Portrait of Laura Secord"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1231_it1280.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1231_it1280.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1231, Item 1280",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[between 1910 and 1930]",
+              "physical_desc": "1 photoprint : b&w; ; 18 x 13 cm. — 1 photonegative : b&w; ; 18 x 13 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "queenston-dwelling",
+        "name": "Laura Secord's Dwelling, Queenston",
+        "years": "1813",
+        "role": "Home she departed on her famous walk",
+        "lat": 43.1561,
+        "lng": -79.0509,
+        "address": "Queenston, Niagara-on-the-Lake, Ontario",
+        "description": "The house in Queenston from which Laura Secord set out on the night of June 23, 1813. Two photographs from 1913 show the dwelling and its sitting room, taken to mark the centenary of her famous walk. The house became a historic site and was preserved as a museum.",
+        "images": [
+          {
+            "id": "7691303",
+            "title": "Laura Secord's Dwelling in Queenston (Niagara-on-the-Lake, Ontario)",
+            "date": "1913",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Laura Secord's Dwelling in Queenston (Niagara-on-the-Lake, Ontario)."
+            },
+            "image": {
+              "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2121900.jpg",
+              "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2121900.jpg",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7691303"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1913",
+              "physical_desc": ""
+            }
+          },
+          {
+            "id": "7690249",
+            "title": "Sitting-Room of Laura Secord's Dwelling in Queenston (Niagara-on-the-Lake, Ontario)",
+            "date": "1913",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Sitting-Room of Laura Secord's Dwelling in Queenston (Niagara-on-the-Lake, Ontario)"
+            },
+            "image": {
+              "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2119769.jpg",
+              "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2119769.jpg",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7690249"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1913",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "twelve-mile-creek",
+        "name": "Twelve Mile Creek Crossing",
+        "years": "June 23, 1813",
+        "role": "Site of her famous crossing during the walk to warn the British",
+        "lat": 43.1594,
+        "lng": -79.2441,
+        "address": "St. Catharines, Ontario",
+        "description": "A photograph from 1913 marks the spot where Laura Secord crossed the Twelve Mile Creek during her nearly 30-kilometre overnight journey to warn Lieutenant FitzGibbon of the planned American attack. The image was taken to mark the centenary of the event.",
+        "images": [
+          {
+            "id": "7689293",
+            "title": "Where Laura Secord, on the 23rd of June 1813, Crossed the Twelve Mile Creek (St. Catharines, Ontario)",
+            "date": "1913",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Where Laura Secord, on the 23rd of June 1813, Crossed the Twelve Mile Creek (St. Catharines, Ontario)"
+            },
+            "image": {
+              "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2117879.jpg",
+              "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2117879.jpg",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7689293"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1913",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "chippawa-cottage",
+        "name": "Laura Secord's Cottage, Chippawa",
+        "years": "Later life",
+        "role": "Home where she spent her later years and died in 1868",
+        "lat": 43.0604,
+        "lng": -79.0551,
+        "address": "Chippawa, Niagara Falls, Ontario",
+        "description": "After the war, Laura Secord lived in Chippawa (now part of Niagara Falls). Two photographs from 1909 and 1913 show her cottage there. She died in this community in 1868 at the age of 93, largely unrecognized for her wartime service.",
+        "images": [
+          {
+            "id": "",
+            "title": "Laura Secord's House, Chippawa (Niagara Falls), Ont.",
+            "date": "1909",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Laura Secord's House, Chippawa (Niagara Falls), Ont."
+            },
+            "image": {
+              "url": "https://static.torontopubliclibrary.ca/da/images/LC/pictures-r-153.jpg",
+              "thumb_url": "https://static.torontopubliclibrary.ca/da/images/LC/pictures-r-153.jpg"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1909",
+              "physical_desc": ""
+            }
+          },
+          {
+            "id": "",
+            "title": "Laura Secord's Cottage at Chippawa (Niagara Falls, Ontario)",
+            "date": "1913",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Laura Secord's Cottage at Chippawa (Niagara Falls, Ontario)"
+            },
+            "image": {
+              "url": "https://static.torontopubliclibrary.ca/da/images/LC/pictures-r-150.jpg",
+              "thumb_url": "https://static.torontopubliclibrary.ca/da/images/LC/pictures-r-150.jpg"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1913",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "drummond-hill-monument",
+        "name": "Laura Secord Monument, Drummond Hill Cemetery",
+        "years": "c. 1910",
+        "role": "Memorial monument, Niagara Falls",
+        "lat": 43.0862,
+        "lng": -79.0785,
+        "address": "Drummond Hill Cemetery, Niagara Falls, Ontario",
+        "description": "A monument to Laura Secord at Drummond Hill Cemetery in Niagara Falls, photographed around 1910. A second monument was also photographed at Lundy's Lane Cemetery in 1927, both marking her growing recognition as a Canadian hero decades after her death.",
+        "images": [
+          {
+            "id": "",
+            "title": "Laura Secord's Monument, Drummond Hill Cemetery, Niagara Falls, Canada.",
+            "date": "1910",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Laura Secord's Monument, Drummond Hill Cemetery, Niagara Falls, Canada."
+            },
+            "image": {
+              "url": "https://static.torontopubliclibrary.ca/da/images/LC/pcr-1643.jpg",
+              "thumb_url": "https://static.torontopubliclibrary.ca/da/images/LC/pcr-1643.jpg"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1910",
+              "physical_desc": ""
+            }
+          },
+          {
+            "id": "",
+            "title": "Lundy's Lane Cemetery, Laura Secord Monument",
+            "date": "1927",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Lundy's Lane Cemetery, Laura Secord Monument, (Commercial Department)"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/s0071_it5298.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/s0071_it5298.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 16, Series 71, Item 5298",
+              "condition": "OPEN - No restrictions on these government records.",
+              "date": "July 1927",
+              "physical_desc": "1 photoprint : b&w; ; 13 x 18 cm\n1 photonegative : glass, b&w; ; 13 x 18 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "laura-secord-store-holdup",
+        "name": "Laura Secord Store Hold-Up, King & Bay",
+        "years": "1930",
+        "role": "Namesake candy store robbery, Toronto",
+        "lat": 43.6483,
+        "lng": -79.381,
+        "address": "King Street & Bay Street, Toronto",
+        "description": "On June 3, 1930, the Laura Secord candy store at King and Bay Streets in Toronto was robbed. The City of Toronto Archives holds four photographs from the incident: two of the store exterior, a portrait of Police Constable Glover (badge 202) who responded to the scene, and a portrait of the suspect Alex Sturgeon of 541 Carlaw Avenue. The Laura Secord candy company had been founded in Toronto in 1913, named after the War of 1812 heroine.",
+        "images": [
+          {
+            "id": "",
+            "title": "Laura Secord hold-up, King and Bay, store",
+            "date": "1930",
+            "location": "43.651755,-79.366059",
+            "geocode": {
+              "lat": 43.6517547,
+              "lng": -79.3660587,
+              "address": "Ontario St & King St E, Toronto, ON M5A, Canada",
+              "original_title": "Laura Secord hold-up, King and Bay, store"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it20550.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it20550.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 20550",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 3, 1930",
+              "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Laura Secord hold-up, King and Bay, store",
+            "date": "1930",
+            "location": "43.651755,-79.366059",
+            "geocode": {
+              "lat": 43.6517547,
+              "lng": -79.3660587,
+              "address": "Ontario St & King St E, Toronto, ON M5A, Canada",
+              "original_title": "Laura Secord hold-up, King and Bay, store"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it20551.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it20551.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 20551",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 3, 1930",
+              "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Laura Secord hold-up, Police Constable Glover (202) portrait",
+            "date": "1930",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Laura Secord hold-up, Police Constable Glover (202) portrait"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it20552.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it20552.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 20552",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 3, 1930",
+              "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Laura Secord hold-up, Alex Sturgeon, 541 Carlaw Avenue, portrait",
+            "date": "1930",
+            "location": "43.670944,-79.343957",
+            "geocode": {
+              "lat": 43.6709445,
+              "lng": -79.3439571,
+              "address": "541 Carlaw Ave, Toronto, ON M4K 3J6, Canada",
+              "original_title": "Laura Secord hold-up, Alex Sturgeon, 541 Carlaw Avenue, portrait"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it20554.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it20554.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 20554",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 3, 1930",
+              "physical_desc": "1 photonegative : b&w;, safety film ; 10 x 13 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "jubilee-parade",
+        "name": "Jubilee Parade Float",
+        "years": "July 1, 1927",
+        "role": "Laura Secord commemorated in Toronto's Diamond Jubilee parade",
+        "lat": 43.6532,
+        "lng": -79.3832,
+        "address": "Toronto, Ontario",
+        "description": "A photograph from Toronto's Diamond Jubilee parade on July 1, 1927, showing a float or entry commemorating Laura Secord. By this point she had become a firmly established figure in Canadian national mythology, appearing in school curricula, monuments, and public celebrations.",
+        "images": [
+          {
+            "id": "",
+            "title": "Jubilee Parade, \"Laura Secord\", side",
+            "date": "1927",
+            "location": "43.778073,-79.343361",
+            "geocode": {
+              "lat": 43.7780735,
+              "lng": -79.3433613,
+              "address": "",
+              "original_title": "Jubilee Parade, \"Laura Secord\", side"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1266_it10872.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1266_it10872.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1266, Item 10872",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "July 1, 1927",
+              "physical_desc": "1 photonegative : b&w;, glass ; 9 x 11 cm"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "john-craig-eaton": {
+    "id": "john-craig-eaton",
+    "name": "Sir John Craig Eaton",
+    "years": "1876–1922",
+    "title": "Merchant, Philanthropist & Builder of Ardwold",
+    "icon": "🏛️",
+    "bio": "Born in 1876, John Craig Eaton was the son of retail empire founder Timothy Eaton. After his father's death in 1907, John took over the family business and expanded it dramatically. He was known for his flamboyant philanthropy — donating ambulances, armoured cars, and hospital equipment during the First World War — and was knighted in 1915. In 1909, he built Ardwold, a 50-room mansion on Davenport Road near Casa Loma, named from the Gaelic for 'green hill.' The estate had a conservatory, swimming pool, pipe organ, fountain, and its own private hospital — in which John died of pneumonia in 1922 at just 46. Unable to find a buyer wealthy enough to maintain it, his widow Lady Flora eventually auctioned off the contents and had the mansion demolished in 1936 — its walls were so thick that dynamite was used. The land was subdivided into what is now Ardwold Gate.",
+    "source": "City of Toronto Archives / Toronto Public Library / Dictionary of Canadian Biography",
+    "stops": [
+      {
+        "id": "king-edward-dinner-1907",
+        "name": "King Edward Hotel",
+        "years": "1907",
+        "role": "Complimentary dinner marking John's ascent after Timothy's death",
+        "lat": 43.6491889,
+        "lng": -79.3760624,
+        "address": "37 King Street East, Toronto",
+        "description": "In 1907, following the death of Timothy Eaton, a complimentary dinner was held at the King Edward Hotel in John Craig Eaton's honour, marking his succession as head of the Eaton empire. The archive holds a photograph of the gathering.",
+        "images": [
+          {
+            "id": "",
+            "title": "Complimentary dinner tendered by Sir John Eaton, King Edward Hotel",
+            "date": "1907",
+            "location": "43.649189,-79.376062",
+            "geocode": {
+              "lat": 43.6491889,
+              "lng": -79.3760624,
+              "address": "",
+              "original_title": "Complimentary dinner tendered by Sir John Eaton, King Edward Hotel"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1568_it0478.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1568_it0478.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1568, Item 478",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1907",
+              "physical_desc": "1 photoprint : b&w; ; 21 x 26 cm - 1 photonegative : b&w; ; 11 x 13 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "timothy-eaton-memorial-church-opening",
+        "name": "Timothy Eaton Memorial Church",
+        "years": "1909",
+        "role": "Built in memory of his father — opened the same year John moved into Ardwold",
+        "lat": 43.6863428,
+        "lng": -79.4056085,
+        "address": "230 St. Clair Avenue West, Toronto",
+        "description": "The Timothy Eaton Memorial Church on St. Clair Avenue West was built in memory of the family patriarch and opened in 1909 — the same year John Craig Eaton moved into Ardwold nearby. The archive holds a photograph of the opening ceremony. The church would later host John's own funeral in 1922.",
+        "images": [
+          {
+            "id": "",
+            "title": "Opening of Timothy Eaton Memorial Church",
+            "date": "1909",
+            "location": "43.686343,-79.405608",
+            "geocode": {
+              "lat": 43.6863428,
+              "lng": -79.4056085,
+              "address": "",
+              "original_title": "Opening of Timothy Eaton Memorial Church"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1679.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1679.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1679",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1909",
+              "physical_desc": "1 photoprint : b&w; ; 20 x 25 cm. — 1 photonegative : glass, b&w; ; 8 x 11 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "toronto-general-hospital-ambulance",
+        "name": "Toronto General Hospital",
+        "years": "1910–1912",
+        "role": "Sir John donated ambulances to the hospital",
+        "lat": 43.6586108,
+        "lng": -79.3881449,
+        "address": "200 Elizabeth Street, Toronto",
+        "description": "Sir John Craig Eaton was known for his public philanthropy. He donated ambulances to Toronto General Hospital, photographed here around 1910–1912. His charitable giving extended to armoured cars and military equipment during the First World War.",
+        "images": [
+          {
+            "id": "",
+            "title": "Sir John Craig Eaton with ambulance he gave to Toronto General Hospital",
+            "date": "1910",
+            "location": "43.658611,-79.388145",
+            "geocode": {
+              "lat": 43.6586108,
+              "lng": -79.3881449,
+              "address": "",
+              "original_title": "Sir John Craig Eaton with ambulance he gave to Toronto General Hospital"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1622.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1622.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1622",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[1910?]",
+              "physical_desc": "1 photoprint : b&w; ; 12 x 17 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Ambulance given to the Toronto General Hospital by Sir John Eaton",
+            "date": "1912",
+            "location": "43.658611,-79.388145",
+            "geocode": {
+              "lat": 43.6586108,
+              "lng": -79.3881449,
+              "address": "",
+              "original_title": "Ambulance given to the Toronto General Hospital by Sir John Eaton"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0057.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0057.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 57",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[between 1912 and 1914]",
+              "physical_desc": "1 photoprint : b&w; ; 12 x 16 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "cne-wartime-philanthropy",
+        "name": "Canadian National Exhibition Grounds",
+        "years": "1912–1915",
+        "role": "WWI philanthropy — armoured cars & meeting the Governor General",
+        "lat": 43.633751,
+        "lng": -79.4192546,
+        "address": "Exhibition Place, Toronto",
+        "description": "During the First World War the CNE grounds served as a military training camp. Sir John Craig Eaton donated armoured cars to the war effort, photographed here in 1915. An earlier photo from 1912 shows him with Governor General the Duke of Connaught at the CNE — the year he was working towards his knighthood, awarded in 1915.",
+        "images": [
+          {
+            "id": "",
+            "title": "Sir John Eaton (left) with Governor General Duke of Connaught, CNE",
+            "date": "1912",
+            "location": "43.633751,-79.419255",
+            "geocode": {
+              "lat": 43.633751,
+              "lng": -79.4192546,
+              "address": "",
+              "original_title": "Sir John Eaton (left) with Governor General Duke of Connaught, CNE"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0935.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0935.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 935",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[1912?]",
+              "physical_desc": "1 photoprint : b&w; ; 11 x 15 cm. — 1 photonegative : glass, b&w; ; 8 x 11 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Armoured cars presented by Sir John Eaton, CNE military camp",
+            "date": "1915",
+            "location": "43.633751,-79.419255",
+            "geocode": {
+              "lat": 43.633751,
+              "lng": -79.4192546,
+              "address": "",
+              "original_title": "Armoured cars presented by Sir John Eaton, CNE military camp"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0857.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0857.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 857",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1915",
+              "physical_desc": "1 photoprint : b&w; ; 12 x 17 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Armoured cars presented by Sir John Eaton, CNE camp",
+            "date": "1915",
+            "location": "43.633751,-79.419255",
+            "geocode": {
+              "lat": 43.633751,
+              "lng": -79.4192546,
+              "address": "",
+              "original_title": "Armoured cars presented by Sir John Eaton, CNE camp"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it0857a.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it0857a.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 857A",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[1915?]",
+              "physical_desc": "1 photoprint : b&w; ; 10 x 16 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ardwold",
+        "name": "Ardwold, Davenport Road",
+        "years": "1909–1936",
+        "role": "The 50-room mansion — demolished by dynamite",
+        "lat": 43.6779636,
+        "lng": -79.4057391,
+        "address": "Davenport Road at Huron Street (now Ardwold Gate), Toronto",
+        "description": "In 1909 Sir John Craig Eaton built Ardwold — Gaelic for 'green hill' — on Davenport Road, next door to Casa Loma. The 50-room mansion included a conservatory, swimming pool, pipe organ, fountain, and a private hospital. John's father Timothy's house in the Annex hadn't appealed to him partly because it had no garage for his Rolls-Royce. After John died of pneumonia in Ardwold's private hospital in 1922, his widow Lady Flora used the estate for some years before moving permanently to Eaton Hall Farm in King City in 1936. The contents were auctioned off and the mansion was demolished — the walls were so thick that dynamite was the easiest solution. The land was subdivided and the new streets named Ardwold Gate. Four photographs from 1922 survive, showing the mansion from multiple angles.",
+        "images": [
+          {
+            "id": "7704289",
+            "title": "Eaton, Sir John Craig, \"Ardwold\", Davenport Road",
+            "date": "1922",
+            "location": "43.677964,-79.405739",
+            "geocode": {
+              "lat": 43.6779636,
+              "lng": -79.4057391,
+              "address": "Davenport Rd & Huron St, Toronto, ON M4V, Canada",
+              "original_title": "Eaton, Sir John Craig, \"Ardwold\", Davenport Road, n. side, w. of opp. Huron St. (in present Ardwold Gate)."
+            },
+            "image": {
+              "url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142498/full",
+              "thumb_url": "https://digitalarchive.tpl.ca/internal/media/dispatcher/2142498/preview",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7704289"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1922",
+              "physical_desc": ""
+            }
+          },
+          {
+            "id": "7699210",
+            "title": "Ardwold, looking north-east",
+            "date": "1922",
+            "location": "43.677964,-79.405739",
+            "geocode": {
+              "lat": 43.6779636,
+              "lng": -79.4057391,
+              "address": "Davenport Rd & Huron St, Toronto, ON M4V, Canada",
+              "original_title": "Eaton, Sir John Craig, 'Ardwold', Davenport Rd., n. side, w. of opp. Huron St. (in present Ardwold Gate); looking n.e."
+            },
+            "image": {
+              "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2132923.jpg",
+              "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2132923.jpg",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7699210"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1922",
+              "physical_desc": ""
+            }
+          },
+          {
+            "id": "7699209",
+            "title": "Ardwold, looking west",
+            "date": "1922",
+            "location": "43.677964,-79.405739",
+            "geocode": {
+              "lat": 43.6779636,
+              "lng": -79.4057391,
+              "address": "Davenport Rd & Huron St, Toronto, ON M4V, Canada",
+              "original_title": "Eaton Sir John Craig, 'Ardwold', Davenport Rd., n. side, w. of opp. Huron St. (in present Ardwold Gate); looking w."
+            },
+            "image": {
+              "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2132921.jpg",
+              "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2132921.jpg",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7699209"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1922",
+              "physical_desc": ""
+            }
+          },
+          {
+            "id": "7699208",
+            "title": "Ardwold, looking north",
+            "date": "1922",
+            "location": "43.677964,-79.405739",
+            "geocode": {
+              "lat": 43.6779636,
+              "lng": -79.4057391,
+              "address": "Davenport Rd & Huron St, Toronto, ON M4V, Canada",
+              "original_title": "Eaton, Sir John Craig, 'Ardwold', Davenport Rd., n. side, w. of opp. Huron St. (in present Ardwold Gate); looking north."
+            },
+            "image": {
+              "url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2132919.jpg",
+              "thumb_url": "https://raw.githubusercontent.com/dataforlibs/old-toronto/main/images_tpl/thumbnails/2132919.jpg",
+              "pageUrl": "https://digitalarchive.tpl.ca/objects/7699208"
+            },
+            "archives_fields": {
+              "citation": "",
+              "condition": "",
+              "date": "1922",
+              "physical_desc": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": "john-eaton-funeral",
+        "name": "Timothy Eaton Memorial Church — Funeral",
+        "years": "1922",
+        "role": "Sir John's funeral, held at the church built in his father's memory",
+        "lat": 43.6863428,
+        "lng": -79.4056085,
+        "address": "230 St. Clair Avenue West, Toronto",
+        "description": "Sir John Craig Eaton died of pneumonia on March 30, 1922, in the private hospital within Ardwold, aged 46. His funeral was held at Timothy Eaton Memorial Church — the same church he had helped open just 13 years earlier. Two photographs of the funeral survive in the City of Toronto Archives.",
+        "images": [
+          {
+            "id": "",
+            "title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church",
+            "date": "1922",
+            "location": "43.686343,-79.405608",
+            "geocode": {
+              "lat": 43.6863428,
+              "lng": -79.4056085,
+              "address": "",
+              "original_title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1020.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1020.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1020",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1922",
+              "physical_desc": "2 photoprints : b&w; ; 24 x 20 cm. — 1 photonegative : b&w; ; 12 x 10 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church",
+            "date": "1922",
+            "location": "43.686343,-79.405608",
+            "geocode": {
+              "lat": 43.6863428,
+              "lng": -79.4056085,
+              "address": "",
+              "original_title": "Sir John Craig Eaton's funeral, Timothy Eaton Memorial Church"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1609.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1609.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1609",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "1922",
+              "physical_desc": "1 photoprint : b&w; ; 12 x 16 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eaton-hall-farm",
+        "name": "Eaton Hall Farm, King City",
+        "years": "1936 onwards",
+        "role": "Lady Flora's country estate — where she moved after Ardwold was demolished",
+        "lat": 43.9617699,
+        "lng": -79.5205963,
+        "address": "King Township, Ontario",
+        "description": "After John's death in 1922, Lady Flora McCrea Eaton continued to use Ardwold for some years, but in 1936 she moved permanently to Eaton Hall Farm in King City. The archive holds five photographs from 1940, including views of the grounds and Lady Flora at a garden party. The estate is now the campus of Seneca College.",
+        "images": [
+          {
+            "id": "",
+            "title": "Lady Eaton (centre) with Mrs. R. Y. Eaton (left) at garden party, Eaton Hall Farm",
+            "date": "1930",
+            "location": "43.96177,-79.520596",
+            "geocode": {
+              "lat": 43.9617699,
+              "lng": -79.5205963,
+              "address": "",
+              "original_title": "Lady Eaton (centre) with Mrs. R. Y. Eaton (left) at garden party, Eaton Hall Farm"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1244_it1631.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1244_it1631.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1244, Item 1631",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "[1930?]",
+              "physical_desc": "1 photoprint : b&w; ; 17 x 22 cm. — 1 photonegative : b&w; ; 10 x 12 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Eaton Hall, country home of Lady (Flora McCrea) Eaton, King Twp. — general view of the grounds",
+            "date": "1940",
+            "location": "43.96177,-79.520596",
+            "geocode": {
+              "lat": 43.9617699,
+              "lng": -79.5205963,
+              "address": "",
+              "original_title": "Eaton Hall, country home of Lady (Flora McCrea) Eaton, King Twp. : general view of the grounds"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1568_it0091.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1568_it0091.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1568, Item 91",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 14, 1940",
+              "physical_desc": "1 photoprint : b&w; ; 21 x 26 cm - 1 photonegative : b&w; ; 21 x 26 cm"
+            }
+          },
+          {
+            "id": "",
+            "title": "Eaton Hall, country home of Lady (Flora McCrea) Eaton, King Twp. — view of grounds and hall",
+            "date": "1940",
+            "location": "43.96177,-79.520596",
+            "geocode": {
+              "lat": 43.9617699,
+              "lng": -79.5205963,
+              "address": "",
+              "original_title": "Eaton Hall, country home of Lady (Flora McCrea) Eaton, King Twp. : View of grounds and hall"
+            },
+            "image": {
+              "url": "https://storage.googleapis.com/sidewalk-old-toronto/images/f1568_it0092.jpg",
+              "thumb_url": "https://storage.googleapis.com/sidewalk-old-toronto/thumbnails/f1568_it0092.jpg"
+            },
+            "archives_fields": {
+              "citation": "Fonds 1568, Item 92",
+              "condition": "OPEN - No restrictions on these non-government records.",
+              "date": "June 14, 1940",
+              "physical_desc": "1 photoprint : b&w; ; 21 x 26 cm - 1 photonegative : b&w; ; 21 x 26 cm"
             }
           }
         ]
